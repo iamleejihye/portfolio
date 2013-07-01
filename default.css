@@ -1,0 +1,148 @@
+/* ==========================================================================
+   Reset
+   ========================================================================== */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+ul,
+li,
+menu,
+button {
+	margin: 0;
+	padding: 0;
+	background-color: transparent;
+}
+
+li {
+	list-style: none;
+}
+
+.blind {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	background: #000;
+	opacity: 0.3;
+	z-index: 1;
+}
+
+input,
+button,
+textarea {
+	border: 0;
+	outline-style: none;
+	resize: none;
+}
+
+.hidden {
+	display: none;
+}
+
+/* ==========================================================================
+   Grid definitions
+   ========================================================================== */
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+}
+
+/* ==========================================================================
+   Button & icon definitions
+   ========================================================================== */
+
+button i {
+	display: inline-block;
+}
+
+a.default,
+button.default {
+	cursor: pointer;
+	padding: 4px 8px;
+	color: #e1e1e1;
+	text-shadow: 0 1px #000;
+	text-decoration: none;
+	font-size: 11px;
+	line-height: 1;
+	font-weight: bolder;
+	border: 1px solid #222;
+	border-radius: 3px;
+	background: #4c4f54;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #4c4f54), color-stop(100%, #35373b));
+	box-shadow: 0 1px 1px #222, inset 0 1px 1px #60646a, inset 0 -1px 1px #333;
+}
+
+a.default:hover,
+button.default:hover {
+	border: 1px solid #111;
+}
+
+a.default:active,
+button.default:active {
+	color: #000;
+	text-shadow: 0 1px #666;
+	background: #292b2e;
+	background: -moz-linear-gradient(top, #292b2e 0%, #292b2e 50%, #45494d 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #292b2e), color-stop(100%, #45494d));
+	box-shadow: 0 1px #444;
+}
+
+/* ==========================================================================
+   Floated definitions
+   ========================================================================== */
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+/* http://sonspring.com/journal/clearing-floats */
+
+.clear {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+
+/* http://www.yuiblog.com/blog/2010/09/27/clearfix-reloaded-overflowhidden-demystified */
+
+.clearfix:before,
+.clearfix:after,
+.container:before,
+.container:after {
+	content: '.';
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	font-size: 0;
+	line-height: 0;
+	width: 0;
+	height: 0;
+}
+
+.clearfix:after,
+.container:after {
+	clear: both;
+}
+
+/*
+  The following zoom:1 rule is specifically for IE6 + IE7.
+  Move to separate stylesheet if invalid CSS is a problem.
+*/
+
+.clearfix,
+.container {
+	zoom: 1;
+}
