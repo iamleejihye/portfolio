@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/message-july20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.coffee" afterPath="$PROJECT_DIR$/index.coffee" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.css" afterPath="$PROJECT_DIR$/portfolio.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374293270353" ignored="false" />
-    <file path="/index.html" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374293446454" ignored="false" />
+    <file path="/Dummy.txt" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374293499528" ignored="false" />
+    <file path="/index.html" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374293678335" ignored="false" />
     <file path="/index.coffee" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374291850702" ignored="false" />
     <file path="$PROJECT_DIR$/../studyroom/lesson2/Leejihye/index.html" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1373223335406" ignored="false" />
     <file path="$PROJECT_DIR$/../studyroom/.idea/libraries/Generated_files.xml" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1373223335406" ignored="false" />
@@ -28,7 +25,7 @@
     <file path="$PROJECT_DIR$/../Backbone-Seminars/C02 - Link/Leejihye/resources/js/app.coffee" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374128430646" ignored="false" />
     <file path="$PROJECT_DIR$/../Backbone-Seminars/C02 - Link/Leejihye/resources/css/app.css" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374127992547" ignored="false" />
     <file path="/app.css" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374127643018" ignored="false" />
-    <file path="/portfolio.css" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374292858464" ignored="false" />
+    <file path="/portfolio.css" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374293662079" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +91,7 @@
           <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="58" column="123" selection-start="2445" selection-end="2445" vertical-scroll-proportion="1.5934066">
+                <state line="70" column="125" selection-start="3196" selection-end="3196" vertical-scroll-proportion="0.83516484">
                   <folding />
                 </state>
               </provider>
@@ -116,7 +113,7 @@
           <file leaf-file-name="portfolio.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/portfolio.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="140" column="19" selection-start="2464" selection-end="2464" vertical-scroll-proportion="0.8824561">
+                <state line="143" column="19" selection-start="2532" selection-end="2532" vertical-scroll-proportion="0.94736844">
                   <folding />
                 </state>
               </provider>
@@ -337,17 +334,22 @@
       <created>1374284244208</created>
       <updated>1374284244208</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="지혜의 포트폴리오 사이트 업로드">
+      <created>1374293506310</created>
+      <updated>1374293506310</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="731" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.159109" sideWeight="0.6743044" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.159109" sideWeight="0.6743044" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -365,7 +367,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -513,7 +514,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="243" column="0" selection-start="6771" selection-end="6771" vertical-scroll-proportion="6.394737" />
+        <state line="243" column="0" selection-start="6771" selection-end="6771" vertical-scroll-proportion="6.394737">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.coffee">
@@ -525,14 +528,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="19" selection-start="2464" selection-end="2464" vertical-scroll-proportion="0.8824561">
+        <state line="143" column="19" selection-start="2532" selection-end="2532" vertical-scroll-proportion="0.94736844">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="123" selection-start="2445" selection-end="2445" vertical-scroll-proportion="1.5934066">
+        <state line="70" column="125" selection-start="3196" selection-end="3196" vertical-scroll-proportion="0.83516484">
           <folding />
         </state>
       </provider>
