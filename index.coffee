@@ -1,104 +1,128 @@
 jQuery ->
+	class LogoView extends Backbone.View
+		tagName: 'div'
+		template: _.template $('#logo').html()
+
+		render: ->
+			@$el.html @template
+			@
+
 	class IllustrationView extends Backbone.View
-		el: $ 'body'
-		events:
-			'click #btn-illustration': 'showIllustration'
+		tagName: 'p'
+		template: _.template $('#illustration').html()
 
-		pages:
-			illustration: _.template $('#illustration').html()
-
-		showIllustration: ->
-			@$('nav').html @pages.illustration
-
-	new IllustrationView
+		render: ->
+			@$el.html @template
+			@
 
 	class BrandingView extends Backbone.View
-		el: $ 'body'
-		events:
-			'click #btn-branding': 'showBranding'
+		tagName: 'p'
+		template: _.template $('#branding').html()
 
-		pages:
-			branding: _.template $('#branding').html()
+		render: ->
+			@$el.html @template
+			@
 
-		showBranding: ->
-			@$('nav').html @pages.branding
-
-	new BrandingView
 
 	class EditorialView extends Backbone.View
-		el: $ 'body'
-		events:
-			'click #btn-editorial': 'showEditorial'
+		tagName: 'p'
+		template: _.template $('#editorial').html()
 
-		pages:
-			editorial: _.template $('#editorial').html()
-
-		showEditorial: ->
-			@$('nav').html @pages.editorial
-
-	new EditorialView
+		render: ->
+			@$el.html @template
+			@
 
 	class WebView extends Backbone.View
-		el: $ 'body'
-		events:
-			'click #btn-web': 'showWeb'
+		tagName: 'p'
+		template: _.template $('#web').html()
 
-		pages:
-			web: _.template $('#web').html()
-
-		showWeb: ->
-			@$('nav').html @pages.web
-
-	new WebView
+		render: ->
+			@$el.html @template
+			@
 
 	class FontView extends Backbone.View
-		el: $ 'body'
-		events:
-			'click #btn-font': 'showFont'
+		tagName: 'p'
+		template: _.template $('#font').html()
 
-		pages:
-			font: _.template $('#font').html()
+		render: ->
+			@$el.html @template
+			@
 
-		showFont: ->
-			@$('nav').html @pages.font
-
-	new FontView
 
 	class ServiceView extends Backbone.View
-		el: $ 'body'
-		events:
-			'click #btn-service': 'showService'
+		tagName: 'p'
+		template: _.template $('#service').html()
 
-		pages:
-			service: _.template $('#service').html()
-
-		showService: ->
-			@$('nav').html @pages.service
-
-	new ServiceView
+		render: ->
+			@$el.html @template
+			@
 
 	class VideoView extends Backbone.View
-		el: $ 'body'
-		events:
-			'click #btn-video': 'showVideo'
+		tagName: 'p'
+		template: _.template $('#video').html()
 
-		pages:
-			video: _.template $('#video').html()
-
-		showVideo: ->
-			@$('nav').html @pages.video
-
-	new VideoView
+		render: ->
+			@$el.html @template
+			@
 
 	class AboutView extends Backbone.View
+		tagName: 'p'
+		template: _.template $('#about').html()
+
+		render: ->
+			@$el.html @template
+			@
+
+	class BodyView extends Backbone.View
 		el: $ 'body'
 		events:
+			'click #btn-logo': 'showLogo'
+			'click #btn-illustration': 'showIllustration'
+			'click #btn-branding': 'showBranding'
+			'click #btn-editorial': 'showEditorial'
+			'click #btn-web': 'showWeb'
+			'click #btn-font': 'showFont'
+			'click #btn-service': 'showService'
+			'click #btn-video': 'showVideo'
 			'click #btn-about': 'showAbout'
 
-		pages:
-			about: _.template $('#about').html()
+		initialize: ->
+			@showLogo()
+
+		showLogo: ->
+			logoView = new LogoView
+			@$('nav').html logoView.render().el
+
+		showIllustration: ->
+			illustrationView = new IllustrationView
+			@$('nav').html illustrationView.render().el
+
+		showBranding: ->
+			brandingView = new BrandingView
+			@$('nav').html brandingView.render().el
+
+		showEditorial: ->
+			editorialView = new EditorialView
+			@$('nav').html editorialView.render().el
+
+		showWeb: ->
+			webView = new WebView
+			@$('nav').html webView.render().el
+
+		showFont: ->
+			fontView = new FontView
+			@$('nav').html fontView.render().el
+
+		showService: ->
+			serviceView = new ServiceView
+			@$('nav').html serviceView.render().el
+
+		showVideo: ->
+			videoView = new VideoView
+			@$('nav').html videoView.render().el
 
 		showAbout: ->
-			@$('nav').html @pages.about
+			aboutView = new AboutView
+			@$('nav').html aboutView.render().el
 
-	new AboutView
+	new BodyView

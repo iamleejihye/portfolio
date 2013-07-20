@@ -8,7 +8,8 @@ section header {
     background-size: cover;
 }
 
-section header #logo {
+section header #btn-logo
+{
     margin-top: 100px;
     margin-left: 98px;
     width: 160px;
@@ -124,4 +125,18 @@ section header #copyright {
 
 section #main:hover {
     background: url(hover_main.png) no-repeat;
+}
+
+section header menu .grey {
+    width: 300px;
+    color: #f36f21;
+}
+
+nav div {
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+nav p {
+    padding: 120px;
 }

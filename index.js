@@ -4,215 +4,271 @@
     __extends = function(child, parent) { for (var key in parent) { if (__hasProp.call(parent, key)) child[key] = parent[key]; } function ctor() { this.constructor = child; } ctor.prototype = parent.prototype; child.prototype = new ctor(); child.__super__ = parent.prototype; return child; };
 
   jQuery(function() {
-    var AboutView, BrandingView, EditorialView, FontView, IllustrationView, ServiceView, VideoView, WebView, _ref, _ref1, _ref2, _ref3, _ref4, _ref5, _ref6, _ref7;
+    var AboutView, BodyView, BrandingView, EditorialView, FontView, IllustrationView, LogoView, ServiceView, VideoView, WebView, _ref, _ref1, _ref2, _ref3, _ref4, _ref5, _ref6, _ref7, _ref8, _ref9;
+    LogoView = (function(_super) {
+      __extends(LogoView, _super);
+
+      function LogoView() {
+        _ref = LogoView.__super__.constructor.apply(this, arguments);
+        return _ref;
+      }
+
+      LogoView.prototype.tagName = 'div';
+
+      LogoView.prototype.template = _.template($('#logo').html());
+
+      LogoView.prototype.render = function() {
+        this.$el.html(this.template);
+        return this;
+      };
+
+      return LogoView;
+
+    })(Backbone.View);
     IllustrationView = (function(_super) {
       __extends(IllustrationView, _super);
 
       function IllustrationView() {
-        _ref = IllustrationView.__super__.constructor.apply(this, arguments);
-        return _ref;
+        _ref1 = IllustrationView.__super__.constructor.apply(this, arguments);
+        return _ref1;
       }
 
-      IllustrationView.prototype.el = $('body');
+      IllustrationView.prototype.tagName = 'p';
 
-      IllustrationView.prototype.events = {
-        'click #btn-illustration': 'showIllustration'
-      };
+      IllustrationView.prototype.template = _.template($('#illustration').html());
 
-      IllustrationView.prototype.pages = {
-        illustration: _.template($('#illustration').html())
-      };
-
-      IllustrationView.prototype.showIllustration = function() {
-        return this.$('nav').html(this.pages.illustration);
+      IllustrationView.prototype.render = function() {
+        this.$el.html(this.template);
+        return this;
       };
 
       return IllustrationView;
 
     })(Backbone.View);
-    new IllustrationView;
     BrandingView = (function(_super) {
       __extends(BrandingView, _super);
 
       function BrandingView() {
-        _ref1 = BrandingView.__super__.constructor.apply(this, arguments);
-        return _ref1;
+        _ref2 = BrandingView.__super__.constructor.apply(this, arguments);
+        return _ref2;
       }
 
-      BrandingView.prototype.el = $('body');
+      BrandingView.prototype.tagName = 'p';
 
-      BrandingView.prototype.events = {
-        'click #btn-branding': 'showBranding'
-      };
+      BrandingView.prototype.template = _.template($('#branding').html());
 
-      BrandingView.prototype.pages = {
-        branding: _.template($('#branding').html())
-      };
-
-      BrandingView.prototype.showBranding = function() {
-        return this.$('nav').html(this.pages.branding);
+      BrandingView.prototype.render = function() {
+        this.$el.html(this.template);
+        return this;
       };
 
       return BrandingView;
 
     })(Backbone.View);
-    new BrandingView;
     EditorialView = (function(_super) {
       __extends(EditorialView, _super);
 
       function EditorialView() {
-        _ref2 = EditorialView.__super__.constructor.apply(this, arguments);
-        return _ref2;
+        _ref3 = EditorialView.__super__.constructor.apply(this, arguments);
+        return _ref3;
       }
 
-      EditorialView.prototype.el = $('body');
+      EditorialView.prototype.tagName = 'p';
 
-      EditorialView.prototype.events = {
-        'click #btn-editorial': 'showEditorial'
-      };
+      EditorialView.prototype.template = _.template($('#editorial').html());
 
-      EditorialView.prototype.pages = {
-        editorial: _.template($('#editorial').html())
-      };
-
-      EditorialView.prototype.showEditorial = function() {
-        return this.$('nav').html(this.pages.editorial);
+      EditorialView.prototype.render = function() {
+        this.$el.html(this.template);
+        return this;
       };
 
       return EditorialView;
 
     })(Backbone.View);
-    new EditorialView;
     WebView = (function(_super) {
       __extends(WebView, _super);
 
       function WebView() {
-        _ref3 = WebView.__super__.constructor.apply(this, arguments);
-        return _ref3;
+        _ref4 = WebView.__super__.constructor.apply(this, arguments);
+        return _ref4;
       }
 
-      WebView.prototype.el = $('body');
+      WebView.prototype.tagName = 'p';
 
-      WebView.prototype.events = {
-        'click #btn-web': 'showWeb'
-      };
+      WebView.prototype.template = _.template($('#web').html());
 
-      WebView.prototype.pages = {
-        web: _.template($('#web').html())
-      };
-
-      WebView.prototype.showWeb = function() {
-        return this.$('nav').html(this.pages.web);
+      WebView.prototype.render = function() {
+        this.$el.html(this.template);
+        return this;
       };
 
       return WebView;
 
     })(Backbone.View);
-    new WebView;
     FontView = (function(_super) {
       __extends(FontView, _super);
 
       function FontView() {
-        _ref4 = FontView.__super__.constructor.apply(this, arguments);
-        return _ref4;
+        _ref5 = FontView.__super__.constructor.apply(this, arguments);
+        return _ref5;
       }
 
-      FontView.prototype.el = $('body');
+      FontView.prototype.tagName = 'p';
 
-      FontView.prototype.events = {
-        'click #btn-font': 'showFont'
-      };
+      FontView.prototype.template = _.template($('#font').html());
 
-      FontView.prototype.pages = {
-        font: _.template($('#font').html())
-      };
-
-      FontView.prototype.showFont = function() {
-        return this.$('nav').html(this.pages.font);
+      FontView.prototype.render = function() {
+        this.$el.html(this.template);
+        return this;
       };
 
       return FontView;
 
     })(Backbone.View);
-    new FontView;
     ServiceView = (function(_super) {
       __extends(ServiceView, _super);
 
       function ServiceView() {
-        _ref5 = ServiceView.__super__.constructor.apply(this, arguments);
-        return _ref5;
+        _ref6 = ServiceView.__super__.constructor.apply(this, arguments);
+        return _ref6;
       }
 
-      ServiceView.prototype.el = $('body');
+      ServiceView.prototype.tagName = 'p';
 
-      ServiceView.prototype.events = {
-        'click #btn-service': 'showService'
-      };
+      ServiceView.prototype.template = _.template($('#service').html());
 
-      ServiceView.prototype.pages = {
-        service: _.template($('#service').html())
-      };
-
-      ServiceView.prototype.showService = function() {
-        return this.$('nav').html(this.pages.service);
+      ServiceView.prototype.render = function() {
+        this.$el.html(this.template);
+        return this;
       };
 
       return ServiceView;
 
     })(Backbone.View);
-    new ServiceView;
     VideoView = (function(_super) {
       __extends(VideoView, _super);
 
       function VideoView() {
-        _ref6 = VideoView.__super__.constructor.apply(this, arguments);
-        return _ref6;
+        _ref7 = VideoView.__super__.constructor.apply(this, arguments);
+        return _ref7;
       }
 
-      VideoView.prototype.el = $('body');
+      VideoView.prototype.tagName = 'p';
 
-      VideoView.prototype.events = {
-        'click #btn-video': 'showVideo'
-      };
+      VideoView.prototype.template = _.template($('#video').html());
 
-      VideoView.prototype.pages = {
-        video: _.template($('#video').html())
-      };
-
-      VideoView.prototype.showVideo = function() {
-        return this.$('nav').html(this.pages.video);
+      VideoView.prototype.render = function() {
+        this.$el.html(this.template);
+        return this;
       };
 
       return VideoView;
 
     })(Backbone.View);
-    new VideoView;
     AboutView = (function(_super) {
       __extends(AboutView, _super);
 
       function AboutView() {
-        _ref7 = AboutView.__super__.constructor.apply(this, arguments);
-        return _ref7;
+        _ref8 = AboutView.__super__.constructor.apply(this, arguments);
+        return _ref8;
       }
 
-      AboutView.prototype.el = $('body');
+      AboutView.prototype.tagName = 'p';
 
-      AboutView.prototype.events = {
-        'click #btn-about': 'showAbout'
-      };
+      AboutView.prototype.template = _.template($('#about').html());
 
-      AboutView.prototype.pages = {
-        about: _.template($('#about').html())
-      };
-
-      AboutView.prototype.showAbout = function() {
-        return this.$('nav').html(this.pages.about);
+      AboutView.prototype.render = function() {
+        this.$el.html(this.template);
+        return this;
       };
 
       return AboutView;
 
     })(Backbone.View);
-    return new AboutView;
+    BodyView = (function(_super) {
+      __extends(BodyView, _super);
+
+      function BodyView() {
+        _ref9 = BodyView.__super__.constructor.apply(this, arguments);
+        return _ref9;
+      }
+
+      BodyView.prototype.el = $('body');
+
+      BodyView.prototype.events = {
+        'click #btn-logo': 'showLogo',
+        'click #btn-illustration': 'showIllustration',
+        'click #btn-branding': 'showBranding',
+        'click #btn-editorial': 'showEditorial',
+        'click #btn-web': 'showWeb',
+        'click #btn-font': 'showFont',
+        'click #btn-service': 'showService',
+        'click #btn-video': 'showVideo',
+        'click #btn-about': 'showAbout'
+      };
+
+      BodyView.prototype.initialize = function() {
+        return this.showLogo();
+      };
+
+      BodyView.prototype.showLogo = function() {
+        var logoView;
+        logoView = new LogoView;
+        return this.$('nav').html(logoView.render().el);
+      };
+
+      BodyView.prototype.showIllustration = function() {
+        var illustrationView;
+        illustrationView = new IllustrationView;
+        return this.$('nav').html(illustrationView.render().el);
+      };
+
+      BodyView.prototype.showBranding = function() {
+        var brandingView;
+        brandingView = new BrandingView;
+        return this.$('nav').html(brandingView.render().el);
+      };
+
+      BodyView.prototype.showEditorial = function() {
+        var editorialView;
+        editorialView = new EditorialView;
+        return this.$('nav').html(editorialView.render().el);
+      };
+
+      BodyView.prototype.showWeb = function() {
+        var webView;
+        webView = new WebView;
+        return this.$('nav').html(webView.render().el);
+      };
+
+      BodyView.prototype.showFont = function() {
+        var fontView;
+        fontView = new FontView;
+        return this.$('nav').html(fontView.render().el);
+      };
+
+      BodyView.prototype.showService = function() {
+        var serviceView;
+        serviceView = new ServiceView;
+        return this.$('nav').html(serviceView.render().el);
+      };
+
+      BodyView.prototype.showVideo = function() {
+        var videoView;
+        videoView = new VideoView;
+        return this.$('nav').html(videoView.render().el);
+      };
+
+      BodyView.prototype.showAbout = function() {
+        var aboutView;
+        aboutView = new AboutView;
+        return this.$('nav').html(aboutView.render().el);
+      };
+
+      return BodyView;
+
+    })(Backbone.View);
+    return new BodyView;
   });
 
 }).call(this);
