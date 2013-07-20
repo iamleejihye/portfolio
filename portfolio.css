@@ -5,7 +5,6 @@ section header {
     position: fixed;
     background: #d1d3d4;
     width: 350px;
-    height: 650px;
     background-size: cover;
 }
 
@@ -121,27 +120,6 @@ section header #copyright {
     font-family: helvetica;
     text-align: center;
     margin-bottom: 15px;
-}
-
-section #contents-top,#contents-bottom {
-    background: #f1f2f2;
-    width: 930px;
-    height: 50px;
-    position: fixed;
-
-}
-
-section #contents-bottom {
-    bottom: 0px;
-}
-
-section #main {
-    background: url(main.png) no-repeat;
-    width: 535px;
-    height: 463px;
-    display: inline-block;
-    margin-top: 100px;
-    margin-left: 200px;
 }
 
 section #main:hover {
