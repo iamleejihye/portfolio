@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title></title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width">
+
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/app.css">
+	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+</head>
+<body>
+<!--[if lt IE 7]>
+<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
+	your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to
+	improve your experience.</p>
+<![endif]-->
+
+<!-- Add your site or application content here -->
+<header class="container">
+	<h1 class="left">
+		<a id="logo" href="index.html"></a>
+	</h1>
+	<nav class="right clearfix">
+		<div class="main left">
+			<a href="intro.html">상상문 1동</a>
+			<span>/</span>
+			<a href="map.html">지도</a>
+			<span>/</span>
+			<a href="picture.html">사진</a>
+		</div>
+		<div class="social left">
+			<a href="https://www.facebook.com/Sangsangmun1dong" target="_blank" id="facebook"></a>
+			<a id="twitter"></a>
+			<a id="email"></a>
+		</div>
+	</nav>
+</header>
+<section id="pictures" class="container">
+	<ul class="left clearfix">
+		<li>
+			<img class="thumbnail" src="img/1.png"/>
+		</li>
+		<li>
+			<img class="thumbnail" src="img/2.png"/>
+		</li>
+		<li>
+			<img class="thumbnail" src="img/3.png"/>
+		</li>
+		<li>
+			<img class="thumbnail" src="img/4.png"/>
+		</li>
+	</ul>
+	<ul class="left clearfix">
+		<li>
+			<img class="thumbnail" src="img/5.png"/>
+		</li>
+		<li>
+			<img class="thumbnail" src="img/6.png"/>
+		</li>
+		<li>
+			<img class="thumbnail" src="img/7.png"/>
+		</li>
+		<li>
+			<img class="thumbnail" src="img/8.png"/>
+		</li>
+		<li>
+			<img class="thumbnail" src="img/9.png"/>
+		</li>
+	</ul>
+	<ul class="left clearfix">
+		<li>
+			<img class="thumbnail" src="img/10.png"/>
+		</li>
+		<li>
+			<img class="thumbnail" src="img/11.png"/>
+		</li>
+		<li>
+			<img class="thumbnail" src="img/12.png"/>
+		</li>
+		<li>
+			<img class="thumbnail" src="img/13.png"/>
+		</li>
+	</ul>
+	<ul class="left clearfix">
+		<li>
+			<img class="thumbnail" src="img/14.png"/>
+		</li>
+		<li>
+			<img class="thumbnail" src="img/15.png"/>
+		</li>
+		<li>
+			<img class="thumbnail" src="img/16.png"/>
+		</li>
+		<li>
+			<img class="thumbnail" src="img/17.png"/>
+		</li>
+	</ul>
+</section>
+<div id="detail">
+	<div id="frame"></div>
+	<div id="pause"></div>
+</div>
+<footer class="container">
+	<address>Copyright @ 213 Sangsangmun 1 dong All Rights Reserved</address>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>
+
+<script>
+	$('.thumbnail').click(function () {
+		var $this = $(this);
+		var src = $this.attr('src');
+		var index = src.lastIndexOf('.png');
+		var newSrc = src.substring(0, index) + '.jpg';
+		$('#detail #frame').html($('<img/>').attr('src', newSrc));
+		$('#detail').fadeIn('fast');
+	});
+
+	$('#pause').click(function () {
+		$('#detail').fadeOut('fast');
+	})
+</script>
+</body>
+</html>
