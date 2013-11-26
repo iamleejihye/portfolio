@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openmorning.html" afterPath="$PROJECT_DIR$/openmorning.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -83,6 +81,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Push.Settings">
+    <option name="myUpdateMethod" value="REBASE" />
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -304,7 +305,11 @@
       <created>1385482792938</created>
       <updated>1385482792938</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2013/11/27 01:30 a.m. 설명 추가">
+      <created>1385483412793</created>
+      <updated>1385483412793</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -350,7 +355,8 @@
     <MESSAGE value="2013/11/27 12:10 a.m. 업로드" />
     <MESSAGE value="2013/11/27 12:35 a.m. 업로드" />
     <MESSAGE value="2013/11/27 01:19 a.m. 업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/11/27 01:19 a.m. 업로드" />
+    <MESSAGE value="2013/11/27 01:30 a.m. 설명 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/11/27 01:30 a.m. 설명 추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
