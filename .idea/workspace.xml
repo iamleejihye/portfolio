@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/03.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/04.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/05.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/06.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/07.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipad.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipad.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -65,17 +73,34 @@
     <favorites_list name="Iamleejihye" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="39" selection-start="2795" selection-end="2795" vertical-scroll-proportion="0.43835616" vertical-offset="1004" max-vertical-offset="1860">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="ipad.html" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ipad.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="42" column="72" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.44833624" vertical-offset="374" max-vertical-offset="1005">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="ipad.css" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ipad.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="141" column="16" selection-start="2779" selection-end="2779" vertical-scroll-proportion="0.57983196" vertical-offset="1770" max-vertical-offset="3390">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -100,8 +125,10 @@
         <option value="$PROJECT_DIR$/index.coffee" />
         <option value="$PROJECT_DIR$/portfolio.css" />
         <option value="$PROJECT_DIR$/openmorning.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/openmorning.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/ipad.html" />
+        <option value="$PROJECT_DIR$/ipad.css" />
       </list>
     </option>
   </component>
@@ -202,6 +229,7 @@
       <recent name="$PROJECT_DIR$/sangsangmun1dong/js/vendor" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image" />
       <recent name="$PROJECT_DIR$/sangsangmun1dong" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -399,7 +427,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="39" selection-start="2795" selection-end="2795" vertical-scroll-proportion="0.43835616" vertical-offset="1004" max-vertical-offset="1860">
+        <state line="54" column="34" selection-start="1670" selection-end="1670" vertical-scroll-proportion="0.34760273" vertical-offset="607" max-vertical-offset="1860">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ipad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="72" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.44833624" vertical-offset="374" max-vertical-offset="1005">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ipad.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="16" selection-start="2779" selection-end="2779" vertical-scroll-proportion="0.57983196" vertical-offset="1770" max-vertical-offset="3390">
           <folding />
         </state>
       </provider>
