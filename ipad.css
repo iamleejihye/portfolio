@@ -140,6 +140,7 @@ article .content-block {
     width: 100%;
     min-width: 150px;
     float: left;
+    height: 100px;
     background-color: #fff;
     border-radius: 6px;
     box-shadow: 0 1px 0 0 rgba(0,0,0,0.07);
@@ -184,7 +185,6 @@ article .content-block .explanation {
     font-weight: 100;
     letter-spacing: -1px;
     line-height: 16px;
-
 }
 
 article .content-block .explanation span.english {
@@ -218,4 +218,8 @@ article .content-block .image {
 
 article .content-block img {
     padding-bottom: 30px;
+}
+
+article .content-block .explanation span a {
+    color: #a1a2a4;
 }
