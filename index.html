@@ -1,73 +1,123 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>욕심쟁이 Greedy Girl</title>
     <link href="normalize.css" rel="stylesheet"/>
     <link href="main.css" rel="stylesheet"/>
-    <link href="default.css" rel="stylesheet"/>
-    <link href="portfolio.css" rel="stylesheet"/>
+    <link href="index.css" rel="stylesheet"/>
     <meta charset="UTF-8"/>
-    <script src="js/vendor/jquery-1.9.1.min.js"></script>
-    <script src="js/vendor/underscore-min.js"></script>
-    <script src="js/vendor/backbone-min.js"></script>
-    <script src="js/vendor/backbone-localStorage.min.js"></script>
-    <script src="index.js"></script>
+    <title>Greedy Girl</title>
 </head>
 <body>
-<section>
-    <header>
-        <div id="btn-logo" type="text/template"></div>
-        <menu>
-            <ul>
-            <li><div id="btn-illustration">ILLUSTRATION</div></li>
-            <li><div id="btn-branding">BRANDING</div></li>
-            <li><div id="btn-editorial">EDITORIAL DESIGN</div></li>
-            <li><div id="btn-web">WEB DESIGN</div></li>
-            <li><div id="btn-font">FONT DESIGN</div></li>
-            <li><div id="btn-service">SERVICE DESIGN</div></li>
-            <li><div id="btn-video">VIDEO</div></li>
-            <li><div id="btn-about">ABOUT</div></li>
-            </ul>
-        </menu>
-        <div class="link">
-        <a href="http://greedy-girl.tumblr.com/" target="_blank" id="tumblr"></a>
-        <a href="http://www.facebook.com/jihyeleee/" target="_blank" id="facebook"></a>
-        <a href="https://twitter.com/iamleeejihye/" target="_blank" id="twitter"></a>
-        <a href="mailto:iam.leejihye@gmail.com" id="mail"></a>
+    <aside>
+        <div id="cover">
+            <a href="index.html">
+                <i class="icon logo"></i>
+            </a>
         </div>
-        <div id="copyright">© 2013 GREEDY GIRL. All Rights Reserved.</div>
+        <div id="extra">
+            <a href="http://instagram.com/iamleeejihye" target="_blank">
+                <button class="icon instagram"></button>
+            </a>
+            <a href="https://www.facebook.com/jihyeleee" target="_blank">
+                <button class="icon facebook"></button>
+            </a>
+            <a href="http://greedy-girl.tumblr.com/" target="_blank">
+                <button class="icon tumblr"></button>
+            </a>
+            <a href="mailto:iam.leejihye@gmail.com">
+                <button class="icon mail"></button>
+            </a>
+        </div>
+        <div id="copyright">
+            © 2013 GREEDY GIRL.
+        </div>
+    </aside>
+    <header>
     </header>
+    <article>
+        <ul>
+            <li>
+                <a href="openmorning.html">
+                <div class="content-block">
+                    <div class="web">
+                        Web Design
+                        <div class="icon webd right"></div>
+                    </div>
+                    <div class="detail">
+                        <span>Project Name</span>
+                        <h1>Open morning</h1>
+                        <span class="right">2013/10 ~</span>
+                    </div>
+                </div>
+                </a>
+            </li>
 
-</section>
-<nav></nav>
+            <li>
+                <div class="content-block">
+                    <div class="app">
+                        App Design
+                        <div class="icon appd right"></div>
+                    </div>
+                    <div class="detail">
+                        <span>Project Name</span>
+                        <h1>Duksung Womens Univ</h1>
+                        <span class="right">2013/11</span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="content-block">
+                    <div class="graphic">Graphic Design
+                        <div class="icon grad right"></div>
+                    </div>
+                    <div class="detail">
+                        <span>Project Name</span>
+                        <h1 class="korean">상상문 1동</h1>
+                        <span class="right">2013/10</span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="content-block">
+                    <div class="social">Social Deisgn
+                        <div class="icon sociald right"></div>
+                    </div>
+                    <div class="detail">
+                        <span>Project Name</span>
+                        <h1 class="korean">공짜 포스터 디자인</h1>
+                        <span class="right">2013/10 ~</span>
+                    </div>
+                </div>
+            </li>
+            <li>
+            <div class="content-block">
+                <div class="editorial">Editorial Design
+                    <div class="icon editd right"></div>
+                </div>
+                <div class="detail">
+                    <span>Project Name</span>
+                    <h1>Seoul Trendy Market</h1>
+                    <span class="right">2013/11</span>
+                </div>
+            </div>
+            </li>
+            <li>
+            <div class="content-block">
+                <div class="resume">Resume
+                    <div class="icon resd right"></div>
+                </div>
+                <div class="detail">
+                    <span>Project Name</span>
+                    <h1>Greedy Girl - Lee Jihye</h1>
+                    <span class="right">2013/11</span>
+                </div>
+            </div>
+        </li>
+
+
+
+        </ul>
+    </article>
+
 </body>
-<script id="logo" type="text/template">
-    <img src="message-july20.jpg">
-</script>
-<script id="illustration" type="text/template">
-    <img src="http://25.media.tumblr.com/796dd8f61a0d04c4268a2e5d61860e13/tumblr_mntr7iJOFM1qibbaeo1_1280.jpg" width="600px">
-</script>
-<script id="branding" type="text/template">
-    <img src="http://greedygirl.dothome.co.kr/editorial_03.jpg" width="600px">
-</script>
-<script id="editorial" type="text/template">
-    <img src="http://greedygirl.dothome.co.kr/editorial_14_01.jpg"><p>
-    <img src="http://greedygirl.dothome.co.kr/editorial_14_02.jpg">
-    </p>
-</script>
-<script id="web" type="text/template">
-    <img src="http://31.media.tumblr.com/69820419a95e9a5958c60efe160649e3/tumblr_mofeg6POYe1qibbaeo1_1280.png" width="600px">
-</script>
-<script id="font" type="text/template">
-    <img src="http://24.media.tumblr.com/de906bbd0afd186ad444cec1cc934c03/tumblr_moq1mvDCn11qibbaeo1_1280.jpg" width="600px">
-</script>
-<script id="service" type="text/template">
-    <img src="http://greedygirl.dothome.co.kr/editorial_15.jpg" width="600px">
-</script>
-<script id="video" type="text/template">
-    <iframe src="http://player.vimeo.com/video/55858759" width="500" height="367" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/55858759"></a></p>
-</script>
-<script id="about" type="text/template">
-    <img src="http://24.media.tumblr.com/3899eed881d544e161d3d2e2e9e6a7b7/tumblr_mpu1dpUgLr1qibbaeo1_1280.jpg" width="600px">
-</script>
 </html>

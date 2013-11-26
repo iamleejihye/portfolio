@@ -2,127 +2,143 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/alcohol1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/alcohol2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon-114x114-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon-144x144-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon-57x57-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon-72x72-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/cafe1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/cafe2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/cafe3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/cafe4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/cafe5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/cafe6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/chicken1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/chicken2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/chicken3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/chinese1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/chinese2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/dduk1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/dduk2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/ham1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/ham2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/css/icons_social.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/intro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/japan1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/japan2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/css/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/main.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/css/map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/css/number.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/css/number_.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/img/pasta1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/doc/TOC.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/css/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/doc/crossdomain.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/crossdomain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/doc/css.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/doc/extend.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/doc/faq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/doc/html.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/humans.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/intro.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/js/vendor/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/doc/js.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/doc/misc.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/js/vendor/modernizr-2.6.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/picture.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/js/plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/sangsangmun1dong.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sangsangmun1dong/doc/usage.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmorning.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmorning.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dribbble-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hover_facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hover_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hover_mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hover_main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hover_tumblr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hover_twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/backbone-localStorage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/backbone-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/jquery-1.9.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/jquery-ui-1.10.3.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/modernizr-2.6.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/underscore-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/message-july20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon-114x114-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon-144x144-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon-57x57-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon-72x72-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/crossdomain.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/css/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/css/icons_social.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/css/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/css/map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/css/number.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/css/number_.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/TOC.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/crossdomain.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/css.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/extend.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/faq.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/html.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/js.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/misc.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/usage.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/humans.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/alcohol1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/alcohol2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/cafe1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/cafe2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/cafe3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/cafe4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/cafe5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/cafe6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/chicken1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/chicken2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/chicken3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/chinese1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/chinese2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/dduk1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/dduk2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/ham1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/ham2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/intro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/japan1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/japan2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/pasta1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/intro.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/js/plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/js/vendor/jquery-1.9.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/js/vendor/modernizr-2.6.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/picture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/sangsangmun1dong.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tumblr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/twitter.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Iamleejihye.iml" afterPath="$PROJECT_DIR$/Iamleejihye.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iamleejihye.github.io.iml" afterPath="$PROJECT_DIR$/iamleejihye.github.io.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1382332035176" ignored="false" />
-    <file path="/index.html" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374293678335" ignored="false" />
-    <file path="/index.coffee" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374291850702" ignored="false" />
-    <file path="$PROJECT_DIR$/../studyroom/lesson2/Leejihye/index.html" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1373223335406" ignored="false" />
-    <file path="$PROJECT_DIR$/../studyroom/.idea/libraries/Generated_files.xml" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1373223335406" ignored="false" />
-    <file path="$PROJECT_DIR$/../studyroom/lesson2/Leejihye/app.coffee" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1373223335406" ignored="false" />
-    <file path="$PROJECT_DIR$/../studyroom/lesson2/Leejihye/app.js" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1373223336328" ignored="false" />
-    <file path="$PROJECT_DIR$/../Backbone-Seminars/C02 - Link/Example/index.html" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374132274599" ignored="false" />
-    <file path="$PROJECT_DIR$/../Backbone-Seminars/C02 - Link/Example/resources/js/app.coffee" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374288705049" ignored="false" />
-    <file path="/app.coffee" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374288511617" ignored="false" />
-    <file path="$PROJECT_DIR$/../Backbone-Seminars/C02 - Link/Example/resources/js/app.js" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1373686219755" ignored="false" />
-    <file path="/a.coffee" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1373686672417" ignored="false" />
-    <file path="$PROJECT_DIR$/../Backbone-Seminars/C02 - Link/Leejihye/index.html" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374127048198" ignored="false" />
-    <file path="$PROJECT_DIR$/../Backbone-Seminars/C02 - Link/Leejihye/app.coffee" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374125529167" ignored="false" />
-    <file path="$PROJECT_DIR$/../Backbone-Seminars/C02 - Link/Leejihye/resources/js/app.coffee" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374128430646" ignored="false" />
-    <file path="$PROJECT_DIR$/../Backbone-Seminars/C02 - Link/Leejihye/resources/css/app.css" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374127992547" ignored="false" />
-    <file path="/app.css" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374127643018" ignored="false" />
-    <file path="/portfolio.css" changelist="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" time="1374293662079" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,61 +198,7 @@
     <favorites_list name="Iamleejihye" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5742668">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="45" column="9" selection-start="1762" selection-end="1762" vertical-scroll-proportion="0.13868614">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="index.coffee" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.coffee">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="68" column="15" selection-start="1202" selection-end="1202" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="portfolio.css" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/portfolio.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="143" column="19" selection-start="2532" selection-end="2532" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="modernizr-2.6.2.min.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/sangsangmun1dong/js/vendor/modernizr-2.6.2.min.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="jquery-1.9.1.min.js" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/sangsangmun1dong/js/vendor/jquery-1.9.1.min.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -330,6 +292,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Iamleejihye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iamleejihye.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -353,6 +329,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/sangsangmun1dong/js/vendor" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -361,11 +338,40 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
     <list size="0" />
@@ -418,33 +424,34 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="731" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1280" height="731" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15859374" sideWeight="0.6713836" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15883306" sideWeight="0.6743044" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -452,166 +459,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
     <option name="myTodoPanelSettings">
-      <value>
-        <are-packages-shown value="false" />
-        <are-modules-shown value="false" />
-        <flatten-packages value="false" />
-        <is-autoscroll-to-source value="false" />
-      </value>
+      <TodoPanelSettings />
     </option>
-    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
-    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
-    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
-    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
-    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
-    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
-    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
-    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
-    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
-    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
-    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
-    <option name="LIMIT_HISTORY" value="true" />
-    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
-    <option name="UPDATE_FILTER_SCOPE_NAME" />
-    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
-    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
-    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
-    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="지혜의 포트폴리오 사이트 업로드" />
-    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
-    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
-    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
-    <option name="ACTIVE_VCS_NAME" />
-    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
-    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
-    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
-    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
-    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="지혜의 포트폴리오 사이트 업로드" />
+    <option name="LAST_COMMIT_MESSAGE" value="지혜의 포트폴리오 사이트 업로드" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="129" column="0" selection-start="2356" selection-end="2356" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="14" selection-start="803" selection-end="803" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="27" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="243" column="0" selection-start="6771" selection-end="6771" vertical-scroll-proportion="6.394737" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="15" selection-start="1202" selection-end="1202" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="143" column="19" selection-start="2532" selection-end="2532" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sangsangmun1dong/js/vendor/modernizr-2.6.2.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sangsangmun1dong/js/vendor/jquery-1.9.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="9" selection-start="1762" selection-end="1762" vertical-scroll-proportion="0.13868614">
-          <folding />
-        </state>
+        <state line="243" column="0" selection-start="6771" selection-end="6771" vertical-scroll-proportion="6.394737" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
   </component>
