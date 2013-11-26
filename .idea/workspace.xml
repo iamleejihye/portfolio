@@ -2,139 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmorning.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmorning.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dribbble-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hover_facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hover_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hover_mail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hover_main.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hover_tumblr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hover_twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/backbone-localStorage.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/backbone-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/jquery-1.9.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/jquery-ui-1.10.3.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/modernizr-2.6.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/underscore-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/message-july20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon-114x114-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon-144x144-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon-57x57-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon-72x72-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/crossdomain.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/css/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/css/icons_social.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/css/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/css/map.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/css/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/css/number.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/css/number_.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/TOC.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/crossdomain.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/css.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/extend.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/faq.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/html.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/js.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/misc.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/doc/usage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/humans.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/alcohol1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/alcohol2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/cafe1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/cafe2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/cafe3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/cafe4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/cafe5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/cafe6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/chicken1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/chicken2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/chicken3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/chinese1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/chinese2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/dduk1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/dduk2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/ham1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/ham2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/intro.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/japan1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/japan2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/main.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/img/pasta1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/intro.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/js/plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/js/vendor/jquery-1.9.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/js/vendor/modernizr-2.6.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/map.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/picture.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sangsangmun1dong/sangsangmun1dong.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tumblr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twitter.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Iamleejihye.iml" afterPath="$PROJECT_DIR$/Iamleejihye.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iamleejihye.github.io.iml" afterPath="$PROJECT_DIR$/iamleejihye.github.io.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -206,6 +73,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
@@ -420,13 +288,18 @@
       <created>1374293506310</created>
       <updated>1374293506310</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2013/11/27 12:10 a.m. 업로드">
+      <created>1385478638314</created>
+      <updated>1385478638314</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="731" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -449,7 +322,6 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -463,15 +335,18 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="지혜의 포트폴리오 사이트 업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="지혜의 포트폴리오 사이트 업로드" />
+    <MESSAGE value="2013/11/27 12:10 a.m. 업로드" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/11/27 12:10 a.m. 업로드" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="243" column="0" selection-start="6771" selection-end="6771" vertical-scroll-proportion="6.394737" vertical-offset="0" max-vertical-offset="0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1920">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
