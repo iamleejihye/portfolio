@@ -140,7 +140,7 @@ article .content-block {
     width: 100%;
     min-width: 150px;
     float: left;
-    height: 1400px;
+    height: 1430px;
     background-color: #fff;
     border-radius: 6px;
     box-shadow: 0 1px 0 0 rgba(0,0,0,0.07);
@@ -171,7 +171,25 @@ article .content-block .web .webd {
 article .content-block .detail {
     color: #d1d3d4;
     position: relative;
-    padding: 50px 20px;
+    width: 30%;
+    height: 40px;
+    padding: 4%;
+}
+
+article .content-block .explanation {
+    width: 53%;
+    height: 40px;
+    color: #a1a2a4;
+    padding: 4%;
+    font-family: "Apple SD Gothic Neo";
+    font-weight: 100;
+    letter-spacing: -1px;
+    line-height: 16px;
+
+}
+
+article .content-block .explanation span.english {
+    letter-spacing: 0px;
 }
 
 article .content-block .detail span {
@@ -193,12 +211,12 @@ article .content-block .detail h1.korean {
     font-size: 16px;
 }
 
-article .content-block .detail img {
-    padding-top: 30px;
+article .content-block .image {
+    padding: 4%;
+    position: relative;
+    top: 10%;
 }
 
-article .content-block .detail h2 {
-    padding-top: 30px;
-    font-family: "Apple SD Gothic Neo";
-
+article .content-block img {
+    padding-bottom: 30px;
 }
