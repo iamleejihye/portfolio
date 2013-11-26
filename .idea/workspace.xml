@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openmorning.css" afterPath="$PROJECT_DIR$/openmorning.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openmorning.html" afterPath="$PROJECT_DIR$/openmorning.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -67,34 +67,17 @@
     <favorites_list name="Iamleejihye" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="openmorning.html" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/openmorning.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="51" column="49" selection-start="2266" selection-end="2266" vertical-scroll-proportion="1.3397548" vertical-offset="0" max-vertical-offset="960">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="openmorning.css" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/openmorning.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="135" column="0" selection-start="2695" selection-end="2695" vertical-scroll-proportion="1.2521008" vertical-offset="1280" max-vertical-offset="3405">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="84" column="39" selection-start="2795" selection-end="2795" vertical-scroll-proportion="0.43835616" vertical-offset="1004" max-vertical-offset="1860">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -115,9 +98,9 @@
       <list>
         <option value="$PROJECT_DIR$/index.coffee" />
         <option value="$PROJECT_DIR$/portfolio.css" />
+        <option value="$PROJECT_DIR$/openmorning.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/openmorning.html" />
-        <option value="$PROJECT_DIR$/openmorning.css" />
       </list>
     </option>
   </component>
@@ -317,7 +300,11 @@
       <created>1385480158044</created>
       <updated>1385480158044</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2013/11/27 01:19 a.m. 업로드">
+      <created>1385482792938</created>
+      <updated>1385482792938</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -362,7 +349,8 @@
     <MESSAGE value="지혜의 포트폴리오 사이트 업로드" />
     <MESSAGE value="2013/11/27 12:10 a.m. 업로드" />
     <MESSAGE value="2013/11/27 12:35 a.m. 업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/11/27 12:35 a.m. 업로드" />
+    <MESSAGE value="2013/11/27 01:19 a.m. 업로드" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/11/27 01:19 a.m. 업로드" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -389,23 +377,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/openmorning.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="20" selection-start="2206" selection-end="2206" vertical-scroll-proportion="-14.416667" vertical-offset="659" max-vertical-offset="1950">
+        <state line="135" column="0" selection-start="2695" selection-end="2695" vertical-scroll-proportion="1.2521008" vertical-offset="1280" max-vertical-offset="3405">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/openmorning.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="49" selection-start="2266" selection-end="2266" vertical-scroll-proportion="1.3397548" vertical-offset="0" max-vertical-offset="960">
+        <state line="41" column="29" selection-start="1336" selection-end="1336" vertical-scroll-proportion="0.7267951" vertical-offset="200" max-vertical-offset="960">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/openmorning.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="0" selection-start="2695" selection-end="2695" vertical-scroll-proportion="1.2521008" vertical-offset="1280" max-vertical-offset="3405">
+        <state line="84" column="39" selection-start="2795" selection-end="2795" vertical-scroll-proportion="0.43835616" vertical-offset="1004" max-vertical-offset="1860">
           <folding />
         </state>
       </provider>
