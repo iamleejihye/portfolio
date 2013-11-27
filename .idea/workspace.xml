@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ipad.css" afterPath="$PROJECT_DIR$/ipad.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ipad.html" afterPath="$PROJECT_DIR$/ipad.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/resume.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -73,10 +75,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="ipad.html" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/ipad.html">
+          <file leaf-file-name="resume.html" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/resume.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="37" column="19" selection-start="1183" selection-end="1183" vertical-scroll-proportion="0.21201414" vertical-offset="435" max-vertical-offset="1095">
+                <state line="45" column="107" selection-start="1542" selection-end="1542" vertical-scroll-proportion="1.1925795" vertical-offset="0" max-vertical-offset="945">
                   <folding />
                 </state>
               </provider>
@@ -86,10 +88,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="ipad.css" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/ipad.css">
+          <file leaf-file-name="resume.css" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/resume.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="214" column="3" selection-start="4277" selection-end="4277" vertical-scroll-proportion="0.7966102" vertical-offset="2740" max-vertical-offset="3345">
+                <state line="157" column="29" selection-start="3184" selection-end="3184" vertical-scroll-proportion="0.27966103" vertical-offset="2190" max-vertical-offset="3390">
                   <folding />
                 </state>
               </provider>
@@ -123,9 +125,11 @@
         <option value="$PROJECT_DIR$/portfolio.css" />
         <option value="$PROJECT_DIR$/openmorning.css" />
         <option value="$PROJECT_DIR$/openmorning.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/ipad.css" />
         <option value="$PROJECT_DIR$/ipad.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/resume.css" />
+        <option value="$PROJECT_DIR$/resume.html" />
       </list>
     </option>
   </component>
@@ -200,6 +204,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Iamleejihye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greedygirl.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -222,6 +240,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/sangsangmun1dong/js/vendor" />
     </key>
@@ -342,13 +361,18 @@
       <created>1385485194074</created>
       <updated>1385485194074</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2013/11/27 11:38 a.m. app까지 일단!">
+      <created>1385519871397</created>
+      <updated>1385519871397</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="726" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -371,7 +395,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -391,7 +414,8 @@
     <MESSAGE value="2013/11/27 01:30 a.m. 설명 추가" />
     <MESSAGE value="2013/11/27 01:47 a.m. height 문제" />
     <MESSAGE value="2013/11/27 01:59 a.m. 웹스톰이 이상해!" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/11/27 01:59 a.m. 웹스톰이 이상해!" />
+    <MESSAGE value="2013/11/27 11:38 a.m. app까지 일단!" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/11/27 11:38 a.m. app까지 일단!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -427,24 +451,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/openmorning.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="0" selection-start="2695" selection-end="2695" vertical-scroll-proportion="1.2521008" vertical-offset="1280" max-vertical-offset="3405" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/openmorning.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="125" selection-start="2220" selection-end="2220" vertical-scroll-proportion="0.8161121" vertical-offset="329" max-vertical-offset="1035" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="16" selection-start="1652" selection-end="1652" vertical-scroll-proportion="1.4310954" vertical-offset="0" max-vertical-offset="1860">
+        <state line="135" column="0" selection-start="2695" selection-end="2695" vertical-scroll-proportion="1.2521008" vertical-offset="1280" max-vertical-offset="3405">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
+    <entry file="file://$PROJECT_DIR$/openmorning.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.5" vertical-offset="2065" max-vertical-offset="4470">
+        <state line="53" column="125" selection-start="2220" selection-end="2220" vertical-scroll-proportion="0.8161121" vertical-offset="329" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
@@ -458,7 +472,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ipad.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="19" selection-start="1183" selection-end="1183" vertical-scroll-proportion="0.21201414" vertical-offset="435" max-vertical-offset="1095">
+        <state line="66" column="7" selection-start="2720" selection-end="2720" vertical-scroll-proportion="-19.208334" vertical-offset="529" max-vertical-offset="1095">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="24" selection-start="281" selection-end="281" vertical-scroll-proportion="0.29151943" vertical-offset="0" max-vertical-offset="1890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="157" column="29" selection-start="3184" selection-end="3184" vertical-scroll-proportion="0.27966103" vertical-offset="2190" max-vertical-offset="3390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="261" column="1" selection-start="5384" selection-end="5384" vertical-scroll-proportion="0.059322033" vertical-offset="3880" max-vertical-offset="4470">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="107" selection-start="1542" selection-end="1542" vertical-scroll-proportion="1.1925795" vertical-offset="0" max-vertical-offset="945">
           <folding />
         </state>
       </provider>
