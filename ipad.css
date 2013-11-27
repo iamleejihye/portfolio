@@ -63,12 +63,6 @@ aside #cover a .logo:hover {
 }
 
 
-a {
-    text-decoration: none;
-    color: #fff;
-}
-
-
 aside #extra {
     position: relative;
     left: 27%;
@@ -140,7 +134,6 @@ article .content-block {
     width: 100%;
     min-width: 150px;
     float: left;
-    height: 100px;
     background-color: #fff;
     border-radius: 6px;
     box-shadow: 0 1px 0 0 rgba(0,0,0,0.07);
@@ -150,21 +143,21 @@ article .content-block {
     font-weight: 500;
 }
 
-article .content-block .web {
+article .content-block .app {
     top: 0;
     position: relative;
     padding: 14px;
     letter-spacing: 1px;
-    background-color: #2384c6;
+    background-color: #71bf44;
     border-top-right-radius: 6px;
     border-top-left-radius: 6px;
 }
 
-article .content-block .web .webd {
-    background-position: -101px -97px;
-    width: 19px;
+article .content-block .app .appd {
+    background-position: -120px -97px;
+    width: 11px;
     height: 16px;
-    margin-top: -1px;
+    margin-top: -2px;
     margin-right: -2px;
 }
 
@@ -172,7 +165,6 @@ article .content-block .detail {
     color: #d1d3d4;
     position: relative;
     width: 30%;
-    height: 40px;
     padding: 4%;
 }
 
@@ -220,6 +212,7 @@ article .content-block img {
     padding-bottom: 30px;
 }
 
-article .content-block .explanation span a {
+a {
     color: #a1a2a4;
+    text-decoration: none;
 }
