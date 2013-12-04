@@ -219,3 +219,7 @@ article .content-block .image {
 article .content-block img {
     padding-bottom: 30px;
 }
+
+/* responsive */
+
+@media only screen and (m)
