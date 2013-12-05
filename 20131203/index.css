@@ -113,6 +113,7 @@ footer span a.facebook:hover,
 footer span a.tumblr:hover,
 footer span a.mail:hover {
     opacity: .7;
+    transition: 0.2s linear;
 }
 
 /* section */
@@ -179,35 +180,35 @@ section ul li .animation .aninav {
 /* 컨텐츠 박스 윗부분 컬러 */
 
 section ul li .web .webnav {
-    background-color: #7fc556;
+    background-color: #92ce6f;
 }
 
 section ul li .editorial .edinav {
-    background-color: #92549c;
+    background-color: #a97ab7;
 }
 
 section ul li .app .appnav {
-    background-color: #1e85c1;
+    background-color: #57a1d4;
 }
 
 section ul li .social .socialnav {
-    background-color: #f76d35;
+    background-color: #f69055;
 }
 
 section ul li .event .eventnav {
-    background-color: #fda43f;
+    background-color: #fbbb4f;
 }
 
 section ul li .font .fontnav {
-    background-color: #2cbb8c;
+    background-color: #6dcba3;
 }
 
 section ul li .illustration .illunav {
-    background-color: #f2095e;
+    background-color: #f14985;
 }
 
 section ul li .animation .aninav {
-    background-color: #f55b61;
+    background-color: #f48384;
 }
 
 /* 컨텐츠 박스 윗부분에 들어가는 아이콘 */
@@ -383,6 +384,62 @@ footer span a.mail {
 
 }
 
+@media only screen and (max-width: 720px) {
+    html,
+    body {
+        background-color: #ebebed;
+    }
+
+    header #wrap1 {
+        padding: 25px 50px;
+    }
+
+    header #wrap1 nav {
+        width: 79%;
+    }
+
+    section {
+        position: absolute;
+        top: 86px;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        padding: 10px 92px;
+        background-color: #ebebed;
+    }
+
+    footer #wrap2 {
+        padding: 14px 50px;
+    }
+
+    footer #wrap2 #resume {
+        width: 82%;
+    }
+
+    footer .copyright {
+        display: none;
+    }
+
+}
+
+
+section ul li .web,
+section ul li .editorial,
+section ul li .event,
+section ul li .font {
+    margin-right: 25px;
+}
+
+section ul li .app,
+section ul li .social {
+    margin-left: 20px;
+    margin-right: 0;
+}
+
+section ul li .illustration,
+section ul li .animation {
+    padding-left: -20px;
+}
 
 @media only screen and (max-width: 320px) {
     html,
@@ -419,7 +476,5 @@ footer span a.mail {
     footer .copyright {
         display: none;
     }
-
-
 
 }
