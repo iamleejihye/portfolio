@@ -63,7 +63,7 @@ header {
 
 header #wrap1 {
     display: table;
-    padding: 23px 114px;
+    padding: 23px 9%;
 }
 
 header #logo {
@@ -124,29 +124,39 @@ section {
     left: 0;
     right: 0;
     bottom: 0;
-    padding: 55px 114px;
+    padding: 80px 9%;
     background-color: #ebebed;
 }
 
 /* 컨텐츠 박스 */
 
-section ul li .web,
-section ul li .editorial,
+section ul li {
+    display: -webkit-flex;
+    -webkit-flex-flow: row wrap;
+}
+
 section ul li .app,
 section ul li .social,
 section ul li .event,
 section ul li .font,
 section ul li .illustration,
-section ul li .animation {
-    width: 242px;
-    height: 199px;
+section ul li .animation,
+section ul li .web,
+section ul li .editorial {
+    display: block;
+    -webki-flex: 1 1 242px;
+    min-width: 242px;
+    max-width: 484px;
+    min-height: 169px;
     margin-bottom: 28px;
+    margin-left: 8px;
+    margin-right: 8px;
+    position: relative;
+    overflow: hidden;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     border: 1px solid #e0e0e0;
     background-color: #fff;
-    margin-right: 9px;
-    margin-left: 9px;
 }
 
 /* 컨텐츠 박스 윗부분 */
@@ -258,37 +268,6 @@ section ul li .animation .aninav i.anicon {
 
 /* 컨텐츠 박스 hover */
 
-section ul li .web .webhover {
-    background-color: #7fc556;
-    opacity: 0;
-    position: relative;
-    top: 30;
-    border-top: 1px solid rgba(255, 255, 255, 0.5);
-    height: 169px;
-    font-size: 25px;
-    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
-    font-weight: 900;
-    color: #fff;
-    transition: 0.2s linear;
-    bottom: 0;
-}
-
-section ul li .web .webhover div {
-    padding-top: 120px;
-    padding-right: 20px;
-}
-
-section ul li .web .webhover:hover {
-    opacity: .9;
-}
-
-section ul li .web {
-    background-image: url('image/02.jpg');
-    background-position: -150px -50px;
-    background-size: 500px;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-}
 
 
 /* footer */
@@ -304,13 +283,12 @@ footer {
 }
 
 footer #wrap2 {
-    padding: 14px 114px;
+    padding: 15px 9%;
     display: table;
 }
 
 footer #wrap2 #resume {
-    display: table-cell;
-    vertical-align: middle;
+
 }
 
 footer button.resume {
@@ -336,7 +314,6 @@ footer span a {
     display: table-cell;
     vertical-align: middle;
     margin-left: 15px;
-
 }
 
 footer span a.instagram {
@@ -365,52 +342,24 @@ footer span a.mail {
 
 /* 반응형 웹사이트 */
 
-@media only screen and (min-width: 960px) {
+@media only screen and (min-width: 1013px) {
     header #wrap1 nav {
         width: 90%;
     }
 
     footer #wrap2 #resume {
-        width: 72.1%;
+        width: 60%;
     }
 
 }
 
-
-@media only screen and (max-width: 320px) {
-    html,
-    body {
-        background-color: #ebebed;
-    }
-
-    header #wrap1 {
-        padding: 25px;
-    }
-
+@media only screen and (max-width: 960px) {
     header #wrap1 nav {
-        width: 52.6%;
-    }
-
-    section {
-        position: absolute;
-        top: 86px;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        padding: 10px 38px;
-        background-color: #ebebed;
-    }
-
-    footer #wrap2 {
-        padding: 14px 25px;
+        width: 90%;
     }
 
     footer #wrap2 #resume {
-        width: 59.9%;
-    }
-
-    footer .copyright {
-        display: none;
+        width: 60%;
     }
 
 }
