@@ -284,6 +284,11 @@ footer {
 
 footer #wrap2 {
     padding: 15px 9%;
+    display: table;
+}
+
+footer #wrap2 #resume {
+
 }
 
 footer button.resume {
@@ -292,17 +297,22 @@ footer button.resume {
     background-position: -132px -16px;
 }
 
+footer span {
+    display: table;
+}
+
 footer .copyright {
+    display: table-cell;
+    vertical-align: middle;
     font-size: 10px;
     color: #fff;
     font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
-    padding-left: 15px;
-    display: inline-block;
+    padding-right: 15px;
 }
 
 footer span a {
-    position: relative;
-    top: 2px;
+    display: table-cell;
+    vertical-align: middle;
     margin-left: 15px;
 }
 
@@ -330,83 +340,27 @@ footer span a.mail {
     background-position: -181px -37px;
 }
 
-/* WIDE DESKTOP LAYOUT
------------------------------------------------ */
+/* 반응형 웹사이트 */
 
-@media only screen and (min-width: 1175px) {
-    html { background-color: #ebebed; }
-    body { width: 1080px; }
-    header #wrap1 nav { width: 90%; }
-}  /* CLOSE WIDE LAYOUT */
-
-/* TABLET LAYOUT
------------------------------------------------ */
-
-@media only screen and (min-width: 768px) and (max-width: 1174px) {
-    html { background-color: #ebebed; }
-    body { width: 712px; }
-    header { width: 712px; }
-    header #wrap1 nav { width: 80%; }
-    footer {width: 712px; }
-    .resfooter {
-        bottom: 0;
-        left: 0;
-        right: 0;
-        position: fixed;
-        height: 50px;
-        z-index: 1;
-        background-color: #afb0b1;
+@media only screen and (min-width: 1013px) {
+    header #wrap1 nav {
+        width: 90%;
     }
-    section { width: 712px; }
+
+    footer #wrap2 #resume {
+        margin-right: 731px;
+    }
 
 }
 
- /* CLOSE TABLET LAYOUT */
-
-
-/* MOBILE LAYOUT (PORTRAIT/320PX)
------------------------------------------------ */
-@media only screen and (max-width: 767px) {
-    html { background-color: #ebebed; }
-    body { width: 320px; }
-    header { width: 320px; }
-    header #wrap1 nav { width: 70%; }
-    footer {width: 320px; }
-    footer #wrap2 .copyright { display: none; }
-    .resfooter {
-        bottom: 0;
-        left: 0;
-        right: 0;
-        position: fixed;
-        height: 50px;
-        z-index: 1;
-        background-color: #afb0b1;
+@media only screen and (max-width: 1013px) {
+    header #wrap1 nav {
+        width: 90%;
     }
-    section { width: 320px; }
 
-} /* CLOSE MOBILE LAYOUT */
-
-/* WIDE MOBILE LAYOUT (LANDSCAPE/480PX)
------------------------------------------------ */
-
-@media only screen and (min-width: 480px) and (max-width: 767px) {
-    html { background-color: #ebebed; }
-    body { width: 480px; }
-    header { width: 480px; }
-    header #wrap1 nav { width: 85%; }
-    footer {width: 480px; }
-    footer #wrap2 .copyright { display: none; }
-    .resfooter {
-        bottom: 0;
-        left: 0;
-        right: 0;
-        position: fixed;
-        height: 50px;
-        z-index: 1;
-        background-color: #afb0b1;
+    footer #wrap2 #resume {
+        margin-right: 400px;
     }
-    section {
-        width: 480px;
-        padding: 80px 19%;
-    }
-} /* CLOSE WIDE MOBILE LAYOUT */
+
+}
+
