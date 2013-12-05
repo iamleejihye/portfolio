@@ -135,17 +135,7 @@ section ul li .editorial,
 section ul li .app,
 section ul li .social,
 section ul li .event,
-section ul li .font {
-    width: 242px;
-    height: 199px;
-    margin-bottom: 28px;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-    border: 1px solid #e0e0e0;
-    background-color: #fff;
-    margin-right: 24px;
-}
-
+section ul li .font,
 section ul li .illustration,
 section ul li .animation {
     width: 242px;
@@ -155,6 +145,8 @@ section ul li .animation {
     border-top-right-radius: 5px;
     border: 1px solid #e0e0e0;
     background-color: #fff;
+    margin-right: 9px;
+    margin-left: 9px;
 }
 
 /* 컨텐츠 박스 윗부분 */
@@ -384,62 +376,6 @@ footer span a.mail {
 
 }
 
-@media only screen and (max-width: 720px) {
-    html,
-    body {
-        background-color: #ebebed;
-    }
-
-    header #wrap1 {
-        padding: 25px 50px;
-    }
-
-    header #wrap1 nav {
-        width: 79%;
-    }
-
-    section {
-        position: absolute;
-        top: 86px;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        padding: 10px 92px;
-        background-color: #ebebed;
-    }
-
-    footer #wrap2 {
-        padding: 14px 50px;
-    }
-
-    footer #wrap2 #resume {
-        width: 82%;
-    }
-
-    footer .copyright {
-        display: none;
-    }
-
-}
-
-
-section ul li .web,
-section ul li .editorial,
-section ul li .event,
-section ul li .font {
-    margin-right: 25px;
-}
-
-section ul li .app,
-section ul li .social {
-    margin-left: 20px;
-    margin-right: 0;
-}
-
-section ul li .illustration,
-section ul li .animation {
-    padding-left: -20px;
-}
 
 @media only screen and (max-width: 320px) {
     html,
