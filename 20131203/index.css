@@ -362,11 +362,11 @@ footer span a.mail {
         width: 60%;
     }
 
+}
 
-    @viewport {
-        width: 720px;
-        zoom: 1;
-    }
 
+@viewport {
+    width: 720px;
+    zoom: 1;
 }
 
