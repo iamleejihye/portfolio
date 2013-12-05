@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20131203/web.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20131203/web.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/index.css" afterPath="$PROJECT_DIR$/20131203/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/index.html" afterPath="$PROJECT_DIR$/20131203/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -78,7 +76,7 @@
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/20131203/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="72" column="42" selection-start="2331" selection-end="2331" vertical-scroll-proportion="0.1262136" vertical-offset="1002" max-vertical-offset="1680">
+                <state line="106" column="14" selection-start="3551" selection-end="3551" vertical-scroll-proportion="0.8300971" vertical-offset="1077" max-vertical-offset="1710">
                   <folding />
                 </state>
               </provider>
@@ -91,7 +89,7 @@
           <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/20131203/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="409" column="24" selection-start="8286" selection-end="8286" vertical-scroll-proportion="0.78971964" vertical-offset="5628" max-vertical-offset="6270">
+                <state line="414" column="24" selection-start="8248" selection-end="8248" vertical-scroll-proportion="0.7429907" vertical-offset="5733" max-vertical-offset="6630">
                   <folding />
                 </state>
               </provider>
@@ -424,7 +422,11 @@
       <created>1386252624682</created>
       <updated>1386252624682</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="2013/12/06 03:36 a.m. Responsive Web Design!">
+      <created>1386268620027</created>
+      <updated>1386268620027</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -482,7 +484,8 @@
     <MESSAGE value="2013/12/05 07:12 p.m." />
     <MESSAGE value="2013/12/05 11:07 p.m." />
     <MESSAGE value="2013/12/05 11:10 p.m." />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/05 11:10 p.m." />
+    <MESSAGE value="2013/12/06 03:36 a.m. Responsive Web Design!" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/06 03:36 a.m. Responsive Web Design!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -568,14 +571,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20131203/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="42" selection-start="2331" selection-end="2331" vertical-scroll-proportion="0.1262136" vertical-offset="1002" max-vertical-offset="1680">
+        <state line="106" column="14" selection-start="3551" selection-end="3551" vertical-scroll-proportion="0.8300971" vertical-offset="1077" max-vertical-offset="1710">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20131203/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="409" column="24" selection-start="8286" selection-end="8286" vertical-scroll-proportion="0.78971964" vertical-offset="5628" max-vertical-offset="6270">
+        <state line="414" column="24" selection-start="8248" selection-end="8248" vertical-scroll-proportion="0.7429907" vertical-offset="5733" max-vertical-offset="6630">
           <folding />
         </state>
       </provider>

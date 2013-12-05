@@ -343,6 +343,14 @@ footer span a.mail {
 ----------------------------------------------- */
 
 @media only screen and (min-width: 768px) and (max-width: 1174px) {
+    header,
+    section,
+    footer {
+        width: 712px;
+        position: absolute;
+        left: 50%;
+        margin-left: -36%;
+    }
     html { background-color: #ebebed; }
     body { width: 712px; }
     header { width: 712px; }
@@ -367,6 +375,14 @@ footer span a.mail {
 /* MOBILE LAYOUT (PORTRAIT/320PX)
 ----------------------------------------------- */
 @media only screen and (max-width: 767px) {
+    header,
+    section,
+    footer {
+        width: 320px;
+        position: absolute;
+        left: 50%;
+        margin-left: -50%;
+    }
     html { background-color: #ebebed; }
     body { width: 320px; }
     header { width: 320px; }
@@ -390,6 +406,14 @@ footer span a.mail {
 ----------------------------------------------- */
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
+    header,
+    section,
+    footer {
+        width: 480px;
+        position: absolute;
+        left: 50%;
+        margin-left: -50%;
+    }
     html { background-color: #ebebed; }
     body { width: 480px; }
     header { width: 480px; }
