@@ -366,7 +366,7 @@ footer span a.mail {
 
 
 @viewport {
-    width: 720px;
+    min-width: 800px;
     zoom: 1;
 }
 

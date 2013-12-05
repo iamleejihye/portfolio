@@ -88,7 +88,7 @@
           <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/20131203/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="371" column="0" selection-start="6802" selection-end="6802" vertical-scroll-proportion="0.8364486" vertical-offset="5028" max-vertical-offset="5670">
+                <state line="368" column="18" selection-start="6787" selection-end="6787" vertical-scroll-proportion="0.76635516" vertical-offset="5028" max-vertical-offset="5670">
                   <folding />
                 </state>
               </provider>
@@ -412,7 +412,11 @@
       <created>1386252457435</created>
       <updated>1386252457435</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="2013/12/05 11:07 p.m.">
+      <created>1386252500685</created>
+      <updated>1386252500685</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -560,7 +564,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20131203/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="371" column="0" selection-start="6802" selection-end="6802" vertical-scroll-proportion="0.8364486" vertical-offset="5028" max-vertical-offset="5670">
+        <state line="368" column="18" selection-start="6787" selection-end="6787" vertical-scroll-proportion="0.76635516" vertical-offset="5028" max-vertical-offset="5670">
           <folding />
         </state>
       </provider>
