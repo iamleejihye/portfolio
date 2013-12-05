@@ -353,7 +353,7 @@ footer span a.mail {
 
 }
 
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 1013px) {
     header #wrap1 nav {
         width: 90%;
     }
