@@ -104,6 +104,7 @@ header #wrap1 nav span button.profile {
     background-position: -163px 0;
 }
 
+
 header .logo:hover,
 header #wrap1 nav span button.view:hover,
 header #wrap1 nav span button.profile:hover,
@@ -153,8 +154,8 @@ section ul li .editorial {
     margin-right: 8px;
     position: relative;
     overflow: hidden;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
     border: 1px solid #e0e0e0;
     background-color: #fff;
 }
@@ -263,7 +264,7 @@ section ul li .illustration .illunav i.illuicon {
 section ul li .animation .aninav i.anicon {
     width: 16px;
     height: 13px;
-    background-position: -123px -40px;
+    background-position: -123px -45px;
 }
 
 /* 컨텐츠 박스 hover */
@@ -326,25 +327,25 @@ footer span a {
 footer span a.instagram {
     width: 15px;
     height: 15px;
-    background-position: -141px -40px;
+    background-position: -141px -45px;
 }
 
 footer span a.facebook {
     width: 8px;
     height: 15px;
-    background-position: -158px -40px;
+    background-position: -158px -45px;
 }
 
 footer span a.tumblr {
     width: 11px;
     height: 15px;
-    background-position: -168px -40px;
+    background-position: -168px -45px;
 }
 
 footer span a.mail {
     width: 15px;
     height: 13px;
-    background-position: -181px -40px;
+    background-position: -181px -45px;
 }
 
 /* WIDE DESKTOP LAYOUT

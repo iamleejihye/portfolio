@@ -7,7 +7,6 @@
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/sprite.png" afterPath="$PROJECT_DIR$/20131203/sprite.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/index.css" afterPath="$PROJECT_DIR$/20131203/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/index.html" afterPath="$PROJECT_DIR$/20131203/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -77,7 +76,7 @@
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/20131203/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="80" column="40" selection-start="2615" selection-end="2615" vertical-scroll-proportion="0.17475729" vertical-offset="1092" max-vertical-offset="1725">
+                <state line="19" column="54" selection-start="550" selection-end="550" vertical-scroll-proportion="0.44174758" vertical-offset="12" max-vertical-offset="1725">
                   <folding />
                 </state>
               </provider>
@@ -90,7 +89,7 @@
           <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/20131203/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="265" column="35" selection-start="5321" selection-end="5321" vertical-scroll-proportion="0.34183672" vertical-offset="3774" max-vertical-offset="6885">
+                <state line="157" column="30" selection-start="3150" selection-end="3150" vertical-scroll-proportion="0.7397959" vertical-offset="1920" max-vertical-offset="6900">
                   <folding />
                 </state>
               </provider>
@@ -421,7 +420,11 @@
       <created>1386310805783</created>
       <updated>1386310805783</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="2013/12/06 04:29 p.m. 아이콘 수정 및 hover 업그레이드">
+      <created>1386315001968</created>
+      <updated>1386315001968</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -482,7 +485,8 @@
     <MESSAGE value="2013/12/06 03:36 a.m. Responsive Web Design!" />
     <MESSAGE value="2013/12/06 03:52 a.m. 가운데 정렬" />
     <MESSAGE value="2013/12/06 03:19 a.m. Resume pdf 업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/06 03:19 a.m. Resume pdf 업로드" />
+    <MESSAGE value="2013/12/06 04:29 p.m. 아이콘 수정 및 hover 업그레이드" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/06 04:29 p.m. 아이콘 수정 및 hover 업그레이드" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -564,14 +568,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20131203/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="40" selection-start="2615" selection-end="2615" vertical-scroll-proportion="0.17475729" vertical-offset="1092" max-vertical-offset="1725">
+        <state line="19" column="54" selection-start="550" selection-end="550" vertical-scroll-proportion="0.44174758" vertical-offset="12" max-vertical-offset="1725">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20131203/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="265" column="35" selection-start="5321" selection-end="5321" vertical-scroll-proportion="0.34183672" vertical-offset="3774" max-vertical-offset="6885">
+        <state line="157" column="30" selection-start="3150" selection-end="3150" vertical-scroll-proportion="0.7397959" vertical-offset="1920" max-vertical-offset="6900">
           <folding />
         </state>
       </provider>
