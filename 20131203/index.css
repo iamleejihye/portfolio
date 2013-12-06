@@ -242,7 +242,7 @@ section ul li .social .socialnav i.socialicon {
 section ul li .event .eventnav i.eventicon {
     width: 13px;
     height: 15px;
-    background-position: -29px -37px;
+    background-position: -29px -36px;
     margin-top: -2px;
 }
 
@@ -256,14 +256,14 @@ section ul li .font .fontnav i.fonticon {
 section ul li .illustration .illunav i.illuicon {
     width: 18px;
     height: 15px;
-    background-position: -44px -37px;
+    background-position: -44px -36px;
     margin-top: -2px;
 }
 
 section ul li .animation .aninav i.anicon {
     width: 16px;
     height: 13px;
-    background-position: -123px -37px;
+    background-position: -123px -40px;
 }
 
 /* 컨텐츠 박스 hover */
@@ -289,7 +289,24 @@ footer #wrap2 {
 footer button.resume {
     width: 24px;
     height: 22px;
-    background-position: -132px -16px;
+    background-position: -132px -15px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 13px;
+}
+
+footer #wrap2 a[title]:hover:after {
+    content: attr(title);
+    position: relative;
+    padding: 4px 8px;
+    background-color: #000000;
+    opacity: .5;
+    border-radius: 3px;
+    left: -3.5%;
+    top: -35px;
 }
 
 footer .copyright {
@@ -309,25 +326,25 @@ footer span a {
 footer span a.instagram {
     width: 15px;
     height: 15px;
-    background-position: -141px -37px;
+    background-position: -141px -40px;
 }
 
 footer span a.facebook {
     width: 8px;
     height: 15px;
-    background-position: -158px -37px;
+    background-position: -158px -40px;
 }
 
 footer span a.tumblr {
     width: 11px;
     height: 15px;
-    background-position: -168px -37px;
+    background-position: -168px -40px;
 }
 
 footer span a.mail {
     width: 15px;
     height: 13px;
-    background-position: -181px -37px;
+    background-position: -181px -40px;
 }
 
 /* WIDE DESKTOP LAYOUT
