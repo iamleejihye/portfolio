@@ -104,6 +104,7 @@ header #wrap1 nav span button.profile {
     background-position: -163px 0;
 }
 
+
 header .logo:hover,
 header #wrap1 nav span button.view:hover,
 header #wrap1 nav span button.profile:hover,
@@ -130,45 +131,23 @@ section {
 
 /* 컨텐츠 박스 */
 
-section ul li {
-    display: -webkit-flex;
-    -webkit-flex-flow: row wrap;
-}
-
-section ul li .app,
-section ul li .social,
-section ul li .event,
-section ul li .font,
-section ul li .illustration,
-section ul li .animation,
-section ul li .web,
-section ul li .editorial {
+section article {
     display: block;
-    -webki-flex: 1 1 242px;
-    min-width: 242px;
-    max-width: 484px;
-    min-height: 169px;
+    -webki-flex: 1 1 1052px;
+    min-width: 1052px;
+    min-height: inherit;
     margin-bottom: 28px;
-    margin-left: 8px;
-    margin-right: 8px;
     position: relative;
     overflow: hidden;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
     border: 1px solid #e0e0e0;
     background-color: #fff;
 }
 
 /* 컨텐츠 박스 윗부분 */
 
-section ul li .web .webnav,
-section ul li .editorial .edinav,
-section ul li .app .appnav,
-section ul li .social .socialnav,
-section ul li .event .eventnav,
-section ul li .font .fontnav,
-section ul li .illustration .illunav,
-section ul li .animation .aninav {
+section article nav {
     position: relative;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
@@ -177,96 +156,96 @@ section ul li .animation .aninav {
     font-size: 9px;
     font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
     padding: 9px;
-}
-
-/* 컨텐츠 박스 윗부분 컬러 */
-
-section ul li .web .webnav {
     background-color: #92ce6f;
 }
 
-section ul li .editorial .edinav {
-    background-color: #a97ab7;
-}
-
-section ul li .app .appnav {
-    background-color: #57a1d4;
-}
-
-section ul li .social .socialnav {
-    background-color: #f69055;
-}
-
-section ul li .event .eventnav {
-    background-color: #fbbb4f;
-}
-
-section ul li .font .fontnav {
-    background-color: #6dcba3;
-}
-
-section ul li .illustration .illunav {
-    background-color: #f14985;
-}
-
-section ul li .animation .aninav {
-    background-color: #f48384;
+section article #padding {
+    padding: 60px 50px;
 }
 
 /* 컨텐츠 박스 윗부분에 들어가는 아이콘 */
 
-section ul li .web .webnav i.webicon {
+section article nav i.webicon {
     width: 16px;
     height: 14px;
     background-position: 0 -37px;
 }
 
-section ul li .editorial .edinav i.edicon {
-    width: 18px;
-    height: 11px;
-    background-position: -64px -37px;
+section article #padding #information h1 {
+    font-size: 25px;
+    font-weight: 700;
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    margin-bottom: 18px;
+    color: #afb0b1;
 }
 
-section ul li .app .appnav i.appicon {
-    width: 9px;
-    height: 14px;
-    background-position: -18px -37px;
+section article #padding #information #content #date,
+section article #padding #information #content #number,
+section article #padding #information #content #program {
+    width: 200px;
 }
 
-section ul li .social .socialnav i.socialicon {
-    width: 21px;
-    height: 14px;
-    background-position: -84px -37px;
+section article #padding #information #content {
+    margin-bottom: 20px;
+    color: #afb0b1;
+    width: 220px;
+    border-top: 1px solid #e4e6e8;
+    border-bottom: 1px solid #e4e6e8;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
-section ul li .event .eventnav i.eventicon {
-    width: 13px;
-    height: 15px;
-    background-position: -29px -37px;
-    margin-top: -2px;
+section article #padding #information #content h2 {
+    width: 88px;
+    text-align: right;
+    font-size: 14px;
+    font-family: "apple sd gothic neo";
+    line-height: 28px;
+    font-weight: 600;
+    padding-right: 17px;
 }
 
-section ul li .font .fontnav i.fonticon {
-    width: 14px;
-    height: 18px;
-    background-position: -107px -36px;
-    margin-top: -4px;
+section article #padding #information #content h3 {
+    text-align: left;
+    font-size: 14px;
+    font-family: "apple sd gothic neo";
+    line-height: 28px;
+    font-weight: 100;
 }
 
-section ul li .illustration .illunav i.illuicon {
-    width: 18px;
-    height: 15px;
-    background-position: -44px -37px;
-    margin-top: -2px;
+section article #padding #information #content #number .people {
+    background-position: -46px -75px;
+    width: 20px;
+    height: 24px;
 }
 
-section ul li .animation .aninav i.anicon {
-    width: 16px;
-    height: 13px;
-    background-position: -123px -37px;
+section article #padding #information #content #program .ps {
+    margin-top: 3px;
+    background-position: 0 -54px;
+    width: 20px;
+    height: 20px;
 }
 
-/* 컨텐츠 박스 hover */
+section article #padding #information #content #program .ai {
+    background-position: -22px -54px;
+    width: 20px;
+    height: 20px;
+}
+
+section article #padding #information #content #program .ws {
+    background-position: -22px -75px;
+    width: 22px;
+    height: 19px;
+}
+
+section article #padding #information p  {
+    font-size: 14px;
+    font-family: "Apple SD Gothic Neo";
+    letter-spacing: -1px;
+    margin-bottom: 3px;
+    color: #afb0b1;
+}
+
 
 
 
@@ -284,83 +263,170 @@ footer {
 
 footer #wrap2 {
     padding: 15px 9%;
-    display: table;
-}
-
-footer #wrap2 #resume {
-
 }
 
 footer button.resume {
     width: 24px;
     height: 22px;
-    background-position: -132px -16px;
+    background-position: -132px -15px;
 }
 
-footer span {
-    display: table;
+a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 13px;
+}
+
+footer #wrap2 a[title]:hover:after {
+    content: attr(title);
+    position: relative;
+    padding: 4px 8px;
+    background-color: #000000;
+    opacity: .5;
+    border-radius: 3px;
+    left: -3.5%;
+    top: -35px;
 }
 
 footer .copyright {
-    display: table-cell;
-    vertical-align: middle;
     font-size: 10px;
     color: #fff;
     font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
-    padding-right: 15px;
+    padding-left: 15px;
+    display: inline-block;
 }
 
 footer span a {
-    display: table-cell;
-    vertical-align: middle;
+    position: relative;
+    top: 2px;
     margin-left: 15px;
 }
 
 footer span a.instagram {
     width: 15px;
     height: 15px;
-    background-position: -141px -37px;
+    background-position: -141px -45px;
 }
 
 footer span a.facebook {
     width: 8px;
     height: 15px;
-    background-position: -158px -37px;
+    background-position: -158px -45px;
 }
 
 footer span a.tumblr {
     width: 11px;
     height: 15px;
-    background-position: -168px -37px;
+    background-position: -168px -45px;
 }
 
 footer span a.mail {
     width: 15px;
     height: 13px;
-    background-position: -181px -37px;
+    background-position: -181px -45px;
 }
 
-/* 반응형 웹사이트 */
+/* WIDE DESKTOP LAYOUT
+----------------------------------------------- */
 
-@media only screen and (min-width: 1013px) {
-    header #wrap1 nav {
-        width: 90%;
-    }
+@media only screen and (min-width: 1175px) {
+    html { background-color: #ebebed; }
+    body { width: 1080px; }
+    header #wrap1 nav { width: 90%; }
+}  /* CLOSE WIDE LAYOUT */
 
-    footer #wrap2 #resume {
-        margin-right: 731px;
+/* TABLET LAYOUT
+----------------------------------------------- */
+
+@media only screen and (min-width: 768px) and (max-width: 1174px) {
+    header,
+    section,
+    footer {
+        width: 712px;
+        position: absolute;
+        left: 50%;
+        margin-left: -36%;
     }
+    html { background-color: #ebebed; }
+    body { width: 712px; }
+    header { width: 712px; }
+    header #wrap1 nav { width: 80%; }
+    footer {width: 712px; }
+    .resfooter {
+        bottom: 0;
+        left: 0;
+        right: 0;
+        position: fixed;
+        height: 50px;
+        z-index: 1;
+        background-color: #afb0b1;
+    }
+    section { width: 712px; }
 
 }
 
-@media only screen and (max-width: 1013px) {
-    header #wrap1 nav {
-        width: 90%;
+ /* CLOSE TABLET LAYOUT */
+
+
+/* MOBILE LAYOUT (PORTRAIT/320PX)
+----------------------------------------------- */
+@media only screen and (max-width: 767px) {
+    header,
+    section,
+    footer {
+        width: 320px;
+        position: absolute;
+        left: 50%;
+        margin-left: -50%;
     }
-
-    footer #wrap2 #resume {
-        margin-right: 400px;
+    html { background-color: #ebebed; }
+    body { width: 320px; }
+    header { width: 320px; }
+    header #wrap1 nav { width: 70%; }
+    footer {width: 320px; }
+    footer #wrap2 .copyright { display: none; }
+    .resfooter {
+        bottom: 0;
+        left: 0;
+        right: 0;
+        position: fixed;
+        height: 50px;
+        z-index: 1;
+        background-color: #afb0b1;
     }
+    section { width: 320px; }
 
-}
+} /* CLOSE MOBILE LAYOUT */
 
+/* WIDE MOBILE LAYOUT (LANDSCAPE/480PX)
+----------------------------------------------- */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    header,
+    section,
+    footer {
+        width: 480px;
+        position: absolute;
+        left: 50%;
+        margin-left: -50%;
+    }
+    html { background-color: #ebebed; }
+    body { width: 480px; }
+    header { width: 480px; }
+    header #wrap1 nav { width: 85%; }
+    footer {width: 480px; }
+    footer #wrap2 .copyright { display: none; }
+    .resfooter {
+        bottom: 0;
+        left: 0;
+        right: 0;
+        position: fixed;
+        height: 50px;
+        z-index: 1;
+        background-color: #afb0b1;
+    }
+    section {
+        width: 480px;
+        padding: 80px 19%;
+    }
+} /* CLOSE WIDE MOBILE LAYOUT */

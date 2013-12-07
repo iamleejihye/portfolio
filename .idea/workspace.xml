@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/sprite.png" afterPath="$PROJECT_DIR$/20131203/sprite.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/index.css" afterPath="$PROJECT_DIR$/20131203/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/web.css" afterPath="$PROJECT_DIR$/20131203/web.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/web.html" afterPath="$PROJECT_DIR$/20131203/web.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -73,10 +74,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/20131203/index.html">
+          <file leaf-file-name="web.html" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/20131203/web.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="19" column="54" selection-start="550" selection-end="550" vertical-scroll-proportion="0.44174758" vertical-offset="12" max-vertical-offset="1725">
+                <state line="50" column="29" selection-start="1705" selection-end="1705" vertical-scroll-proportion="0.7249191" vertical-offset="302" max-vertical-offset="1260">
                   <folding />
                 </state>
               </provider>
@@ -86,10 +87,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/20131203/index.css">
+          <file leaf-file-name="web.css" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/20131203/web.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="157" column="30" selection-start="3150" selection-end="3150" vertical-scroll-proportion="0.7397959" vertical-offset="1920" max-vertical-offset="6900">
+                <state line="245" column="19" selection-start="5168" selection-end="5168" vertical-scroll-proportion="0.6962617" vertical-offset="3228" max-vertical-offset="6570">
                   <folding />
                 </state>
               </provider>
@@ -128,9 +129,10 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resume.html" />
         <option value="$PROJECT_DIR$/resume.css" />
-        <option value="$PROJECT_DIR$/20131203/web.html" />
         <option value="$PROJECT_DIR$/20131203/index.html" />
         <option value="$PROJECT_DIR$/20131203/index.css" />
+        <option value="$PROJECT_DIR$/20131203/web.html" />
+        <option value="$PROJECT_DIR$/20131203/web.css" />
       </list>
     </option>
   </component>
@@ -186,6 +188,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,14 +223,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="preferences.sourceCode.CoffeeScript" />
+    <property name="options.lastSelected" value="preferences.keymap" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -424,14 +426,17 @@
       <created>1386315001968</created>
       <updated>1386315001968</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="2013/12/06 04:46 p.m. border 수정 Resume 아이콘 수정">
+      <created>1386316004658</created>
+      <updated>1386316004658</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1276" height="778" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -454,6 +459,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -486,7 +492,8 @@
     <MESSAGE value="2013/12/06 03:52 a.m. 가운데 정렬" />
     <MESSAGE value="2013/12/06 03:19 a.m. Resume pdf 업로드" />
     <MESSAGE value="2013/12/06 04:29 p.m. 아이콘 수정 및 hover 업그레이드" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/06 04:29 p.m. 아이콘 수정 및 hover 업그레이드" />
+    <MESSAGE value="2013/12/06 04:46 p.m. border 수정 Resume 아이콘 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/06 04:46 p.m. border 수정 Resume 아이콘 수정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -556,26 +563,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20131203/web.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="14" selection-start="1280" selection-end="1280" vertical-scroll-proportion="0.5631068" vertical-offset="327" max-vertical-offset="945" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20131203/web.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="363" column="0" selection-start="6770" selection-end="6770" vertical-scroll-proportion="0.78971964" vertical-offset="4938" max-vertical-offset="5580" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20131203/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="54" selection-start="550" selection-end="550" vertical-scroll-proportion="0.44174758" vertical-offset="12" max-vertical-offset="1725">
-          <folding />
-        </state>
+        <state line="23" column="13" selection-start="614" selection-end="614" vertical-scroll-proportion="0.5388349" vertical-offset="12" max-vertical-offset="1725" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20131203/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="30" selection-start="3150" selection-end="3150" vertical-scroll-proportion="0.7397959" vertical-offset="1920" max-vertical-offset="6900">
+        <state line="145" column="26" selection-start="2855" selection-end="2855" vertical-scroll-proportion="0.43367347" vertical-offset="1920" max-vertical-offset="6900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20131203/web.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="29" selection-start="1705" selection-end="1705" vertical-scroll-proportion="0.7249191" vertical-offset="302" max-vertical-offset="1260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20131203/web.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="245" column="19" selection-start="5168" selection-end="5168" vertical-scroll-proportion="0.6962617" vertical-offset="3228" max-vertical-offset="6570">
           <folding />
         </state>
       </provider>

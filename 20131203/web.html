@@ -3,11 +3,12 @@
 <head>
     <link href="normalize.css" rel="stylesheet"/>
     <link href="main.css" rel="stylesheet"/>
-    <link href="index.css" rel="stylesheet"/>
+    <link href="web.css" rel="stylesheet"/>
     <meta charset="UTF-8"/>
     <title>Greedy Girl</title>
 </head>
 <body>
+<article>
     <header>
         <div id="wrap1">
         <div id="logo">
@@ -22,29 +23,47 @@
         </div>
     </header>
     <section>
-        <ul class="clearfix">
-            <li class="left">
-                <div class="web">
-                    <div class="webnav">
-                        Web Design
-                        <i class="icon webicon right"></i>
-                    </div>
-                    <div class="webhover">
-                        <div class="right"></div>
-                    </div>
+        <article>
+            <nav>
+                <div id="title">Web Design
+                    <i class="icon webicon right"></i>
                 </div>
-            </li>
-        </ul>
+            </nav>
+            <div id="padding">
+                <div id="information">
+                    <h1>Open Morning</h1>
+                    <div id="content">
+                        <div id="date" class="clearfix">
+                            <h2 class="left">프로젝트 시기</h2>
+                            <h3>2013/11 ~</h3>
+                        </div>
+                        <div id="number" class="clearfix">
+                            <h2 class="left">인원수</h2>
+                            <i class="icon people"></i>
+                        </div>
+                        <div id="program" class="clearfix">
+                            <h2 class="left">사용한 프로그램</h2>
+                            <i class="icon ps"></i>
+                            <i class="icon ai"></i>
+                            <i class="icon ws"></i>
+                        </div>
+                    </div>
+                    <p>오픈모닝은 </p>
+                </div>
+            </div>
+        </article>
     </section>
-    <footer>
+    <div class="resfooter">
+        <footer>
         <div id="wrap2">
-        <div id="resume">
-            <button class="icon resume"></button>
-        </div>
-        <div class="copyright">
-            Copyright © 2013 by GREEDY GIRL
-        </div>
-        <nav class="right clearfix">
+            <a title="resume" href="http://iamleejihye.github.io/resume_leejihye.pdf" target="blank"
+               data-tooltip="Home">
+                <button class="icon resume"></button>
+            </a>
+            <nav class="right clearfix">
+                <div class="copyright clearfix">
+                    Copyright © 2013 by GREEDY GIRL
+                </div>
         <span>
             <a href="http://instagram.com/iamleeejihye" class="icon instagram" target="_blank"></a>
             <a href="https://www.facebook.com/jihyeleee" class="icon facebook" target="_blank"></a>
@@ -54,5 +73,7 @@
         </nav>
         </div>
     </footer>
+    </div>
+</article>
 </body>
 </html>
