@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/index.css" afterPath="$PROJECT_DIR$/20131203/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/index.html" afterPath="$PROJECT_DIR$/20131203/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -89,7 +88,7 @@
           <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/20131203/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="406" column="8" selection-start="7864" selection-end="7864" vertical-scroll-proportion="0.7196262" vertical-offset="5628" max-vertical-offset="7005">
+                <state line="413" column="22" selection-start="8057" selection-end="8057" vertical-scroll-proportion="0.50934577" vertical-offset="5868" max-vertical-offset="7005">
                   <folding />
                 </state>
               </provider>
@@ -465,7 +464,11 @@
       <created>1386425686746</created>
       <updated>1386425686746</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="2013/12/07 11:51 p.m. overflow-x: hidden;">
+      <created>1386427875154</created>
+      <updated>1386427875154</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -507,7 +510,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/11/27 01:30 a.m. 설명 추가" />
     <MESSAGE value="2013/11/27 01:47 a.m. height 문제" />
     <MESSAGE value="2013/11/27 01:59 a.m. 웹스톰이 이상해!" />
     <MESSAGE value="2013/11/27 11:38 a.m. app까지 일단!" />
@@ -532,7 +534,8 @@
     <MESSAGE value="2013/12/07 08:31 viewport test 3" />
     <MESSAGE value="2013/12/07 08:31 viewport test 4" />
     <MESSAGE value="2013/12/07 11:14 p.m. initial-scale=0.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/07 11:14 p.m. initial-scale=0.5" />
+    <MESSAGE value="2013/12/07 11:51 p.m. overflow-x: hidden;" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/07 11:51 p.m. overflow-x: hidden;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -625,7 +628,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20131203/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="406" column="8" selection-start="7864" selection-end="7864" vertical-scroll-proportion="0.7196262" vertical-offset="5628" max-vertical-offset="7005">
+        <state line="413" column="22" selection-start="8057" selection-end="8057" vertical-scroll-proportion="0.50934577" vertical-offset="5868" max-vertical-offset="7005">
           <folding />
         </state>
       </provider>
