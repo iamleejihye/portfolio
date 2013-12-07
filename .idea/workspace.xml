@@ -88,7 +88,7 @@
           <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/20131203/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="413" column="22" selection-start="8057" selection-end="8057" vertical-scroll-proportion="0.50934577" vertical-offset="5868" max-vertical-offset="7005">
+                <state line="376" column="5" selection-start="7225" selection-end="7225" vertical-scroll-proportion="1.1168225" vertical-offset="4923" max-vertical-offset="7215">
                   <folding />
                 </state>
               </provider>
@@ -468,7 +468,11 @@
       <created>1386427875154</created>
       <updated>1386427875154</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="2013/12/07 11:53 p.m. 마진">
+      <created>1386428044679</created>
+      <updated>1386428044679</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -510,7 +514,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/11/27 01:47 a.m. height 문제" />
     <MESSAGE value="2013/11/27 01:59 a.m. 웹스톰이 이상해!" />
     <MESSAGE value="2013/11/27 11:38 a.m. app까지 일단!" />
     <MESSAGE value="2013/11/27 01:01 a.m. resume" />
@@ -535,7 +538,8 @@
     <MESSAGE value="2013/12/07 08:31 viewport test 4" />
     <MESSAGE value="2013/12/07 11:14 p.m. initial-scale=0.5" />
     <MESSAGE value="2013/12/07 11:51 p.m. overflow-x: hidden;" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/07 11:51 p.m. overflow-x: hidden;" />
+    <MESSAGE value="2013/12/07 11:53 p.m. 마진" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/07 11:53 p.m. 마진" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -628,7 +632,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20131203/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="413" column="22" selection-start="8057" selection-end="8057" vertical-scroll-proportion="0.50934577" vertical-offset="5868" max-vertical-offset="7005">
+        <state line="376" column="5" selection-start="7225" selection-end="7225" vertical-scroll-proportion="1.1168225" vertical-offset="4923" max-vertical-offset="7215">
           <folding />
         </state>
       </provider>

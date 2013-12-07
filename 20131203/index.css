@@ -368,6 +368,13 @@ footer span a.mail {
         left: 50%;
         margin-left: -36%;
     }
+    html,
+    body,
+    section {
+        overflow:auto;
+        overflow-x:hidden;
+        overflow-y:auto;
+    }
     html { background-color: #ebebed; }
     body { width: 712px; }
     header { width: 712px; }
@@ -438,6 +445,13 @@ footer span a.mail {
         position: absolute;
         left: 50%;
         margin-left: -50%;
+    }
+    html,
+    body,
+    section {
+        overflow:auto;
+        overflow-x:hidden;
+        overflow-y:auto;
     }
     html { background-color: #ebebed; }
     body { width: 480px; }
