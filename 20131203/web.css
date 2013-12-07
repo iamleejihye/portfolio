@@ -124,8 +124,10 @@ section {
     top: 86px;
     left: 0;
     right: 0;
-    bottom: 0;
-    padding: 80px 9%;
+    padding-left: 9%;
+    padding-right: 9%;
+    padding-top: 50px;
+    padding-bottom: 100px;
     background-color: #ebebed;
 }
 
@@ -135,8 +137,6 @@ section article {
     display: block;
     -webki-flex: 1 1 1052px;
     min-width: 1052px;
-    min-height: inherit;
-    margin-bottom: 28px;
     position: relative;
     overflow: hidden;
     border-top-left-radius: 6px;
@@ -179,10 +179,8 @@ section article #padding #information h1 {
     color: #afb0b1;
 }
 
-section article #padding #information #content #date,
-section article #padding #information #content #number,
-section article #padding #information #content #program {
-    width: 200px;
+section article #padding #information {
+    width: 220px;
 }
 
 section article #padding #information #content {
@@ -239,14 +237,21 @@ section article #padding #information #content #program .ws {
 }
 
 section article #padding #information p  {
-    font-size: 14px;
+    font-size: 13px;
     font-family: "Apple SD Gothic Neo";
-    letter-spacing: -1px;
-    margin-bottom: 3px;
+    letter-spacing: -0.03rem;
     color: #afb0b1;
+    line-height: 22px;
+    text-align: justify ;
 }
 
+section article #padding #photo {
+    padding-left: 278px;
+}
 
+section article #padding #photo img:first-child {
+    padding-bottom: 30px;
+}
 
 
 /* footer */
