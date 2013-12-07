@@ -124,7 +124,6 @@ section {
     top: 86px;
     left: 0;
     right: 0;
-    bottom: 0;
     padding: 80px 9%;
     background-color: #ebebed;
 }
@@ -393,7 +392,6 @@ footer span a.mail {
 /* MOBILE LAYOUT (PORTRAIT/320PX)
 ----------------------------------------------- */
 @media only screen and (max-width: 767px) {
-    header,
     section,
     footer {
         width: 320px;
@@ -401,11 +399,20 @@ footer span a.mail {
         left: 50%;
         margin-left: -50%;
     }
+    html,
+    body,
+    section {
+        overflow:auto;
+        overflow-x:hidden;
+        overflow-y:auto;
+    }
     html { background-color: #ebebed; }
     body { width: 320px; }
     header { width: 320px; }
     header #wrap1 nav { width: 70%; }
-    footer {width: 320px; }
+    section {
+        margin-top: -20px;
+    }
     footer #wrap2 .copyright { display: none; }
     .resfooter {
         bottom: 0;
