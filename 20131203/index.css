@@ -360,7 +360,6 @@ footer span a.mail {
 ----------------------------------------------- */
 
 @media only screen and (min-width: 768px) and (max-width: 1174px) {
-    header,
     section,
     footer {
         width: 712px;
@@ -438,7 +437,6 @@ footer span a.mail {
 ----------------------------------------------- */
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-    header,
     section,
     footer {
         width: 480px;
