@@ -367,6 +367,10 @@ footer span a.mail {
         left: 50%;
         margin-left: -36%;
     }
+    header {
+        margin-left: -36%;
+        left: 50%;
+    }
     html,
     body,
     section {
@@ -405,6 +409,10 @@ footer span a.mail {
         left: 50%;
         margin-left: -50%;
     }
+    header {
+        margin-left: -50%;
+        left: 50%;
+    }
     html,
     body,
     section {
@@ -437,12 +445,17 @@ footer span a.mail {
 ----------------------------------------------- */
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
+
     section,
     footer {
         width: 480px;
         position: absolute;
         left: 50%;
         margin-left: -50%;
+    }
+    header {
+        margin-left: -50%;
+        left: 50%;
     }
     html,
     body,
