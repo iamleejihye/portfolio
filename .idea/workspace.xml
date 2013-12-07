@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/web.html" afterPath="$PROJECT_DIR$/20131203/web.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -71,10 +72,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="web.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="web.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/20131203/web.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="68" column="26" selection-start="2844" selection-end="2844" vertical-scroll-proportion="0.60679615" vertical-offset="645" max-vertical-offset="1515">
+                <state line="5" column="43" selection-start="168" selection-end="168" vertical-scroll-proportion="0.12135922" vertical-offset="0" max-vertical-offset="1530">
                   <folding />
                 </state>
               </provider>
@@ -93,7 +94,7 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="web.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="web.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/20131203/web.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state line="251" column="47" selection-start="5190" selection-end="5190" vertical-scroll-proportion="0.49376947" vertical-offset="3448" max-vertical-offset="6645">
@@ -137,8 +138,8 @@
         <option value="$PROJECT_DIR$/resume.css" />
         <option value="$PROJECT_DIR$/20131203/index.css" />
         <option value="$PROJECT_DIR$/20131203/index.html" />
-        <option value="$PROJECT_DIR$/20131203/web.html" />
         <option value="$PROJECT_DIR$/20131203/web.css" />
+        <option value="$PROJECT_DIR$/20131203/web.html" />
       </list>
     </option>
   </component>
@@ -200,6 +201,30 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Iamleejihye" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Iamleejihye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greedygirl.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Iamleejihye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greedygirl.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20131203" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -420,13 +445,18 @@
       <created>1386414720763</created>
       <updated>1386414720763</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="2013/12/07 08:29 p.m.">
+      <created>1386415790665</created>
+      <updated>1386415790665</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1276" height="778" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -449,7 +479,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -485,7 +514,8 @@
     <MESSAGE value="2013/12/06 04:46 p.m. border 수정 Resume 아이콘 수정" />
     <MESSAGE value="2013/12/07 07:12 p.m. web.html" />
     <MESSAGE value="2013/12/07 08:11 p.m." />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/07 08:11 p.m." />
+    <MESSAGE value="2013/12/07 08:29 p.m." />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/07 08:29 p.m." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -550,7 +580,9 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="198" column="22" selection-start="4044" selection-end="4044" vertical-scroll-proportion="4.6261683" vertical-offset="0" max-vertical-offset="3405" />
+        <state line="198" column="22" selection-start="4044" selection-end="4044" vertical-scroll-proportion="4.6261683" vertical-offset="0" max-vertical-offset="3405">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20131203/index.css">
@@ -565,16 +597,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20131203/web.html">
+    <entry file="file://$PROJECT_DIR$/20131203/web.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="26" selection-start="2844" selection-end="2844" vertical-scroll-proportion="0.60679615" vertical-offset="645" max-vertical-offset="1515">
+        <state line="251" column="47" selection-start="5190" selection-end="5190" vertical-scroll-proportion="0.49376947" vertical-offset="3448" max-vertical-offset="6645">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20131203/web.css">
+    <entry file="file://$PROJECT_DIR$/20131203/web.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="251" column="47" selection-start="5190" selection-end="5190" vertical-scroll-proportion="0.49376947" vertical-offset="3448" max-vertical-offset="6645">
+        <state line="5" column="43" selection-start="168" selection-end="168" vertical-scroll-proportion="0.12135922" vertical-offset="0" max-vertical-offset="1530">
           <folding />
         </state>
       </provider>
