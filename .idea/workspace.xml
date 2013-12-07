@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/index.css" afterPath="$PROJECT_DIR$/20131203/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -484,7 +483,11 @@
       <created>1386429186689</created>
       <updated>1386429186689</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="2013/12/08 12:12 header left: 50%">
+      <created>1386429859939</created>
+      <updated>1386429859939</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -526,7 +529,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/04 06:06 p.m. 포폴 사이트 재구성" />
     <MESSAGE value="2013/12/05 06:07 p.m. 화이팅" />
     <MESSAGE value="2013/12/05 06:20 p.m." />
     <MESSAGE value="2013/12/05 06:55 p.m." />
@@ -551,7 +553,8 @@
     <MESSAGE value="2013/12/08 12:07 overflow: hidden 와이드 레이아웃 빼고 다" />
     <MESSAGE value="2013/12/08 12:10 overflow: hidden 와이드 레이아웃 빼고 다" />
     <MESSAGE value="2013/12/08 12:12 header absolute에서 뺌" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 12:12 header absolute에서 뺌" />
+    <MESSAGE value="2013/12/08 12:12 header left: 50%" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 12:12 header left: 50%" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
