@@ -84,7 +84,7 @@
           <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/20131203/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="7" column="75" selection-start="274" selection-end="274" vertical-scroll-proportion="0.1699029" vertical-offset="0" max-vertical-offset="1770">
+                <state line="31" column="35" selection-start="911" selection-end="911" vertical-scroll-proportion="0.75242716" vertical-offset="0" max-vertical-offset="1770">
                   <folding />
                 </state>
               </provider>
@@ -457,7 +457,11 @@
       <created>1386416342073</created>
       <updated>1386416342073</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="2013/12/07 08:31 viewport test 3">
+      <created>1386416413858</created>
+      <updated>1386416413858</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -499,7 +503,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/11/27 12:10 a.m. 업로드" />
     <MESSAGE value="2013/11/27 12:35 a.m. 업로드" />
     <MESSAGE value="2013/11/27 01:19 a.m. 업로드" />
     <MESSAGE value="2013/11/27 01:30 a.m. 설명 추가" />
@@ -524,7 +527,8 @@
     <MESSAGE value="2013/12/07 08:29 p.m." />
     <MESSAGE value="2013/12/07 08:31 viewport test" />
     <MESSAGE value="2013/12/07 08:31 viewport test 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/07 08:31 viewport test 2" />
+    <MESSAGE value="2013/12/07 08:31 viewport test 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/07 08:31 viewport test 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -615,7 +619,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20131203/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="75" selection-start="274" selection-end="274" vertical-scroll-proportion="0.1699029" vertical-offset="0" max-vertical-offset="1770">
+        <state line="31" column="35" selection-start="911" selection-end="911" vertical-scroll-proportion="0.75242716" vertical-offset="0" max-vertical-offset="1770">
           <folding />
         </state>
       </provider>
