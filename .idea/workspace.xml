@@ -2,59 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/css/animation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/css/editorial.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/editorial.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/css/event.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/event.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/css/font.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/css/illustration.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/illustration.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/css/social.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/social.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/02.jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resource/image/social/free poster design" afterPath="$PROJECT_DIR$/resource/image/social/01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/editorial/01.jpg" afterPath="$PROJECT_DIR$/resource/image/editorial/01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/editorial/02.jpg" afterPath="$PROJECT_DIR$/resource/image/editorial/02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar10.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar11.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar12.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar2.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar3.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar4.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar5.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar6.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar7.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar8.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar9.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/poster-02.jpg" afterPath="$PROJECT_DIR$/resource/image/font/poster-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/event/thumbnail.png" afterPath="$PROJECT_DIR$/resource/image/event/thumbnail.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/app.css" afterPath="$PROJECT_DIR$/resource/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.html" afterPath="$PROJECT_DIR$/app.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/index.css" afterPath="$PROJECT_DIR$/resource/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/web.css" afterPath="$PROJECT_DIR$/resource/css/web.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web.html" afterPath="$PROJECT_DIR$/web.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -124,7 +71,7 @@
           <file leaf-file-name="animation.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/animation.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="48" column="57" selection-start="2235" selection-end="2235" vertical-scroll-proportion="0.776699" vertical-offset="240" max-vertical-offset="1455">
+                <state line="48" column="57" selection-start="2235" selection-end="2235" vertical-scroll-proportion="1.1650486" vertical-offset="0" max-vertical-offset="1455">
                   <folding />
                 </state>
               </provider>
@@ -679,7 +626,11 @@
       <created>1386516998958</created>
       <updated>1386516998958</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="2013/12/08 02:21 a.m. 링크 완성">
+      <created>1386523274517</created>
+      <updated>1386523274517</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -721,7 +672,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/08 12:10 overflow: hidden 와이드 레이아웃 빼고 다" />
     <MESSAGE value="2013/12/08 12:12 header absolute에서 뺌" />
     <MESSAGE value="2013/12/08 12:12 header left: 50%" />
     <MESSAGE value="2013/12/08 12:24 header left: 50%" />
@@ -746,7 +696,8 @@
     <MESSAGE value="2013/12/08 12:29 a.m. 썸네일 업로드" />
     <MESSAGE value="2013/12/08 12:33 a.m. 썸네일 업로드" />
     <MESSAGE value="2013/12/08 12:36 a.m. 확대 금지" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 12:36 a.m. 확대 금지" />
+    <MESSAGE value="2013/12/08 02:21 a.m. 링크 완성" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 02:21 a.m. 링크 완성" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -852,7 +803,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/animation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="57" selection-start="2235" selection-end="2235" vertical-scroll-proportion="0.776699" vertical-offset="240" max-vertical-offset="1455">
+        <state line="48" column="57" selection-start="2235" selection-end="2235" vertical-scroll-proportion="1.1650486" vertical-offset="0" max-vertical-offset="1455">
           <folding />
         </state>
       </provider>
