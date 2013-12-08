@@ -1,0 +1,439 @@
+/* ==========================================================================
+ * User: Jihye Lee
+ * Date: 2013. 12.03.
+ * Time: 오후 01:59
+ ========================================================================== */
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+html,
+body,
+a {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.icon {
+    display: inline-block;
+    position: relative;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-image: url('sprite.png');
+    background-size: 196px 104px;
+}
+
+button {
+    border: 0;
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+/* header */
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 86px;
+    background-color: #ebebed;
+    z-index: 1;
+}
+
+header #wrap1 {
+    display: table;
+    padding: 23px 9%;
+}
+
+header #logo {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+header .logo {
+    width: 128px;
+    height: 37px;
+    background-position: 0 0;
+}
+
+header #wrap1 nav {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+header #wrap1 nav span {
+    display: table;
+}
+
+header #wrap1 nav span button {
+    margin-left: 15px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+header #wrap1 nav span button.view {
+    width: 26px;
+    height: 12px;
+    background-position: -130px 0;
+}
+
+header #wrap1 nav span button.profile {
+    width: 16px;
+    height: 20px;
+    background-position: -163px 0;
+}
+
+
+header .logo:hover,
+header #wrap1 nav span button.view:hover,
+header #wrap1 nav span button.profile:hover,
+footer button.resume:hover,
+footer span a.instagram:hover,
+footer span a.facebook:hover,
+footer span a.tumblr:hover,
+footer span a.mail:hover {
+    opacity: .7;
+    transition: 0.2s linear;
+}
+
+/* section */
+
+section {
+    position: absolute;
+    top: 86px;
+    left: 0;
+    right: 0;
+    padding-left: 9%;
+    padding-right: 9%;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-color: #ebebed;
+}
+
+/* 컨텐츠 박스 */
+
+section article {
+    display: block;
+    -webki-flex: 1 1 1052px;
+    min-width: 1052px;
+    position: relative;
+    overflow: hidden;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border: 1px solid #e0e0e0;
+    background-color: #fff;
+}
+
+/* 컨텐츠 박스 윗부분 */
+
+section article nav {
+    position: relative;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    top: 0;
+    color: #fff;
+    font-size: 9px;
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    padding: 9px;
+    background-color: #92ce6f;
+}
+
+
+/* 컨텐츠 박스 윗부분에 들어가는 아이콘 */
+
+section article nav i.webicon {
+    width: 16px;
+    height: 14px;
+    background-position: 0 -37px;
+}
+
+section article #padding {
+    padding: 60px 50px;
+}
+
+
+section article #padding #information h1 {
+    font-size: 25px;
+    font-weight: 700;
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    margin-bottom: 18px;
+    color: #afb0b1;
+}
+
+section article #padding #information {
+    width: 220px;
+}
+
+section article #padding #information #content {
+    margin-bottom: 20px;
+    color: #afb0b1;
+    width: 220px;
+    border-top: 1px solid #e4e6e8;
+    border-bottom: 1px solid #e4e6e8;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+section article #padding #information #content h2 {
+    width: 88px;
+    text-align: right;
+    font-size: 14px;
+    font-family: "apple sd gothic neo";
+    line-height: 28px;
+    font-weight: 600;
+    padding-right: 17px;
+}
+
+section article #padding #information #content h3 {
+    text-align: left;
+    font-size: 14px;
+    font-family: "apple sd gothic neo";
+    line-height: 28px;
+    font-weight: 100;
+}
+
+section article #padding #information #content #number .people {
+    background-position: -46px -75px;
+    width: 20px;
+    height: 24px;
+}
+
+section article #padding #information #content #program .ps {
+    margin-top: 3px;
+    background-position: 0 -54px;
+    width: 20px;
+    height: 20px;
+}
+
+section article #padding #information #content #program .ai {
+    background-position: -22px -54px;
+    width: 20px;
+    height: 20px;
+}
+
+section article #padding #information #content #program .ws {
+    background-position: -22px -75px;
+    width: 22px;
+    height: 19px;
+}
+
+section article #padding #information p  {
+    font-size: 13px;
+    font-family: "Apple SD Gothic Neo";
+    letter-spacing: -0.03rem;
+    color: #afb0b1;
+    line-height: 22px;
+    text-align: justify ;
+}
+
+section article #padding #photo {
+    padding-left: 278px;
+}
+
+section article #padding #photo img:first-child {
+    padding-bottom: 30px;
+}
+
+
+/* footer */
+
+footer {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    height: 50px;
+    z-index: 1;
+    background-color: #afb0b1;
+}
+
+footer #wrap2 {
+    padding: 15px 9%;
+}
+
+footer button.resume {
+    width: 24px;
+    height: 22px;
+    background-position: -132px -15px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 13px;
+}
+
+footer #wrap2 a[title]:hover:after {
+    content: attr(title);
+    position: relative;
+    padding: 4px 8px;
+    background-color: #000000;
+    opacity: .5;
+    border-radius: 3px;
+    left: -3.5%;
+    top: -35px;
+}
+
+footer .copyright {
+    font-size: 10px;
+    color: #fff;
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    padding-left: 15px;
+    display: inline-block;
+}
+
+footer span a {
+    position: relative;
+    top: 2px;
+    margin-left: 15px;
+}
+
+footer span a.instagram {
+    width: 15px;
+    height: 15px;
+    background-position: -141px -45px;
+}
+
+footer span a.facebook {
+    width: 8px;
+    height: 15px;
+    background-position: -158px -45px;
+}
+
+footer span a.tumblr {
+    width: 11px;
+    height: 15px;
+    background-position: -168px -45px;
+}
+
+footer span a.mail {
+    width: 15px;
+    height: 13px;
+    background-position: -181px -45px;
+}
+
+/* WIDE DESKTOP LAYOUT
+----------------------------------------------- */
+
+@media only screen and (min-width: 1175px) {
+    html { background-color: #ebebed; }
+    body { width: 1080px; }
+    header #wrap1 nav { width: 90%; }
+}  /* CLOSE WIDE LAYOUT */
+
+/* TABLET LAYOUT
+----------------------------------------------- */
+
+@media only screen and (min-width: 768px) and (max-width: 1174px) {
+    header,
+    section,
+    footer {
+        width: 712px;
+        position: absolute;
+        left: 50%;
+        margin-left: -36%;
+    }
+    html { background-color: #ebebed; }
+    body { width: 712px; }
+    header { width: 712px; }
+    header #wrap1 nav { width: 80%; }
+    footer {width: 712px; }
+    .resfooter {
+        bottom: 0;
+        left: 0;
+        right: 0;
+        position: fixed;
+        height: 50px;
+        z-index: 1;
+        background-color: #afb0b1;
+    }
+    section { width: 712px; }
+
+}
+
+ /* CLOSE TABLET LAYOUT */
+
+
+/* MOBILE LAYOUT (PORTRAIT/320PX)
+----------------------------------------------- */
+@media only screen and (max-width: 767px) {
+    header,
+    section,
+    footer {
+        width: 320px;
+        position: absolute;
+        left: 50%;
+        margin-left: -50%;
+    }
+    html { background-color: #ebebed; }
+    body { width: 320px; }
+    header { width: 320px; }
+    header #wrap1 nav { width: 70%; }
+    footer {width: 320px; }
+    footer #wrap2 .copyright { display: none; }
+    .resfooter {
+        bottom: 0;
+        left: 0;
+        right: 0;
+        position: fixed;
+        height: 50px;
+        z-index: 1;
+        background-color: #afb0b1;
+    }
+    section { width: 320px; }
+
+} /* CLOSE MOBILE LAYOUT */
+
+/* WIDE MOBILE LAYOUT (LANDSCAPE/480PX)
+----------------------------------------------- */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    header,
+    section,
+    footer {
+        width: 480px;
+        position: absolute;
+        left: 50%;
+        margin-left: -50%;
+    }
+    html { background-color: #ebebed; }
+    body { width: 480px; }
+    header { width: 480px; }
+    header #wrap1 nav { width: 85%; }
+    footer {width: 480px; }
+    footer #wrap2 .copyright { display: none; }
+    .resfooter {
+        bottom: 0;
+        left: 0;
+        right: 0;
+        position: fixed;
+        height: 50px;
+        z-index: 1;
+        background-color: #afb0b1;
+    }
+    section {
+        width: 480px;
+        padding: 80px 19%;
+    }
+} /* CLOSE WIDE MOBILE LAYOUT */

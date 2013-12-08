@@ -2,7 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/index.css" afterPath="$PROJECT_DIR$/resource/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/editorial/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/editorial/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/illustration/1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/app/1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/animation/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/illustration/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/illustration/2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/app/2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/animation/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/illustration/3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/app/3.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/animation/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/illustration/4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/app/4.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/animation/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/illustration/5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/app/5.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/animation/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/app/6.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/animation/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/illustration/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/animation/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/illustration/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/animation/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/illustration/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/illustration/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/calendar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/calendar10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/calendar11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/calendar12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/calendar2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/calendar3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/calendar4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/calendar5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/calendar6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/calendar7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/calendar8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/calendar9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/animation/comani_big_.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/social/free poster design.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/social/free poster design" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/greedygirl.github.io.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/web/openmorning-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/font/poster-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/css/web.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resource/image/01.jpg" afterPath="$PROJECT_DIR$/resource/image/web/01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resource/image/02.jpg" afterPath="$PROJECT_DIR$/resource/image/web/02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web.css" afterPath="$PROJECT_DIR$/webd.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web.html" afterPath="$PROJECT_DIR$/webd.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/reset-all.css" afterPath="$PROJECT_DIR$/resource/css/reset-all.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web.html" afterPath="$PROJECT_DIR$/web.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -69,10 +133,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.html">
+          <file leaf-file-name="web.html" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/web.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2055">
+                <state line="67" column="30" selection-start="3400" selection-end="3400" vertical-scroll-proportion="1.3398058" vertical-offset="177" max-vertical-offset="1470">
                   <folding />
                 </state>
               </provider>
@@ -82,10 +146,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/resource/css/index.css">
+          <file leaf-file-name="web.css" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/resource/css/web.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="87" column="18" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.3271028" vertical-offset="1095" max-vertical-offset="4200">
+                <state line="377" column="17" selection-start="7481" selection-end="7481" vertical-scroll-proportion="0.6728972" vertical-offset="5223" max-vertical-offset="5865">
                   <folding />
                 </state>
               </provider>
@@ -115,11 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/ipad.css" />
-        <option value="$PROJECT_DIR$/ipad.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/resume.html" />
-        <option value="$PROJECT_DIR$/resume.css" />
         <option value="$PROJECT_DIR$/20131203/web.html" />
         <option value="$PROJECT_DIR$/20131203/web.css" />
         <option value="$PROJECT_DIR$/20131208/index.css" />
@@ -130,11 +189,17 @@
         <option value="$PROJECT_DIR$/20131203/resource/css/resetandall.css" />
         <option value="$PROJECT_DIR$/20131203/resource/css/index.css" />
         <option value="$PROJECT_DIR$/20131203/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resource/css/index.css" />
+        <option value="$PROJECT_DIR$/webd.css" />
+        <option value="$PROJECT_DIR$/resource/css/reset-all.css" />
+        <option value="$PROJECT_DIR$/web.html" />
+        <option value="$PROJECT_DIR$/resource/css/web.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
     <option name="y" value="22" />
     <option name="width" value="1276" />
     <option name="height" value="778" />
@@ -186,6 +251,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -204,9 +270,58 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Iamleejihye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greedygirl.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Iamleejihye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greedygirl.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Iamleejihye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greedygirl.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -215,7 +330,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="preferences.keymap" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Backbone-Seminars" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -227,11 +342,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resource/image" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/20131203/resource/resume" />
       <recent name="$PROJECT_DIR$/20131203/resource/psd" />
       <recent name="$PROJECT_DIR$/20131208" />
-      <recent name="$PROJECT_DIR$/20131203/image" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/20131203/resource" />
@@ -242,14 +357,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -260,15 +367,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -520,18 +635,20 @@
       <created>1386499032757</created>
       <updated>1386499032757</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="2013/12/08 07:36 p.m. iamleejihye.github.io">
+      <created>1386499339367</created>
+      <updated>1386499339367</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1276" height="778" extended-state="6" />
+    <frame x="4" y="22" width="1276" height="778" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15752351" sideWeight="0.6713836" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -550,6 +667,8 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -593,6 +712,27 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="56" selection-start="1260" selection-end="1260" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/web.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5490">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/reset-all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="198" column="22" selection-start="4044" selection-end="4044" vertical-scroll-proportion="4.6261683" vertical-offset="0" max-vertical-offset="3405">
@@ -600,16 +740,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="14" selection-start="1334" selection-end="1334" vertical-scroll-proportion="0.58411217" vertical-offset="840" max-vertical-offset="4200" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2055">
+        <state line="17" column="29" selection-start="553" selection-end="553" vertical-scroll-proportion="-10.125" vertical-offset="12" max-vertical-offset="2055">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/css/index.css">
+    <entry file="file://$PROJECT_DIR$/webd.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="18" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.3271028" vertical-offset="1095" max-vertical-offset="4200">
+        <state line="70" column="18" selection-start="2992" selection-end="2992" vertical-scroll-proportion="1.1456311" vertical-offset="342" max-vertical-offset="1530">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webd.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="255" column="1" selection-start="3343" selection-end="5222" vertical-scroll-proportion="0.0" vertical-offset="3438" max-vertical-offset="6675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/reset-all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="1" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.95327103" vertical-offset="18" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="30" selection-start="3400" selection-end="3400" vertical-scroll-proportion="1.3398058" vertical-offset="177" max-vertical-offset="1470">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/web.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="377" column="17" selection-start="7481" selection-end="7481" vertical-scroll-proportion="0.6728972" vertical-offset="5223" max-vertical-offset="5865">
           <folding />
         </state>
       </provider>
