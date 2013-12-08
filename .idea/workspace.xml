@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
+    <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="2013/12/08 10:12 p.m. 모바일용 마진 업그레이드">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/web.css" afterPath="$PROJECT_DIR$/resource/css/web.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -85,7 +85,7 @@
           <file leaf-file-name="web.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/resource/css/web.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="349" column="25" selection-start="6863" selection-end="6863" vertical-scroll-proportion="0.5408163" vertical-offset="4917" max-vertical-offset="6015">
+                <state line="386" column="24" selection-start="7576" selection-end="7576" vertical-scroll-proportion="0.8469388" vertical-offset="5292" max-vertical-offset="6015">
                   <folding />
                 </state>
               </provider>
@@ -569,7 +569,11 @@
       <created>1386508097753</created>
       <updated>1386508097753</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="2013/12/08 10:12 p.m. 모바일용 마진 업그레이드">
+      <created>1386508366341</created>
+      <updated>1386508366341</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -611,7 +615,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/07 08:29 p.m." />
     <MESSAGE value="2013/12/07 08:31 viewport test" />
     <MESSAGE value="2013/12/07 08:31 viewport test 2" />
     <MESSAGE value="2013/12/07 08:31 viewport test 3" />
@@ -636,7 +639,8 @@
     <MESSAGE value="2013/12/08 08:58 p.m. web.html" />
     <MESSAGE value="2013/12/08 10:06 p.m. web.html 완성" />
     <MESSAGE value="2013/12/08 10:07 p.m. web.html #information margin-bottom" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 10:07 p.m. web.html #information margin-bottom" />
+    <MESSAGE value="2013/12/08 10:12 p.m. 모바일용 마진 업그레이드" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 10:12 p.m. 모바일용 마진 업그레이드" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -714,7 +718,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/css/web.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="349" column="25" selection-start="6863" selection-end="6863" vertical-scroll-proportion="0.5408163" vertical-offset="4917" max-vertical-offset="6015">
+        <state line="386" column="24" selection-start="7576" selection-end="7576" vertical-scroll-proportion="0.8469388" vertical-offset="5292" max-vertical-offset="6015">
           <folding />
         </state>
       </provider>
