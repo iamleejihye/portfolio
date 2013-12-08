@@ -190,6 +190,10 @@ header nav .vertical1 .menu1 i.profile {
     background-position: -123px -44px;
 }
 
+#content ul li .whitebox img {
+    width: 240px;
+    height: auto;
+}
 
 /* footer */
 
