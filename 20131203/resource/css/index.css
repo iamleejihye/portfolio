@@ -255,4 +255,9 @@ footer address .vertical2 .menu2 i.mail {
     footer address .vertical2 span.copyright {
         display: none;
     }
+
+    #content ul li .whitebox {
+        margin-right: 0px;
+    }
+
 }
