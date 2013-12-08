@@ -23,6 +23,7 @@ footer {
 header {
     height: 70px;
     background-color: #ebebed;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.02);
 }
 
 header nav,
@@ -77,17 +78,17 @@ header nav .vertical1 .menu1 i.profile {
 }
 
 #content ul li .whitebox {
-    width: 241px;
+    width: 240px;
     height: 198px;
     background-color: #fff;
     border-top-right-radius: 6px;
     border-top-left-radius: 6px;
     border: 1px solid #e0e0e0;
-    margin-right: 13px;
-    margin-bottom: 28px;
+    margin: 14px 7px;
 }
 
 #content ul li .whitebox label {
+    text-align: left;
     height: 30px;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
