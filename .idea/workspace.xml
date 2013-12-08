@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/ipad.css" description="article .content-block .explanation {" line="170" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/resource/css/index.css" afterPath="$PROJECT_DIR$/20131203/resource/css/index.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Iamleejihye.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iamleejihye.github.io.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/03.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/04.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/05.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/06.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/07.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/resume.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ipad.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ipad.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/openmorning.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/openmorning.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resume.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resume.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resume_leejihye.pdf" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/resource/css/index.css" afterPath="$PROJECT_DIR$/resource/css/index.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/resource/css/reset-all.css" afterPath="$PROJECT_DIR$/resource/css/reset-all.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/resource/image/01.jpg" afterPath="$PROJECT_DIR$/resource/image/01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/resource/image/02.jpg" afterPath="$PROJECT_DIR$/resource/image/02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/resource/psd/20131203.psd" afterPath="$PROJECT_DIR$/resource/psd/20131203.psd" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/resource/resume/resume_leejihye.pdf" afterPath="$PROJECT_DIR$/resource/resume/resume_leejihye.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/sprite.png" afterPath="$PROJECT_DIR$/sprite.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/web.css" afterPath="$PROJECT_DIR$/web.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/web.html" afterPath="$PROJECT_DIR$/web.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -69,34 +96,17 @@
     <favorites_list name="Iamleejihye" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/20131203/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="25" column="31" selection-start="735" selection-end="735" vertical-scroll-proportion="0.60679615" vertical-offset="0" max-vertical-offset="2055">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/20131203/resource/css/index.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="257" column="23" selection-start="4881" selection-end="4881" vertical-scroll-proportion="0.50934577" vertical-offset="3528" max-vertical-offset="4200">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resource/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4200">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -132,8 +142,8 @@
         <option value="$PROJECT_DIR$/20131203/resource/index.css" />
         <option value="$PROJECT_DIR$/20131203/resource/css/reset.css" />
         <option value="$PROJECT_DIR$/20131203/resource/css/resetandall.css" />
-        <option value="$PROJECT_DIR$/20131203/index.html" />
         <option value="$PROJECT_DIR$/20131203/resource/css/index.css" />
+        <option value="$PROJECT_DIR$/20131203/index.html" />
       </list>
     </option>
   </component>
@@ -207,82 +217,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Iamleejihye" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="greedygirl.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="20131203" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Iamleejihye" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="greedygirl.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="20131203" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resource" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resume" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Iamleejihye" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="greedygirl.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="20131203" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resource" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Iamleejihye" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="greedygirl.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="20131203" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resource" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -306,10 +240,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/20131203/resource/resume" />
       <recent name="$PROJECT_DIR$/20131203/resource/psd" />
       <recent name="$PROJECT_DIR$/20131208" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/20131203/image" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -591,12 +525,16 @@
       <created>1386498333957</created>
       <updated>1386498333957</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="2013/12/08 07:29 p.m. 미디어 쿼리 수정">
+      <created>1386498576605</created>
+      <updated>1386498576605</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1276" height="778" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -604,7 +542,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15752351" sideWeight="0.6713836" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15752351" sideWeight="0.6713836" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -633,7 +571,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/06 03:19 a.m. Resume pdf 업로드" />
     <MESSAGE value="2013/12/06 04:29 p.m. 아이콘 수정 및 hover 업그레이드" />
     <MESSAGE value="2013/12/06 04:46 p.m. border 수정 Resume 아이콘 수정" />
     <MESSAGE value="2013/12/07 07:12 p.m. web.html" />
@@ -658,49 +595,13 @@
     <MESSAGE value="2013/12/08 07:12 p.m. 메인페이지 완성" />
     <MESSAGE value="2013/12/08 07:15 p.m. 메인페이지 완성" />
     <MESSAGE value="2013/12/08 07:25 p.m. 마진 조정" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 07:25 p.m. 마진 조정" />
+    <MESSAGE value="2013/12/08 07:29 p.m. 미디어 쿼리 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 07:29 p.m. 미디어 쿼리 수정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/openmorning.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="125" selection-start="2220" selection-end="2220" vertical-scroll-proportion="0.8161121" vertical-offset="329" max-vertical-offset="1035" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ipad.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="214" column="3" selection-start="4277" selection-end="4277" vertical-scroll-proportion="0.7966102" vertical-offset="2740" max-vertical-offset="3345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ipad.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="7" selection-start="2720" selection-end="2720" vertical-scroll-proportion="-19.208334" vertical-offset="529" max-vertical-offset="1095" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="281" selection-end="281" vertical-scroll-proportion="0.29151943" vertical-offset="0" max-vertical-offset="1890" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="261" column="1" selection-start="5384" selection-end="5384" vertical-scroll-proportion="0.059322033" vertical-offset="3880" max-vertical-offset="4470" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="214" column="23" selection-start="4271" selection-end="4271" vertical-scroll-proportion="0.69491524" vertical-offset="2800" max-vertical-offset="3450" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="16" selection-start="972" selection-end="972" vertical-scroll-proportion="-2.9583333" vertical-offset="349" max-vertical-offset="960" />
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="198" column="22" selection-start="4044" selection-end="4044" vertical-scroll-proportion="4.6261683" vertical-offset="0" max-vertical-offset="3405">
@@ -708,42 +609,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20131203/web.css">
+    <entry file="file://$PROJECT_DIR$/resource/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="389" column="37" selection-start="7804" selection-end="7804" vertical-scroll-proportion="0.3224299" vertical-offset="5628" max-vertical-offset="6645">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20131203/web.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="75" selection-start="201" selection-end="272" vertical-scroll-proportion="0.16640253" vertical-offset="0" max-vertical-offset="1530">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20131203/sprite.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20131203/resource/css/reset-all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="1" selection-start="965" selection-end="965" vertical-scroll-proportion="0.7242991" vertical-offset="0" max-vertical-offset="750">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20131203/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="31" selection-start="735" selection-end="735" vertical-scroll-proportion="0.60679615" vertical-offset="0" max-vertical-offset="2055">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20131203/resource/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="257" column="23" selection-start="4881" selection-end="4881" vertical-scroll-proportion="0.50934577" vertical-offset="3528" max-vertical-offset="4200">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4200">
           <folding />
         </state>
       </provider>
