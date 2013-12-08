@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/css/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/web/01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/web/02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/web/openmorning-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webd.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webd.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/index.css" afterPath="$PROJECT_DIR$/resource/css/index.css" />
+    <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="2013/12/08 11:25 p.m. 이미지 업로드 빠르게 png 로 바꿈">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web.html" afterPath="$PROJECT_DIR$/web.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -78,10 +69,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="web.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="web.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/web.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="70" column="63" selection-start="3598" selection-end="3598" vertical-scroll-proportion="0.61165047" vertical-offset="672" max-vertical-offset="1470">
+                <state line="70" column="63" selection-start="3598" selection-end="3598" vertical-scroll-proportion="-12.0" vertical-offset="762" max-vertical-offset="1470">
                   <folding />
                 </state>
               </provider>
@@ -96,10 +87,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="65" column="83" selection-start="2462" selection-end="2462" vertical-scroll-proportion="-14.25" vertical-offset="633" max-vertical-offset="2055">
+                <state line="50" column="40" selection-start="1801" selection-end="1801" vertical-scroll-proportion="0.09223301" vertical-offset="693" max-vertical-offset="2055">
                   <folding />
                 </state>
               </provider>
@@ -156,8 +147,8 @@
         <option value="$PROJECT_DIR$/resource/css/index.css" />
         <option value="$PROJECT_DIR$/resource/css/app.css" />
         <option value="$PROJECT_DIR$/app.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/web.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -244,6 +235,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Iamleejihye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greedygirl.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -626,7 +639,11 @@
       <created>1386510120126</created>
       <updated>1386510120126</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="2013/12/08 11:25 p.m. 이미지 업로드 빠르게 png 로 바꿈">
+      <created>1386512727930</created>
+      <updated>1386512727930</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -668,7 +685,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/07 08:31 viewport test 3" />
     <MESSAGE value="2013/12/07 08:31 viewport test 4" />
     <MESSAGE value="2013/12/07 11:14 p.m. initial-scale=0.5" />
     <MESSAGE value="2013/12/07 11:51 p.m. overflow-x: hidden;" />
@@ -693,7 +709,8 @@
     <MESSAGE value="2013/12/08 10:12 p.m. 모바일용 마진 업그레이드" />
     <MESSAGE value="2013/12/08 10:21 p.m. 모바일용 마진 업그레이드" />
     <MESSAGE value="2013/12/08 10:41 p.m. information-contents font-weight 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 10:41 p.m. information-contents font-weight 변경" />
+    <MESSAGE value="2013/12/08 11:25 p.m. 이미지 업로드 빠르게 png 로 바꿈" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 11:25 p.m. 이미지 업로드 빠르게 png 로 바꿈" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -762,16 +779,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/web.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="83" selection-start="2462" selection-end="2462" vertical-scroll-proportion="-14.25" vertical-offset="633" max-vertical-offset="2055">
+        <state line="70" column="63" selection-start="3598" selection-end="3598" vertical-scroll-proportion="-12.0" vertical-offset="762" max-vertical-offset="1470">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="63" selection-start="3598" selection-end="3598" vertical-scroll-proportion="0.61165047" vertical-offset="672" max-vertical-offset="1470">
+        <state line="50" column="40" selection-start="1801" selection-end="1801" vertical-scroll-proportion="0.09223301" vertical-offset="693" max-vertical-offset="2055">
           <folding />
         </state>
       </provider>
