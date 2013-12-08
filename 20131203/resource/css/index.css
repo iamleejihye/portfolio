@@ -1,0 +1,107 @@
+/* ==========================================================================
+ * User: Jihye Lee
+ * Date: 2013. 12.03.
+ * Time: 오후 01:59
+ ========================================================================== */
+
+@import "reset-all.css";
+
+/* 헤더와 푸터의 위치를 고정시키고 브라우저 넓이에 맞춤 */
+header,
+footer {
+    position: fixed;
+    left: 0;
+    right: 0;
+}
+
+header {
+    height: 70px;
+    background-color: #ebebed;
+}
+
+header nav,
+#content,
+footer address {
+    width: 81%;
+    margin: 0 auto;
+    height: inherit;
+}
+
+header nav .vertical1 {
+    position: relative;
+    padding: 16px 0;
+    height: 37px;
+}
+
+header nav .vertical1 i.logo {
+    width: 128px;
+    height: 37px;
+    background-position: 0 0 ;
+}
+
+header nav .vertical1 .menu1 i.view {
+    margin-top: 14px;
+    width: 31px;
+    height: 15px;
+    background-position: -130px 0;
+}
+
+header nav .vertical1 .menu1 i.profile {
+    margin-left: 5px;
+    width: 16px;
+    height: 20px;
+    background-position: -163px 0;
+}
+
+#content {
+    /* 헤더와 푸터에 가리지 않게 패딩을 적용 */
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+footer {
+    height: 50px;
+    bottom: 0;
+    background-color: #afb0b1;
+}
+
+footer address .vertical2 {
+    position: relative;
+    padding: 14px 0;
+    height: 22px;
+}
+
+footer address .vertical2 i.resume {
+    width: 24px;
+    height: 22px;
+    background-position: -132px -16px;
+}
+
+footer address .vertical2 .menu2 span.copyright {
+    color: #fff;
+    font-size: 10px;
+}
+
+footer address .vertical2 .menu2 i.instagram {
+    width: 15px;
+    height: 16px;
+    background-position: -141px -44px;
+}
+
+footer address .vertical2 .menu2 i.facebook {
+    width: 8px;
+    height: 16px;
+    background-position: -158px -44px;
+}
+
+footer address .vertical2 .menu2 i.tumblr {
+    width: 11px;
+    height: 16px;
+    background-position: -168px -44px;
+}
+
+footer address .vertical2 .menu2 i.mail {
+    width: 15px;
+    height: 15px;
+    background-position: -181px -44px;
+}

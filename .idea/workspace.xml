@@ -5,6 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20131203/resource/psd/20131203.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20131203/resource/resume/resume_leejihye.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20131203/resource/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20131203/resource/css/reset-all.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20131203/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20131203/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20131203/normalize.css" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/image/01.jpg" afterPath="$PROJECT_DIR$/20131203/resource/image/01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/image/02.jpg" afterPath="$PROJECT_DIR$/20131203/resource/image/02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/index.html" afterPath="$PROJECT_DIR$/20131203/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/web.html" afterPath="$PROJECT_DIR$/20131203/web.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -74,7 +85,7 @@
           <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/20131203/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="14" column="23" selection-start="396" selection-end="396" vertical-scroll-proportion="0.31553397" vertical-offset="15" max-vertical-offset="1770">
+                <state line="32" column="20" selection-start="989" selection-end="989" vertical-scroll-proportion="0.776699" vertical-offset="0" max-vertical-offset="720">
                   <folding />
                 </state>
               </provider>
@@ -85,9 +96,9 @@
       <split-second>
         <leaf>
           <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/20131203/index.css">
+            <entry file="file://$PROJECT_DIR$/20131203/resource/css/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="412" column="12" selection-start="7958" selection-end="7958" vertical-scroll-proportion="0.33333334" vertical-offset="5966" max-vertical-offset="7380">
+                <state line="84" column="46" selection-start="1483" selection-end="1483" vertical-scroll-proportion="0.6962617" vertical-offset="813" max-vertical-offset="1680">
                   <folding />
                 </state>
               </provider>
@@ -117,9 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.coffee" />
-        <option value="$PROJECT_DIR$/portfolio.css" />
-        <option value="$PROJECT_DIR$/openmorning.css" />
         <option value="$PROJECT_DIR$/openmorning.html" />
         <option value="$PROJECT_DIR$/ipad.css" />
         <option value="$PROJECT_DIR$/ipad.html" />
@@ -127,11 +135,15 @@
         <option value="$PROJECT_DIR$/resume.html" />
         <option value="$PROJECT_DIR$/resume.css" />
         <option value="$PROJECT_DIR$/20131203/web.html" />
-        <option value="$PROJECT_DIR$/20131203/index.html" />
         <option value="$PROJECT_DIR$/20131203/web.css" />
-        <option value="$PROJECT_DIR$/20131203/index.css" />
         <option value="$PROJECT_DIR$/20131208/index.css" />
         <option value="$PROJECT_DIR$/20131208/index.html" />
+        <option value="$PROJECT_DIR$/20131203/index.css" />
+        <option value="$PROJECT_DIR$/20131203/resource/index.css" />
+        <option value="$PROJECT_DIR$/20131203/resource/css/reset.css" />
+        <option value="$PROJECT_DIR$/20131203/resource/css/resetandall.css" />
+        <option value="$PROJECT_DIR$/20131203/resource/css/index.css" />
+        <option value="$PROJECT_DIR$/20131203/index.html" />
       </list>
     </option>
   </component>
@@ -219,6 +231,68 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Iamleejihye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greedygirl.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20131203" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resume" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Iamleejihye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greedygirl.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20131203" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Iamleejihye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greedygirl.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20131203" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -242,13 +316,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/20131203/resource/resume" />
+      <recent name="$PROJECT_DIR$/20131203/resource/psd" />
       <recent name="$PROJECT_DIR$/20131208" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/20131203/image" />
-      <recent name="$PROJECT_DIR$/20131203" />
-      <recent name="$PROJECT_DIR$/image" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/20131203/resource" />
+      <recent name="$PROJECT_DIR$/20131203/resource/css" />
       <recent name="$PROJECT_DIR$/image" />
       <recent name="$PROJECT_DIR$/sangsangmun1dong" />
       <recent name="$PROJECT_DIR$" />
@@ -497,7 +573,11 @@
       <created>1386484128442</created>
       <updated>1386484128442</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="2013/12/08 03:28 최종">
+      <created>1386484151014</created>
+      <updated>1386484151014</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -508,6 +588,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15752351" sideWeight="0.6713836" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -526,7 +607,6 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -607,11 +687,6 @@
         <state line="28" column="16" selection-start="972" selection-end="972" vertical-scroll-proportion="-2.9583333" vertical-offset="349" max-vertical-offset="960" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20131203/sprite.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="198" column="22" selection-start="4044" selection-end="4044" vertical-scroll-proportion="4.6261683" vertical-offset="0" max-vertical-offset="3405">
@@ -633,16 +708,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20131203/index.css">
+    <entry file="file://$PROJECT_DIR$/20131203/sprite.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20131203/resource/css/reset-all.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="412" column="12" selection-start="7958" selection-end="7958" vertical-scroll-proportion="0.33333334" vertical-offset="4841" max-vertical-offset="7380">
+        <state line="31" column="1" selection-start="965" selection-end="965" vertical-scroll-proportion="0.7242991" vertical-offset="0" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20131203/resource/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="46" selection-start="1483" selection-end="1483" vertical-scroll-proportion="0.6962617" vertical-offset="813" max-vertical-offset="1680">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20131203/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="23" selection-start="396" selection-end="396" vertical-scroll-proportion="0.31553397" vertical-offset="15" max-vertical-offset="1770">
+        <state line="32" column="20" selection-start="989" selection-end="989" vertical-scroll-proportion="0.776699" vertical-offset="0" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
