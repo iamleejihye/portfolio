@@ -6,12 +6,18 @@
 
 @import "reset-all.css";
 
+html,
+body {
+    background-color: #ebebed;
+}
+
 /* 헤더와 푸터의 위치를 고정시키고 브라우저 넓이에 맞춤 */
 header,
 footer {
     position: fixed;
     left: 0;
     right: 0;
+    z-index: 2;
 }
 
 header {
@@ -26,6 +32,8 @@ footer address {
     margin: 0 auto;
     height: inherit;
 }
+
+/* header */
 
 header nav .vertical1 {
     position: relative;
@@ -53,11 +61,16 @@ header nav .vertical1 .menu1 i.profile {
     background-position: -163px 0;
 }
 
+/* content */
+
 #content {
     /* 헤더와 푸터에 가리지 않게 패딩을 적용 */
-    padding-top: 70px;
-    padding-bottom: 50px;
+    padding-top: 105px;
+    padding-bottom: 85px;
 }
+
+
+/* footer */
 
 footer {
     height: 50px;
@@ -67,8 +80,8 @@ footer {
 
 footer address .vertical2 {
     position: relative;
-    padding: 14px 0;
-    height: 22px;
+    padding: 15px 0;
+    height: 20px;
 }
 
 footer address .vertical2 i.resume {
@@ -77,31 +90,50 @@ footer address .vertical2 i.resume {
     background-position: -132px -16px;
 }
 
-footer address .vertical2 .menu2 span.copyright {
+footer address .vertical2 .menu2 {
+    margin-left: 5px;
+}
+
+footer address .vertical2 span.copyright {
     color: #fff;
     font-size: 10px;
+    margin-top: 3px;
+}
+
+footer address .vertical2 .menu2 {
+    margin-top: 2px;
 }
 
 footer address .vertical2 .menu2 i.instagram {
     width: 15px;
     height: 16px;
     background-position: -141px -44px;
+    margin-left: 15px;
 }
 
 footer address .vertical2 .menu2 i.facebook {
     width: 8px;
     height: 16px;
     background-position: -158px -44px;
+    margin-left: 7px;
 }
 
 footer address .vertical2 .menu2 i.tumblr {
     width: 11px;
     height: 16px;
     background-position: -168px -44px;
+    margin-left: 7px;
 }
 
 footer address .vertical2 .menu2 i.mail {
     width: 15px;
     height: 15px;
     background-position: -181px -44px;
+    margin-left: 7px;
+}
+
+@media only screen and (max-width: 360px) {
+    footer address .vertical2 span.copyright {
+        display: none;
+    }
 }
