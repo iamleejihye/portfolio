@@ -261,7 +261,7 @@ footer address .vertical2 .menu2 i.mail {
 
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 633px) {
     footer address .vertical2 span.copyright {
         display: none;
     }

@@ -66,7 +66,7 @@ header nav .vertical1 .menu1 i.profile {
 
 #content {
     /* 헤더와 푸터에 가리지 않게 패딩을 적용 */
-    padding-top: 130px;
+    padding-top: 120px;
     padding-bottom: 85px;
 }
 
@@ -76,7 +76,7 @@ header nav .vertical1 .menu1 i.profile {
     border-top-right-radius: 6px;
     border-top-left-radius: 6px;
     border: 1px solid #e0e0e0;
-    margin: 14px 6px;
+    margin-bottom: 100px;
 }
 
 #content .whitebox label {
@@ -196,7 +196,7 @@ header nav .vertical1 .menu1 i.profile {
 }
 
 #content .whitebox #padding #information {
-    width: 25%;
+    width: 32%;
     margin-right: 5%;
 }
 
@@ -210,18 +210,22 @@ header nav .vertical1 .menu1 i.profile {
     padding-bottom: 15px;
 }
 
+#content .whitebox #padding #information h1 {
+    text-align: center;
+}
+
 #content .whitebox #padding #information #content-info h2 {
-    width: 40%;
+    width: 48%;
     text-align: right;
     font-size: 14px;
     font-family: "apple sd gothic neo";
     line-height: 28px;
     font-weight: 600;
-    padding-right: 5%;
+    padding-right: 7%;
 }
 
 #content .whitebox #padding #information #content-info .infomation-content {
-    width: 55%;
+    width: 45%;
     text-align: left;
     font-size: 14px;
     font-family: "apple sd gothic neo";
@@ -254,6 +258,7 @@ header nav .vertical1 .menu1 i.profile {
     height: 19px;
 }
 
+
 #content .whitebox #padding #information p  {
     font-size: 13px;
     font-family: "Apple SD Gothic Neo";
@@ -264,7 +269,7 @@ header nav .vertical1 .menu1 i.profile {
 }
 
 #content .whitebox #padding #photo {
-    width: 70%;
+    width: 63%;
 }
 
 #content .whitebox #padding #photo img{
@@ -347,7 +352,11 @@ footer address .vertical2 .menu2 i.mail {
 
 }
 
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 830px) {
+    #content .whitebox #padding {
+        padding: 50px 40px;
+    }
+
     #content .whitebox #padding #information {
         width: 100%;
         margin-bottom: 40px;
@@ -366,21 +375,22 @@ footer address .vertical2 .menu2 i.mail {
 @media only screen and (max-width: 396px) {
     #content .whitebox #padding #information #content-info h2 {
         width: 45%;
-        text-align: right;
-        font-size: 14px;
-        font-family: "apple sd gothic neo";
-        line-height: 28px;
-        font-weight: 600;
         padding-right: 5%;
     }
 
     #content .whitebox #padding #information #content-info .infomation-content {
         width: 50%;
-        text-align: left;
-        font-size: 14px;
-        font-family: "apple sd gothic neo";
-        line-height: 28px;
-        font-weight: 100;
     }
 
+    #content .whitebox #padding {
+        padding: 40px 30px;
+    }
+
+
+}
+
+@media only screen and (max-width: 633px) {
+    footer address .vertical2 span.copyright {
+        display: none;
+    }
 }
