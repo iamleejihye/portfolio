@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20131203/resource/psd/20131203.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20131203/resource/resume/resume_leejihye.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20131203/resource/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20131203/resource/css/reset-all.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20131203/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20131203/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20131203/normalize.css" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/image/01.jpg" afterPath="$PROJECT_DIR$/20131203/resource/image/01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/image/02.jpg" afterPath="$PROJECT_DIR$/20131203/resource/image/02.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/index.html" afterPath="$PROJECT_DIR$/20131203/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/web.html" afterPath="$PROJECT_DIR$/20131203/web.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -85,7 +75,7 @@
           <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/20131203/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="32" column="20" selection-start="989" selection-end="989" vertical-scroll-proportion="0.776699" vertical-offset="0" max-vertical-offset="720">
+                <state line="5" column="55" selection-start="172" selection-end="172" vertical-scroll-proportion="0.118858956" vertical-offset="0" max-vertical-offset="720">
                   <folding />
                 </state>
               </provider>
@@ -98,7 +88,7 @@
           <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/20131203/resource/css/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="84" column="46" selection-start="1483" selection-end="1483" vertical-scroll-proportion="0.6962617" vertical-offset="813" max-vertical-offset="1680">
+                <state line="88" column="1" selection-start="1559" selection-end="1559" vertical-scroll-proportion="0.78971964" vertical-offset="813" max-vertical-offset="1680">
                   <folding />
                 </state>
               </provider>
@@ -577,7 +567,11 @@
       <created>1386484151014</created>
       <updated>1386484151014</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="2013/12/08 05:00 p.m.">
+      <created>1386489649308</created>
+      <updated>1386489649308</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -619,7 +613,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/05 06:55 p.m." />
     <MESSAGE value="2013/12/05 07:12 p.m." />
     <MESSAGE value="2013/12/05 11:07 p.m." />
     <MESSAGE value="2013/12/05 11:10 p.m." />
@@ -644,7 +637,8 @@
     <MESSAGE value="2013/12/08 12:12 header left: 50%" />
     <MESSAGE value="2013/12/08 12:24 header left: 50%" />
     <MESSAGE value="2013/12/08 03:28 최종" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 03:28 최종" />
+    <MESSAGE value="2013/12/08 05:00 p.m." />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 05:00 p.m." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -722,14 +716,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20131203/resource/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="46" selection-start="1483" selection-end="1483" vertical-scroll-proportion="0.6962617" vertical-offset="813" max-vertical-offset="1680">
+        <state line="88" column="1" selection-start="1559" selection-end="1559" vertical-scroll-proportion="0.78971964" vertical-offset="813" max-vertical-offset="1680">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20131203/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="20" selection-start="989" selection-end="989" vertical-scroll-proportion="0.776699" vertical-offset="0" max-vertical-offset="720">
+        <state line="5" column="55" selection-start="172" selection-end="172" vertical-scroll-proportion="0.118858956" vertical-offset="0" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
