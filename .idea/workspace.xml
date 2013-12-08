@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Iamleejihye.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/iamleejihye.github.io.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/03.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/04.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/05.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/06.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/07.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/resume.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ipad.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ipad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openmorning.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openmorning.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resume.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resume.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resume_leejihye.pdf" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/resource/css/index.css" afterPath="$PROJECT_DIR$/resource/css/index.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/resource/css/reset-all.css" afterPath="$PROJECT_DIR$/resource/css/reset-all.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/resource/image/01.jpg" afterPath="$PROJECT_DIR$/resource/image/01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/resource/image/02.jpg" afterPath="$PROJECT_DIR$/resource/image/02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/resource/psd/20131203.psd" afterPath="$PROJECT_DIR$/resource/psd/20131203.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/resource/resume/resume_leejihye.pdf" afterPath="$PROJECT_DIR$/resource/resume/resume_leejihye.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/sprite.png" afterPath="$PROJECT_DIR$/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/web.css" afterPath="$PROJECT_DIR$/web.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20131203/web.html" afterPath="$PROJECT_DIR$/web.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/index.css" afterPath="$PROJECT_DIR$/resource/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -96,17 +66,34 @@
     <favorites_list name="Iamleejihye" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resource/css/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4200">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2055">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/resource/css/index.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="87" column="18" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.3271028" vertical-offset="1095" max-vertical-offset="4200">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -128,7 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/openmorning.html" />
         <option value="$PROJECT_DIR$/ipad.css" />
         <option value="$PROJECT_DIR$/ipad.html" />
         <option value="$PROJECT_DIR$/index.html" />
@@ -144,6 +130,7 @@
         <option value="$PROJECT_DIR$/20131203/resource/css/resetandall.css" />
         <option value="$PROJECT_DIR$/20131203/resource/css/index.css" />
         <option value="$PROJECT_DIR$/20131203/index.html" />
+        <option value="$PROJECT_DIR$/resource/css/index.css" />
       </list>
     </option>
   </component>
@@ -529,12 +516,16 @@
       <created>1386498576605</created>
       <updated>1386498576605</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="2013/12/08 07:36 p.m. iamleejihye.github.io">
+      <created>1386499032757</created>
+      <updated>1386499032757</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1276" height="778" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -542,7 +533,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15752351" sideWeight="0.6713836" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15752351" sideWeight="0.6713836" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -571,7 +562,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/06 04:29 p.m. 아이콘 수정 및 hover 업그레이드" />
     <MESSAGE value="2013/12/06 04:46 p.m. border 수정 Resume 아이콘 수정" />
     <MESSAGE value="2013/12/07 07:12 p.m. web.html" />
     <MESSAGE value="2013/12/07 08:11 p.m." />
@@ -596,7 +586,8 @@
     <MESSAGE value="2013/12/08 07:15 p.m. 메인페이지 완성" />
     <MESSAGE value="2013/12/08 07:25 p.m. 마진 조정" />
     <MESSAGE value="2013/12/08 07:29 p.m. 미디어 쿼리 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 07:29 p.m. 미디어 쿼리 수정" />
+    <MESSAGE value="2013/12/08 07:36 p.m. iamleejihye.github.io" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 07:36 p.m. iamleejihye.github.io" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -609,9 +600,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2055">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resource/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4200">
+        <state line="87" column="18" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.3271028" vertical-offset="1095" max-vertical-offset="4200">
           <folding />
         </state>
       </provider>
