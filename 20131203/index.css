@@ -49,6 +49,7 @@ li {
     list-style: none;
 }
 
+
 /* header */
 
 header {
@@ -445,10 +446,9 @@ footer span a.mail {
 ----------------------------------------------- */
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-
     section,
     footer {
-        width: 480px;
+        width: 50%;
         position: absolute;
         left: 50%;
         margin-left: -50%;

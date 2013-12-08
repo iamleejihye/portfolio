@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/index.css" afterPath="$PROJECT_DIR$/20131203/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -71,7 +72,7 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/20131203/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state line="14" column="23" selection-start="396" selection-end="396" vertical-scroll-proportion="0.31553397" vertical-offset="15" max-vertical-offset="1770">
@@ -84,10 +85,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/20131203/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="460" column="9" selection-start="8970" selection-end="8970" vertical-scroll-proportion="0.36915886" vertical-offset="6663" max-vertical-offset="7380">
+                <state line="412" column="12" selection-start="7958" selection-end="7958" vertical-scroll-proportion="0.33333334" vertical-offset="5966" max-vertical-offset="7380">
                   <folding />
                 </state>
               </provider>
@@ -130,6 +131,8 @@
         <option value="$PROJECT_DIR$/20131203/index.html" />
         <option value="$PROJECT_DIR$/20131203/web.css" />
         <option value="$PROJECT_DIR$/20131203/index.css" />
+        <option value="$PROJECT_DIR$/20131208/index.css" />
+        <option value="$PROJECT_DIR$/20131208/index.html" />
       </list>
     </option>
   </component>
@@ -240,11 +243,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/20131208" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/20131203/image" />
       <recent name="$PROJECT_DIR$/20131203" />
       <recent name="$PROJECT_DIR$/image" />
-      <recent name="$PROJECT_DIR$/sangsangmun1dong/js/vendor" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/image" />
@@ -487,7 +490,11 @@
       <created>1386429859939</created>
       <updated>1386429859939</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="2013/12/08 12:24 header left: 50%">
+      <created>1386429871434</created>
+      <updated>1386429871434</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -529,7 +536,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/05 06:07 p.m. 화이팅" />
     <MESSAGE value="2013/12/05 06:20 p.m." />
     <MESSAGE value="2013/12/05 06:55 p.m." />
     <MESSAGE value="2013/12/05 07:12 p.m." />
@@ -554,27 +560,13 @@
     <MESSAGE value="2013/12/08 12:10 overflow: hidden 와이드 레이아웃 빼고 다" />
     <MESSAGE value="2013/12/08 12:12 header absolute에서 뺌" />
     <MESSAGE value="2013/12/08 12:12 header left: 50%" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 12:12 header left: 50%" />
+    <MESSAGE value="2013/12/08 12:24 header left: 50%" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 12:24 header left: 50%" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="24" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1920" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4470" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/openmorning.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="0" selection-start="2695" selection-end="2695" vertical-scroll-proportion="1.2521008" vertical-offset="1280" max-vertical-offset="3405" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/openmorning.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="125" selection-start="2220" selection-end="2220" vertical-scroll-proportion="0.8161121" vertical-offset="329" max-vertical-offset="1035" />
@@ -638,16 +630,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20131203/index.html">
+    <entry file="file://$PROJECT_DIR$/20131203/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="23" selection-start="396" selection-end="396" vertical-scroll-proportion="0.31553397" vertical-offset="15" max-vertical-offset="1770">
+        <state line="412" column="12" selection-start="7958" selection-end="7958" vertical-scroll-proportion="0.33333334" vertical-offset="4841" max-vertical-offset="7380">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20131203/index.css">
+    <entry file="file://$PROJECT_DIR$/20131203/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="460" column="9" selection-start="8970" selection-end="8970" vertical-scroll-proportion="0.36915886" vertical-offset="6663" max-vertical-offset="7380">
+        <state line="14" column="23" selection-start="396" selection-end="396" vertical-scroll-proportion="0.31553397" vertical-offset="15" max-vertical-offset="1770">
           <folding />
         </state>
       </provider>
