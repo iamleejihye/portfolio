@@ -112,19 +112,19 @@ header nav .vertical1 .menu1 i.profile {
 }
 
 #content ul li .whitebox label.app-label {
-    background-color: #57a1d4;
-}
-
-#content ul li .whitebox label.event-label {
     background-color: #fbbb4f;
 }
 
-#content ul li .whitebox label.social-label {
+#content ul li .whitebox label.event-label {
     background-color: #f14985;
 }
 
+#content ul li .whitebox label.social-label {
+    background-color: #57a1d4;
+}
+
 #content ul li .whitebox label.edi-label {
-    background-color: #a97ab7;
+    background-color: #f48384;
 }
 
 #content ul li .whitebox label.illu-label {
@@ -132,11 +132,11 @@ header nav .vertical1 .menu1 i.profile {
 }
 
 #content ul li .whitebox label.font-label {
-    background-color: #6dcba3;
+    background-color: #a97ab7;
 }
 
 #content ul li .whitebox label.animation-label {
-    background-color: #f48384;
+    background-color: #6dcba3;
 }
 
 #content ul li .whitebox label.web-label .wrap i.web-icon {
@@ -154,12 +154,14 @@ header nav .vertical1 .menu1 i.profile {
 }
 
 #content ul li .whitebox label.event-label .wrap i.event-icon {
+    margin-top: -2px;
     width: 13px;
     height: 15px;
     background-position: -29px -37px;
 }
 
 #content ul li .whitebox label.illu-label .wrap i.illu-icon {
+    margin-top: -2px;
     width: 18px;
     height: 15px;
     background-position: -44px -37px;
@@ -179,12 +181,14 @@ header nav .vertical1 .menu1 i.profile {
 }
 
 #content ul li .whitebox label.font-label .wrap i.font-icon {
+    margin-top: -3px;
     width: 14px;
     height: 18px;
     background-position: -107px -37px;
 }
 
 #content ul li .whitebox label.animation-label .wrap i.animation-icon {
+    margin-top: -2px;
     width: 16px;
     height: 13px;
     background-position: -123px -44px;

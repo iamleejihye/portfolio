@@ -98,36 +98,8 @@ header nav .vertical1 .menu1 i.profile {
     margin-right: 0;
 }
 
-#content .whitebox label.web-label {
-    background-color: #92ce6f;
-}
-
 #content .whitebox label.app-label {
-    background-color: #57a1d4;
-}
-
-#content .whitebox label.event-label {
     background-color: #fbbb4f;
-}
-
-#content .whitebox label.illu-label {
-    background-color: #f14985;
-}
-
-#content .whitebox label.edi-label {
-    background-color: #a97ab7;
-}
-
-#content .whitebox label.social-label {
-    background-color: #f69055;
-}
-
-#content .whitebox label.font-label {
-    background-color: #6dcba3;
-}
-
-#content .whitebox label.animation-label {
-    background-color: #f48384;
 }
 
 #content .whitebox label.web-label .wrap i.web-icon {
@@ -206,11 +178,12 @@ header nav .vertical1 .menu1 i.profile {
     border-top: 1px solid #e4e6e8;
     border-bottom: 1px solid #e4e6e8;
     padding-top: 15px;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
 }
 
 #content .whitebox #padding #information h1 {
     text-align: center;
+    line-height: 35px;
 }
 
 #content .whitebox #padding #information #content-info h2 {

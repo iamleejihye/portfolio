@@ -2,7 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/css/animation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/css/editorial.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/editorial.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/css/event.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/css/font.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/css/illustration.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/illustration.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/css/social.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/social.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/02.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resource/image/social/free poster design" afterPath="$PROJECT_DIR$/resource/image/social/01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/editorial/01.jpg" afterPath="$PROJECT_DIR$/resource/image/editorial/01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/editorial/02.jpg" afterPath="$PROJECT_DIR$/resource/image/editorial/02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar10.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar11.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar12.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar2.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar3.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar4.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar5.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar6.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar7.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar8.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/calendar9.jpg" afterPath="$PROJECT_DIR$/resource/image/font/calendar9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/font/poster-02.jpg" afterPath="$PROJECT_DIR$/resource/image/font/poster-02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/event/thumbnail.png" afterPath="$PROJECT_DIR$/resource/image/event/thumbnail.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/app.css" afterPath="$PROJECT_DIR$/resource/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.html" afterPath="$PROJECT_DIR$/app.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/index.css" afterPath="$PROJECT_DIR$/resource/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/web.css" afterPath="$PROJECT_DIR$/resource/css/web.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web.html" afterPath="$PROJECT_DIR$/web.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -69,28 +121,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="web.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/web.html">
+          <file leaf-file-name="animation.html" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/animation.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="70" column="63" selection-start="3598" selection-end="3598" vertical-scroll-proportion="-12.0" vertical-offset="762" max-vertical-offset="1470">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="app.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="73" column="58" selection-start="3793" selection-end="3793" vertical-scroll-proportion="-4.64" vertical-offset="863" max-vertical-offset="1515">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="5" column="107" selection-start="224" selection-end="224" vertical-scroll-proportion="0.12135922" vertical-offset="0" max-vertical-offset="2160">
+                <state line="48" column="57" selection-start="2235" selection-end="2235" vertical-scroll-proportion="0.776699" vertical-offset="240" max-vertical-offset="1455">
                   <folding />
                 </state>
               </provider>
@@ -100,10 +134,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/resource/css/index.css">
+          <file leaf-file-name="animation.css" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/resource/css/animation.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="117" column="44" selection-start="2090" selection-end="2090" vertical-scroll-proportion="0.34579438" vertical-offset="1533" max-vertical-offset="4260">
+                <state line="269" column="30" selection-start="5507" selection-end="5507" vertical-scroll-proportion="0.6542056" vertical-offset="3615" max-vertical-offset="6420">
                   <folding />
                 </state>
               </provider>
@@ -133,22 +167,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/20131208/index.css" />
-        <option value="$PROJECT_DIR$/20131208/index.html" />
-        <option value="$PROJECT_DIR$/20131203/index.css" />
-        <option value="$PROJECT_DIR$/20131203/resource/index.css" />
-        <option value="$PROJECT_DIR$/20131203/resource/css/reset.css" />
-        <option value="$PROJECT_DIR$/20131203/resource/css/resetandall.css" />
-        <option value="$PROJECT_DIR$/20131203/resource/css/index.css" />
-        <option value="$PROJECT_DIR$/20131203/index.html" />
-        <option value="$PROJECT_DIR$/webd.css" />
-        <option value="$PROJECT_DIR$/resource/css/reset-all.css" />
-        <option value="$PROJECT_DIR$/resource/css/web.css" />
+        <option value="$PROJECT_DIR$/resource/css/social.css" />
+        <option value="$PROJECT_DIR$/resource/css/illustration.css" />
+        <option value="$PROJECT_DIR$/resource/css/editorial.css" />
         <option value="$PROJECT_DIR$/resource/css/app.css" />
+        <option value="$PROJECT_DIR$/resource/css/event.css" />
+        <option value="$PROJECT_DIR$/resource/css/web.css" />
         <option value="$PROJECT_DIR$/app.html" />
+        <option value="$PROJECT_DIR$/editorial.html" />
+        <option value="$PROJECT_DIR$/event.html" />
+        <option value="$PROJECT_DIR$/illustration.html" />
         <option value="$PROJECT_DIR$/web.html" />
-        <option value="$PROJECT_DIR$/resource/css/index.css" />
+        <option value="$PROJECT_DIR$/social.html" />
+        <option value="$PROJECT_DIR$/font.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/animation.html" />
+        <option value="$PROJECT_DIR$/resource/css/animation.css" />
       </list>
     </option>
   </component>
@@ -641,30 +675,34 @@
       <created>1386516817192</created>
       <updated>1386516817192</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="2013/12/08 12:36 a.m. 확대 금지">
+      <created>1386516998958</created>
+      <updated>1386516998958</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="1276" height="778" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15752351" sideWeight="0.6713836" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -683,7 +721,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/08 12:07 overflow: hidden 와이드 레이아웃 빼고 다" />
     <MESSAGE value="2013/12/08 12:10 overflow: hidden 와이드 레이아웃 빼고 다" />
     <MESSAGE value="2013/12/08 12:12 header absolute에서 뺌" />
     <MESSAGE value="2013/12/08 12:12 header left: 50%" />
@@ -708,85 +745,121 @@
     <MESSAGE value="2013/12/08 11:44 p.m. 이미지 업로드" />
     <MESSAGE value="2013/12/08 12:29 a.m. 썸네일 업로드" />
     <MESSAGE value="2013/12/08 12:33 a.m. 썸네일 업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 12:33 a.m. 썸네일 업로드" />
+    <MESSAGE value="2013/12/08 12:36 a.m. 확대 금지" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 12:36 a.m. 확대 금지" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web.html">
+    <entry file="file://$PROJECT_DIR$/resource/css/event.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="56" selection-start="1260" selection-end="1260" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
+        <state line="185" column="22" selection-start="3596" selection-end="3596" vertical-scroll-proportion="0.8800623" vertical-offset="2210" max-vertical-offset="5895">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/illustration.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="214" column="22" selection-start="4194" selection-end="4194" vertical-scroll-proportion="0.9018692" vertical-offset="2631" max-vertical-offset="6330">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/css/web.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="5" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5490">
+        <state line="208" column="22" selection-start="4056" selection-end="4056" vertical-scroll-proportion="0.37850466" vertical-offset="2877" max-vertical-offset="6015">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/css/reset-all.css">
+    <entry file="file://$PROJECT_DIR$/resource/css/social.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+        <state line="214" column="20" selection-start="4166" selection-end="4168" vertical-scroll-proportion="0.8244275" vertical-offset="2670" max-vertical-offset="6330">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/block.rnc">
+    <entry file="file://$PROJECT_DIR$/resource/css/font.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="198" column="22" selection-start="4044" selection-end="4044" vertical-scroll-proportion="4.6261683" vertical-offset="0" max-vertical-offset="3405">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/css/reset-all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="1" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.95327103" vertical-offset="18" max-vertical-offset="1050">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/css/web.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="231" column="18" selection-start="4584" selection-end="4584" vertical-scroll-proportion="-9.5" vertical-offset="2952" max-vertical-offset="6015">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="277" column="38" selection-start="5576" selection-end="5576" vertical-scroll-proportion="4.579439" vertical-offset="1215" max-vertical-offset="6060">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="63" selection-start="3598" selection-end="3598" vertical-scroll-proportion="-12.0" vertical-offset="762" max-vertical-offset="1470">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="58" selection-start="3793" selection-end="3793" vertical-scroll-proportion="-4.64" vertical-offset="863" max-vertical-offset="1515">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6330">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="117" column="44" selection-start="2090" selection-end="2090" vertical-scroll-proportion="0.34579438" vertical-offset="1533" max-vertical-offset="4260">
+        <state line="156" column="4" selection-start="2900" selection-end="2917" vertical-scroll-proportion="3.6448598" vertical-offset="0" max-vertical-offset="4320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="110" selection-start="225" selection-end="225" vertical-scroll-proportion="0.12135922" vertical-offset="0" max-vertical-offset="1440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editorial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="110" selection-start="231" selection-end="231" vertical-scroll-proportion="0.12135922" vertical-offset="0" max-vertical-offset="1380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="110" selection-start="227" selection-end="227" vertical-scroll-proportion="0.12135922" vertical-offset="0" max-vertical-offset="1515">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/illustration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="110" selection-start="234" selection-end="234" vertical-scroll-proportion="0.12135922" vertical-offset="0" max-vertical-offset="1455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="110" selection-start="225" selection-end="225" vertical-scroll-proportion="0.12135922" vertical-offset="0" max-vertical-offset="1470">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/social.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="57" selection-start="2156" selection-end="2156" vertical-scroll-proportion="0.75242716" vertical-offset="240" max-vertical-offset="1320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/font.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="26" selection-start="3364" selection-end="3364" vertical-scroll-proportion="-11.375" vertical-offset="732" max-vertical-offset="1395">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="107" selection-start="224" selection-end="224" vertical-scroll-proportion="0.12135922" vertical-offset="0" max-vertical-offset="2160">
+        <state line="100" column="43" selection-start="3936" selection-end="3936" vertical-scroll-proportion="0.776699" vertical-offset="1020" max-vertical-offset="2145">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="57" selection-start="2235" selection-end="2235" vertical-scroll-proportion="0.776699" vertical-offset="240" max-vertical-offset="1455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/animation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="269" column="30" selection-start="5507" selection-end="5507" vertical-scroll-proportion="0.6542056" vertical-offset="3615" max-vertical-offset="6420">
           <folding />
         </state>
       </provider>
