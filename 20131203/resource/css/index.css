@@ -69,6 +69,7 @@ header nav .vertical1 .menu1 i.profile {
     padding-top: 130px;
     padding-bottom: 85px;
 }
+
 #content ul {
     text-align: center;
 }
@@ -252,6 +253,14 @@ footer address .vertical2 .menu2 i.mail {
     margin-left: 10px;
 }
 
+@media only screen and (max-width: 960px) {
+    #content {
+        padding-top: 92px;
+        padding-bottom: 85px;
+    }
+
+}
+
 @media only screen and (max-width: 360px) {
     footer address .vertical2 span.copyright {
         display: none;
@@ -259,6 +268,7 @@ footer address .vertical2 .menu2 i.mail {
 
     #content ul li .whitebox {
         margin-right: 0px;
+        margin-left: 0px;
     }
 
 }

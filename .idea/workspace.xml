@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/resource/css/index.css" afterPath="$PROJECT_DIR$/20131203/resource/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20131203/index.html" afterPath="$PROJECT_DIR$/20131203/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -89,7 +88,7 @@
           <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/20131203/resource/css/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="86" column="18" selection-start="1500" selection-end="1500" vertical-scroll-proportion="0.23364486" vertical-offset="1140" max-vertical-offset="4035">
+                <state line="257" column="23" selection-start="4881" selection-end="4881" vertical-scroll-proportion="0.50934577" vertical-offset="3528" max-vertical-offset="4200">
                   <folding />
                 </state>
               </provider>
@@ -588,7 +587,11 @@
       <created>1386497704061</created>
       <updated>1386497704062</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="2013/12/08 07:25 p.m. 마진 조정">
+      <created>1386498333957</created>
+      <updated>1386498333957</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -630,7 +633,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/06 03:52 a.m. 가운데 정렬" />
     <MESSAGE value="2013/12/06 03:19 a.m. Resume pdf 업로드" />
     <MESSAGE value="2013/12/06 04:29 p.m. 아이콘 수정 및 hover 업그레이드" />
     <MESSAGE value="2013/12/06 04:46 p.m. border 수정 Resume 아이콘 수정" />
@@ -655,7 +657,8 @@
     <MESSAGE value="2013/12/08 05:40 p.m. header, footer 완성" />
     <MESSAGE value="2013/12/08 07:12 p.m. 메인페이지 완성" />
     <MESSAGE value="2013/12/08 07:15 p.m. 메인페이지 완성" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 07:15 p.m. 메인페이지 완성" />
+    <MESSAGE value="2013/12/08 07:25 p.m. 마진 조정" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 07:25 p.m. 마진 조정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -740,7 +743,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20131203/resource/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="18" selection-start="1500" selection-end="1500" vertical-scroll-proportion="0.23364486" vertical-offset="1140" max-vertical-offset="4035">
+        <state line="257" column="23" selection-start="4881" selection-end="4881" vertical-scroll-proportion="0.50934577" vertical-offset="3528" max-vertical-offset="4200">
           <folding />
         </state>
       </provider>
