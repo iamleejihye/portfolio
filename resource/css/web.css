@@ -186,7 +186,6 @@ header nav .vertical1 .menu1 i.profile {
     padding: 60px 50px;
 }
 
-
 #content .whitebox #padding #information h1 {
     font-size: 25px;
     font-weight: 700;
@@ -257,7 +256,6 @@ header nav .vertical1 .menu1 i.profile {
     width: 22px;
     height: 19px;
 }
-
 
 #content .whitebox #padding #information p  {
     font-size: 13px;
@@ -347,12 +345,15 @@ footer address .vertical2 .menu2 i.mail {
 @media only screen and (max-width: 960px) {
     #content {
         padding-top: 92px;
-        padding-bottom: 85px;
+    }
+    #content .whitebox {
+        margin-bottom: 75px;
     }
 
 }
 
 @media only screen and (max-width: 830px) {
+
     #content .whitebox #padding {
         padding: 50px 40px;
     }

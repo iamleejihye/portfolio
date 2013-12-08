@@ -72,7 +72,7 @@
           <file leaf-file-name="web.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/web.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="33" column="62" selection-start="1214" selection-end="1214" vertical-scroll-proportion="0.32038835" vertical-offset="297" max-vertical-offset="1470">
+                <state line="33" column="62" selection-start="1214" selection-end="1214" vertical-scroll-proportion="-0.28640777" vertical-offset="672" max-vertical-offset="1470">
                   <folding />
                 </state>
               </provider>
@@ -85,7 +85,7 @@
           <file leaf-file-name="web.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/resource/css/web.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="361" column="25" selection-start="7055" selection-end="7055" vertical-scroll-proportion="0.3622449" vertical-offset="5202" max-vertical-offset="6000">
+                <state line="349" column="25" selection-start="6863" selection-end="6863" vertical-scroll-proportion="0.5408163" vertical-offset="4917" max-vertical-offset="6015">
                   <folding />
                 </state>
               </provider>
@@ -565,7 +565,11 @@
       <created>1386508005595</created>
       <updated>1386508005595</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="2013/12/08 10:07 p.m. web.html #information margin-bottom">
+      <created>1386508097753</created>
+      <updated>1386508097753</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -607,7 +611,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/07 08:11 p.m." />
     <MESSAGE value="2013/12/07 08:29 p.m." />
     <MESSAGE value="2013/12/07 08:31 viewport test" />
     <MESSAGE value="2013/12/07 08:31 viewport test 2" />
@@ -632,7 +635,8 @@
     <MESSAGE value="2013/12/08 07:36 p.m. iamleejihye.github.io" />
     <MESSAGE value="2013/12/08 08:58 p.m. web.html" />
     <MESSAGE value="2013/12/08 10:06 p.m. web.html 완성" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 10:06 p.m. web.html 완성" />
+    <MESSAGE value="2013/12/08 10:07 p.m. web.html #information margin-bottom" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/08 10:07 p.m. web.html #information margin-bottom" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -689,7 +693,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="62" selection-start="1214" selection-end="1214" vertical-scroll-proportion="0.32038835" vertical-offset="297" max-vertical-offset="1470">
+        <state line="33" column="62" selection-start="1214" selection-end="1214" vertical-scroll-proportion="-0.28640777" vertical-offset="672" max-vertical-offset="1470">
           <folding />
         </state>
       </provider>
@@ -710,7 +714,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/css/web.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="361" column="25" selection-start="7055" selection-end="7055" vertical-scroll-proportion="0.3622449" vertical-offset="5202" max-vertical-offset="6000">
+        <state line="349" column="25" selection-start="6863" selection-end="6863" vertical-scroll-proportion="0.5408163" vertical-offset="4917" max-vertical-offset="6015">
           <folding />
         </state>
       </provider>
