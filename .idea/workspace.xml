@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/animation.css" afterPath="$PROJECT_DIR$/resource/css/animation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animation.html" afterPath="$PROJECT_DIR$/animation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/app.css" afterPath="$PROJECT_DIR$/resource/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.html" afterPath="$PROJECT_DIR$/app.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/editorial.css" afterPath="$PROJECT_DIR$/resource/css/editorial.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/editorial.html" afterPath="$PROJECT_DIR$/editorial.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/event.css" afterPath="$PROJECT_DIR$/resource/css/event.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/event.html" afterPath="$PROJECT_DIR$/event.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/font.css" afterPath="$PROJECT_DIR$/resource/css/font.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font.html" afterPath="$PROJECT_DIR$/font.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/illustration.css" afterPath="$PROJECT_DIR$/resource/css/illustration.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/illustration.html" afterPath="$PROJECT_DIR$/illustration.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/index.css" afterPath="$PROJECT_DIR$/resource/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/social.css" afterPath="$PROJECT_DIR$/resource/css/social.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/social.html" afterPath="$PROJECT_DIR$/social.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/web.css" afterPath="$PROJECT_DIR$/resource/css/web.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web.html" afterPath="$PROJECT_DIR$/web.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/illustration/10.jpg" afterPath="$PROJECT_DIR$/resource/image/illustration/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/illustration/6.jpg" afterPath="$PROJECT_DIR$/resource/image/illustration/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/illustration/7.jpg" afterPath="$PROJECT_DIR$/resource/image/illustration/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/illustration/8.jpg" afterPath="$PROJECT_DIR$/resource/image/illustration/8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/illustration/9.jpg" afterPath="$PROJECT_DIR$/resource/image/illustration/9.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -83,7 +70,17 @@
     <favorites_list name="Iamleejihye" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="illustration.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/illustration.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -225,6 +222,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Iamleejihye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greedygirl.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="illustration" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -649,7 +668,11 @@
       <created>1386556620539</created>
       <updated>1386556620540</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="2013/12/09 11:43 a.m. Download Resume 추가">
+      <created>1386557029316</created>
+      <updated>1386557029317</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -719,7 +742,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/08 05:40 p.m. header, footer 완성" />
     <MESSAGE value="2013/12/08 07:12 p.m. 메인페이지 완성" />
     <MESSAGE value="2013/12/08 07:15 p.m. 메인페이지 완성" />
     <MESSAGE value="2013/12/08 07:25 p.m. 마진 조정" />
@@ -744,19 +766,13 @@
     <MESSAGE value="2013/12/09 11:15 a.m. 상상문 1동" />
     <MESSAGE value="2013/12/09 11:34 a.m. 모든 페이지 정보 업데이트" />
     <MESSAGE value="2013/12/09 11:36 a.m. 모든 페이지 정보 업데이트" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/09 11:36 a.m. 모든 페이지 정보 업데이트" />
+    <MESSAGE value="2013/12/09 11:43 a.m. Download Resume 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/09 11:43 a.m. Download Resume 추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/event.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="67" selection-start="4140" selection-end="4140" vertical-scroll-proportion="-14.166667" vertical-offset="920" max-vertical-offset="1530">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/editorial.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="75" column="67" selection-start="3576" selection-end="3576" vertical-scroll-proportion="-14.166667" vertical-offset="785" max-vertical-offset="1395">
@@ -858,6 +874,13 @@
     <entry file="file://$PROJECT_DIR$/resource/css/web.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="310" column="22" selection-start="6103" selection-end="6103" vertical-scroll-proportion="0.42766297" vertical-offset="4381" max-vertical-offset="6030">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/illustration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
           <folding />
         </state>
       </provider>
