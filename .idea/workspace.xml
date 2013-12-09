@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/profile.css" afterPath="$PROJECT_DIR$/resource/css/profile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profile.html" afterPath="$PROJECT_DIR$/profile.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -69,10 +69,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="profile.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="profile.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/profile.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="34" column="59" selection-start="1323" selection-end="1323" vertical-scroll-proportion="0.31553397" vertical-offset="315" max-vertical-offset="1170">
+                <state line="43" column="95" selection-start="1989" selection-end="1989" vertical-scroll-proportion="0.4854369" vertical-offset="345" max-vertical-offset="1155">
                   <folding />
                 </state>
               </provider>
@@ -82,7 +82,7 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="profile.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="profile.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/resource/css/profile.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state line="208" column="17" selection-start="3976" selection-end="3976" vertical-scroll-proportion="0.59345794" vertical-offset="2739" max-vertical-offset="5595">
@@ -120,7 +120,6 @@
         <option value="$PROJECT_DIR$/resource/css/social.css" />
         <option value="$PROJECT_DIR$/resource/css/web.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/profile.html" />
         <option value="$PROJECT_DIR$/resource/css/reset-all.css" />
         <option value="$PROJECT_DIR$/animation.html" />
         <option value="$PROJECT_DIR$/app.html" />
@@ -131,6 +130,7 @@
         <option value="$PROJECT_DIR$/social.html" />
         <option value="$PROJECT_DIR$/web.html" />
         <option value="$PROJECT_DIR$/resource/css/profile.css" />
+        <option value="$PROJECT_DIR$/profile.html" />
       </list>
     </option>
   </component>
@@ -665,7 +665,11 @@
       <created>1386575382024</created>
       <updated>1386575382024</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="2013/12/09 04:54 p.m. 프로필 글씨 크기">
+      <created>1386575661315</created>
+      <updated>1386575661315</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -735,7 +739,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/08 08:58 p.m. web.html" />
     <MESSAGE value="2013/12/08 10:06 p.m. web.html 완성" />
     <MESSAGE value="2013/12/08 10:07 p.m. web.html #information margin-bottom" />
     <MESSAGE value="2013/12/08 10:12 p.m. 모바일용 마진 업그레이드" />
@@ -760,7 +763,8 @@
     <MESSAGE value="2013/12/09 04:19 p.m. 프로필 업로드" />
     <MESSAGE value="2013/12/09 04:44 p.m. 프로필 업로드" />
     <MESSAGE value="2013/12/09 04:49 p.m. 프로필 아이콘 업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/09 04:49 p.m. 프로필 아이콘 업로드" />
+    <MESSAGE value="2013/12/09 04:54 p.m. 프로필 글씨 크기" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/09 04:54 p.m. 프로필 글씨 크기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -862,16 +866,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/profile.html">
+    <entry file="file://$PROJECT_DIR$/resource/css/profile.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="59" selection-start="1323" selection-end="1323" vertical-scroll-proportion="0.31553397" vertical-offset="315" max-vertical-offset="1170">
+        <state line="208" column="17" selection-start="3976" selection-end="3976" vertical-scroll-proportion="0.59345794" vertical-offset="2739" max-vertical-offset="5595">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/css/profile.css">
+    <entry file="file://$PROJECT_DIR$/profile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="208" column="17" selection-start="3976" selection-end="3976" vertical-scroll-proportion="0.59345794" vertical-offset="2739" max-vertical-offset="5595">
+        <state line="43" column="95" selection-start="1989" selection-end="1989" vertical-scroll-proportion="0.4854369" vertical-offset="345" max-vertical-offset="1155">
           <folding />
         </state>
       </provider>
