@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animation.html" afterPath="$PROJECT_DIR$/animation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font.html" afterPath="$PROJECT_DIR$/font.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/social.html" afterPath="$PROJECT_DIR$/social.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -72,7 +70,25 @@
       <file leaf-file-name="social.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/social.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="62" selection-start="2723" selection-end="2723" vertical-scroll-proportion="0.45166403" vertical-offset="555" max-vertical-offset="1350">
+            <state line="66" column="22" selection-start="3285" selection-end="3285" vertical-scroll-proportion="0.68938196" vertical-offset="555" max-vertical-offset="1365">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="event.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/css/event.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="238" column="0" selection-start="4808" selection-end="5216" vertical-scroll-proportion="0.0" vertical-offset="3360" max-vertical-offset="5895">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="social.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/css/social.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="214" column="20" selection-start="4166" selection-end="4168" vertical-scroll-proportion="0.0" vertical-offset="3855" max-vertical-offset="6330">
               <folding />
             </state>
           </provider>
@@ -636,7 +652,11 @@
       <created>1386555359347</created>
       <updated>1386555359347</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="2013/12/09 11:34 a.m. 모든 페이지 정보 업데이트">
+      <created>1386556467741</created>
+      <updated>1386556467741</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -678,7 +698,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/08 05:00 p.m." />
     <MESSAGE value="2013/12/08 05:09 p.m." />
     <MESSAGE value="2013/12/08 05:40 p.m. header, footer 완성" />
     <MESSAGE value="2013/12/08 07:12 p.m. 메인페이지 완성" />
@@ -703,7 +722,8 @@
     <MESSAGE value="2013/12/09 11:05 a.m. 상상문 1동" />
     <MESSAGE value="2013/12/09 11:08 a.m. 상상문 1동" />
     <MESSAGE value="2013/12/09 11:15 a.m. 상상문 1동" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/09 11:15 a.m. 상상문 1동" />
+    <MESSAGE value="2013/12/09 11:34 a.m. 모든 페이지 정보 업데이트" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/09 11:34 a.m. 모든 페이지 정보 업데이트" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -719,13 +739,6 @@
     <entry file="file://$PROJECT_DIR$/resource/css/web.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="208" column="22" selection-start="4056" selection-end="4056" vertical-scroll-proportion="0.37850466" vertical-offset="2877" max-vertical-offset="6015">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/css/social.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="214" column="20" selection-start="4166" selection-end="4168" vertical-scroll-proportion="0.8244275" vertical-offset="2670" max-vertical-offset="6330">
           <folding />
         </state>
       </provider>
@@ -805,9 +818,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/event.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="238" column="0" selection-start="4808" selection-end="5216" vertical-scroll-proportion="0.0" vertical-offset="3525" max-vertical-offset="5895">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/social.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="214" column="20" selection-start="4166" selection-end="4168" vertical-scroll-proportion="0.0" vertical-offset="3915" max-vertical-offset="6330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/social.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="62" selection-start="2723" selection-end="2723" vertical-scroll-proportion="0.45166403" vertical-offset="555" max-vertical-offset="1350">
+        <state line="66" column="22" selection-start="3285" selection-end="3285" vertical-scroll-proportion="0.68938196" vertical-offset="555" max-vertical-offset="1365">
           <folding />
         </state>
       </provider>
