@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/image/event/08.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/05.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/06.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/07.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/08.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/event.html" afterPath="$PROJECT_DIR$/event.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animation.html" afterPath="$PROJECT_DIR$/animation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font.html" afterPath="$PROJECT_DIR$/font.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/social.html" afterPath="$PROJECT_DIR$/social.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -83,10 +69,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="event.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/event.html">
+      <file leaf-file-name="social.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/social.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="65" selection-start="3765" selection-end="3765" vertical-scroll-proportion="0.68938196" vertical-offset="660" max-vertical-offset="1515">
+            <state line="56" column="62" selection-start="2723" selection-end="2723" vertical-scroll-proportion="0.45166403" vertical-offset="555" max-vertical-offset="1350">
               <folding />
             </state>
           </provider>
@@ -124,12 +110,12 @@
         <option value="$PROJECT_DIR$/editorial.html" />
         <option value="$PROJECT_DIR$/illustration.html" />
         <option value="$PROJECT_DIR$/web.html" />
-        <option value="$PROJECT_DIR$/social.html" />
-        <option value="$PROJECT_DIR$/font.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resource/css/animation.css" />
-        <option value="$PROJECT_DIR$/animation.html" />
         <option value="$PROJECT_DIR$/event.html" />
+        <option value="$PROJECT_DIR$/animation.html" />
+        <option value="$PROJECT_DIR$/font.html" />
+        <option value="$PROJECT_DIR$/social.html" />
       </list>
     </option>
   </component>
@@ -234,28 +220,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="image" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Iamleejihye" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="greedygirl.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resource" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="image" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="event" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -668,7 +632,11 @@
       <created>1386554906693</created>
       <updated>1386554906694</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="2013/12/09 11:15 a.m. 상상문 1동">
+      <created>1386555359347</created>
+      <updated>1386555359347</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -680,10 +648,10 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15752351" sideWeight="0.6713836" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15752351" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -710,7 +678,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/08 03:28 최종" />
     <MESSAGE value="2013/12/08 05:00 p.m." />
     <MESSAGE value="2013/12/08 05:09 p.m." />
     <MESSAGE value="2013/12/08 05:40 p.m. header, footer 완성" />
@@ -735,7 +702,8 @@
     <MESSAGE value="2013/12/08 02:38 a.m. 애니메이션" />
     <MESSAGE value="2013/12/09 11:05 a.m. 상상문 1동" />
     <MESSAGE value="2013/12/09 11:08 a.m. 상상문 1동" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/09 11:08 a.m. 상상문 1동" />
+    <MESSAGE value="2013/12/09 11:15 a.m. 상상문 1동" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/09 11:15 a.m. 상상문 1동" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -802,30 +770,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/social.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="57" selection-start="2156" selection-end="2156" vertical-scroll-proportion="0.75242716" vertical-offset="240" max-vertical-offset="1320">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/font.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="26" selection-start="3364" selection-end="3364" vertical-scroll-proportion="-11.375" vertical-offset="732" max-vertical-offset="1395">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="100" column="43" selection-start="3936" selection-end="3936" vertical-scroll-proportion="0.776699" vertical-offset="1020" max-vertical-offset="2145">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/animation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="88" selection-start="2982" selection-end="2982" vertical-scroll-proportion="0.0776699" vertical-offset="852" max-vertical-offset="1470">
           <folding />
         </state>
       </provider>
@@ -840,6 +787,27 @@
     <entry file="file://$PROJECT_DIR$/event.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="73" column="65" selection-start="3765" selection-end="3765" vertical-scroll-proportion="0.68938196" vertical-offset="660" max-vertical-offset="1515">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="50" selection-start="2599" selection-end="2599" vertical-scroll-proportion="0.4675119" vertical-offset="515" max-vertical-offset="1440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/font.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="47" selection-start="2732" selection-end="2732" vertical-scroll-proportion="0.9080824" vertical-offset="267" max-vertical-offset="1410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/social.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="62" selection-start="2723" selection-end="2723" vertical-scroll-proportion="0.45166403" vertical-offset="555" max-vertical-offset="1350">
           <folding />
         </state>
       </provider>
