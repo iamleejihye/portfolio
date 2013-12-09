@@ -190,9 +190,10 @@ header nav .vertical1 .menu1 i.profile {
 }
 
 #content .whitebox label.profile-label .wrap i.profile {
+    margin-top: -1px;
     width: 12px;
     height: 14px;
-    background-position: -141px -62px;
+    background-position: -123px -59px;
 }
 
 

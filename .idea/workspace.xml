@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="2013/12/09 04:19 p.m. 프로필 업로드">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/image/profile.jpg" afterPath="$PROJECT_DIR$/resource/image/profile.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animation.html" afterPath="$PROJECT_DIR$/animation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.html" afterPath="$PROJECT_DIR$/app.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/editorial.html" afterPath="$PROJECT_DIR$/editorial.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/event.html" afterPath="$PROJECT_DIR$/event.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font.html" afterPath="$PROJECT_DIR$/font.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/illustration.html" afterPath="$PROJECT_DIR$/illustration.html" />
+    <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/profile.css" afterPath="$PROJECT_DIR$/resource/css/profile.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profile.html" afterPath="$PROJECT_DIR$/profile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/reset-all.css" afterPath="$PROJECT_DIR$/resource/css/reset-all.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/social.html" afterPath="$PROJECT_DIR$/social.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web.html" afterPath="$PROJECT_DIR$/web.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -77,7 +66,34 @@
     <favorites_list name="Iamleejihye" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="profile.html" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/profile.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="34" column="59" selection-start="1323" selection-end="1323" vertical-scroll-proportion="0.31553397" vertical-offset="315" max-vertical-offset="1170">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="profile.css" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/resource/css/profile.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="192" column="14" selection-start="3708" selection-end="3708" vertical-scroll-proportion="0.38317758" vertical-offset="2634" max-vertical-offset="5595">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -106,7 +122,6 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/profile.html" />
         <option value="$PROJECT_DIR$/resource/css/reset-all.css" />
-        <option value="$PROJECT_DIR$/resource/css/profile.css" />
         <option value="$PROJECT_DIR$/animation.html" />
         <option value="$PROJECT_DIR$/app.html" />
         <option value="$PROJECT_DIR$/editorial.html" />
@@ -115,6 +130,7 @@
         <option value="$PROJECT_DIR$/illustration.html" />
         <option value="$PROJECT_DIR$/social.html" />
         <option value="$PROJECT_DIR$/web.html" />
+        <option value="$PROJECT_DIR$/resource/css/profile.css" />
       </list>
     </option>
   </component>
@@ -641,19 +657,23 @@
       <created>1386573580392</created>
       <updated>1386573580393</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="2013/12/09 04:44 p.m. 프로필 업로드">
+      <created>1386575081277</created>
+      <updated>1386575081277</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="1276" height="778" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15752351" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15752351" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -711,7 +731,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/08 07:29 p.m. 미디어 쿼리 수정" />
     <MESSAGE value="2013/12/08 07:36 p.m. iamleejihye.github.io" />
     <MESSAGE value="2013/12/08 08:58 p.m. web.html" />
     <MESSAGE value="2013/12/08 10:06 p.m. web.html 완성" />
@@ -736,7 +755,8 @@
     <MESSAGE value="2013/12/09 11:49 a.m. 일러스트레이션 이미지 업로드" />
     <MESSAGE value="2013/12/09 11:52 a.m. 일러스트레이션 이미지 업로드" />
     <MESSAGE value="2013/12/09 04:19 p.m. 프로필 업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/09 04:19 p.m. 프로필 업로드" />
+    <MESSAGE value="2013/12/09 04:44 p.m. 프로필 업로드" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/09 04:44 p.m. 프로필 업로드" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -778,13 +798,6 @@
     <entry file="file://$PROJECT_DIR$/resource/css/reset-all.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="69" column="0" selection-start="1358" selection-end="1358" vertical-scroll-proportion="0.95327103" vertical-offset="423" max-vertical-offset="1125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/css/profile.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="339" column="19" selection-start="6576" selection-end="6576" vertical-scroll-proportion="0.0" vertical-offset="4818" max-vertical-offset="5580">
           <folding />
         </state>
       </provider>
@@ -831,13 +844,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="59" selection-start="1323" selection-end="1323" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="1170">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/social.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="41" selection-start="620" selection-end="620" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="1380">
@@ -848,6 +854,20 @@
     <entry file="file://$PROJECT_DIR$/web.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="30" selection-start="256" selection-end="256" vertical-scroll-proportion="0.14263074" vertical-offset="0" max-vertical-offset="1485">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="59" selection-start="1323" selection-end="1323" vertical-scroll-proportion="0.31553397" vertical-offset="315" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/profile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="192" column="14" selection-start="3708" selection-end="3708" vertical-scroll-proportion="0.38317758" vertical-offset="2634" max-vertical-offset="5595">
           <folding />
         </state>
       </provider>
