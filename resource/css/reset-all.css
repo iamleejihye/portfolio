@@ -67,3 +67,14 @@ li {
 i {
     outline: none;
 }
+
+header nav .vertical1 i.logo:hover,
+header nav .vertical1 i.view:hover,
+header nav .vertical1 i.profile:hover,
+footer address .vertical2 i.resume:hover,
+footer address .vertical2 .menu2 i.instagram:hover,
+footer address .vertical2 .menu2 i.facebook:hover,
+footer address .vertical2 .menu2 i.tumblr:hover,
+footer address .vertical2 .menu2 i.mail:hover {
+    opacity: .7;
+}

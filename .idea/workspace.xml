@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profile.html" afterPath="$PROJECT_DIR$/profile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/index.css" afterPath="$PROJECT_DIR$/resource/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resource/css/reset-all.css" afterPath="$PROJECT_DIR$/resource/css/reset-all.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -69,10 +70,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="profile.html" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/profile.html">
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="43" column="95" selection-start="1989" selection-end="1989" vertical-scroll-proportion="0.4854369" vertical-offset="345" max-vertical-offset="1155">
+                <state line="101" column="75" selection-start="4025" selection-end="4025" vertical-scroll-proportion="2.4514563" vertical-offset="0" max-vertical-offset="2160">
                   <folding />
                 </state>
               </provider>
@@ -82,10 +83,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="profile.css" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/resource/css/profile.css">
+          <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/resource/css/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="208" column="17" selection-start="3976" selection-end="3976" vertical-scroll-proportion="0.59345794" vertical-offset="2739" max-vertical-offset="5595">
+                <state line="15" column="15" selection-start="343" selection-end="343" vertical-scroll-proportion="0.3504673" vertical-offset="0" max-vertical-offset="4410">
                   <folding />
                 </state>
               </provider>
@@ -115,12 +116,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/resource/css/font.css" />
         <option value="$PROJECT_DIR$/resource/css/illustration.css" />
         <option value="$PROJECT_DIR$/resource/css/social.css" />
         <option value="$PROJECT_DIR$/resource/css/web.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/resource/css/reset-all.css" />
         <option value="$PROJECT_DIR$/animation.html" />
         <option value="$PROJECT_DIR$/app.html" />
         <option value="$PROJECT_DIR$/editorial.html" />
@@ -131,6 +130,8 @@
         <option value="$PROJECT_DIR$/web.html" />
         <option value="$PROJECT_DIR$/resource/css/profile.css" />
         <option value="$PROJECT_DIR$/profile.html" />
+        <option value="$PROJECT_DIR$/resource/css/reset-all.css" />
+        <option value="$PROJECT_DIR$/resource/css/index.css" />
       </list>
     </option>
   </component>
@@ -258,6 +259,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
+  <component name="PublishConfig" persistUploadOnCheckin="false" />
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resource/image" />
@@ -669,7 +671,11 @@
       <created>1386575661315</created>
       <updated>1386575661315</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="2013/12/09 04:55 p.m. 프로필 내용 업데이트">
+      <created>1386575741685</created>
+      <updated>1386575741686</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -739,7 +745,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/08 10:06 p.m. web.html 완성" />
     <MESSAGE value="2013/12/08 10:07 p.m. web.html #information margin-bottom" />
     <MESSAGE value="2013/12/08 10:12 p.m. 모바일용 마진 업그레이드" />
     <MESSAGE value="2013/12/08 10:21 p.m. 모바일용 마진 업그레이드" />
@@ -764,19 +769,13 @@
     <MESSAGE value="2013/12/09 04:44 p.m. 프로필 업로드" />
     <MESSAGE value="2013/12/09 04:49 p.m. 프로필 아이콘 업로드" />
     <MESSAGE value="2013/12/09 04:54 p.m. 프로필 글씨 크기" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/09 04:54 p.m. 프로필 글씨 크기" />
+    <MESSAGE value="2013/12/09 04:55 p.m. 프로필 내용 업데이트" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/09 04:55 p.m. 프로필 내용 업데이트" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resource/css/illustration.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="331" column="22" selection-start="6579" selection-end="6579" vertical-scroll-proportion="-10.346154" vertical-offset="4696" max-vertical-offset="6345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resource/css/social.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="331" column="22" selection-start="6553" selection-end="6553" vertical-scroll-proportion="-10.346154" vertical-offset="4696" max-vertical-offset="6345">
@@ -791,23 +790,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="41" selection-start="619" selection-end="619" vertical-scroll-proportion="0.41262135" vertical-offset="0" max-vertical-offset="2160">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sprite.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/css/reset-all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="0" selection-start="1358" selection-end="1358" vertical-scroll-proportion="0.95327103" vertical-offset="423" max-vertical-offset="1125">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/animation.html">
@@ -868,14 +853,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/css/profile.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="208" column="17" selection-start="3976" selection-end="3976" vertical-scroll-proportion="0.59345794" vertical-offset="2739" max-vertical-offset="5595">
+        <state line="191" column="54" selection-start="3691" selection-end="3691" vertical-scroll-proportion="0.0" vertical-offset="2454" max-vertical-offset="5595">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/profile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="95" selection-start="1989" selection-end="1989" vertical-scroll-proportion="0.4854369" vertical-offset="345" max-vertical-offset="1155">
+        <state line="17" column="65" selection-start="645" selection-end="645" vertical-scroll-proportion="0.097087376" vertical-offset="195" max-vertical-offset="1155">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/reset-all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="15" selection-start="1727" selection-end="1727" vertical-scroll-proportion="0.8364486" vertical-offset="633" max-vertical-offset="1275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="75" selection-start="4025" selection-end="4025" vertical-scroll-proportion="2.4514563" vertical-offset="0" max-vertical-offset="2160">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="15" selection-start="343" selection-end="343" vertical-scroll-proportion="0.3504673" vertical-offset="0" max-vertical-offset="4410">
           <folding />
         </state>
       </provider>

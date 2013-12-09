@@ -6,9 +6,14 @@
 
 @import "reset-all.css";
 
+
 html,
 body {
     background-color: #ebebed;
+}
+
+#content ul li .whitebox img:hover {
+    opacity: .7;
 }
 
 /* 헤더와 푸터의 위치를 고정시키고 브라우저 넓이에 맞춤 */
