@@ -85,7 +85,7 @@
           <file leaf-file-name="profile.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/resource/css/profile.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="192" column="14" selection-start="3708" selection-end="3708" vertical-scroll-proportion="0.38317758" vertical-offset="2634" max-vertical-offset="5595">
+                <state line="208" column="17" selection-start="3976" selection-end="3976" vertical-scroll-proportion="0.59345794" vertical-offset="2739" max-vertical-offset="5595">
                   <folding />
                 </state>
               </provider>
@@ -661,7 +661,11 @@
       <created>1386575081277</created>
       <updated>1386575081277</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="2013/12/09 04:49 p.m. 프로필 아이콘 업로드">
+      <created>1386575382024</created>
+      <updated>1386575382024</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -731,7 +735,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/08 07:36 p.m. iamleejihye.github.io" />
     <MESSAGE value="2013/12/08 08:58 p.m. web.html" />
     <MESSAGE value="2013/12/08 10:06 p.m. web.html 완성" />
     <MESSAGE value="2013/12/08 10:07 p.m. web.html #information margin-bottom" />
@@ -756,7 +759,8 @@
     <MESSAGE value="2013/12/09 11:52 a.m. 일러스트레이션 이미지 업로드" />
     <MESSAGE value="2013/12/09 04:19 p.m. 프로필 업로드" />
     <MESSAGE value="2013/12/09 04:44 p.m. 프로필 업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="2013/12/09 04:44 p.m. 프로필 업로드" />
+    <MESSAGE value="2013/12/09 04:49 p.m. 프로필 아이콘 업로드" />
+    <option name="LAST_COMMIT_MESSAGE" value="2013/12/09 04:49 p.m. 프로필 아이콘 업로드" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -867,7 +871,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/css/profile.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="192" column="14" selection-start="3708" selection-end="3708" vertical-scroll-proportion="0.38317758" vertical-offset="2634" max-vertical-offset="5595">
+        <state line="208" column="17" selection-start="3976" selection-end="3976" vertical-scroll-proportion="0.59345794" vertical-offset="2739" max-vertical-offset="5595">
           <folding />
         </state>
       </provider>
