@@ -13,7 +13,7 @@ body {
 }
 
 #content ul li .whitebox img:hover {
-    opacity: .7;
+    opacity: .8;
 }
 
 /* 헤더와 푸터의 위치를 고정시키고 브라우저 넓이에 맞춤 */
