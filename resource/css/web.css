@@ -11,6 +11,12 @@ body {
     background-color: #ebebed;
 }
 
+a {
+    color: #afb0b1;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
 /* 헤더와 푸터의 위치를 고정시키고 브라우저 넓이에 맞춤 */
 header,
 footer {
@@ -188,8 +194,8 @@ header nav .vertical1 .menu1 i.profile {
 
 #content .whitebox #padding #information h1 {
     font-size: 25px;
-    font-weight: 700;
-    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
     margin-bottom: 18px;
     color: #afb0b1;
 }
@@ -260,7 +266,6 @@ header nav .vertical1 .menu1 i.profile {
 #content .whitebox #padding #information p  {
     font-size: 13px;
     font-family: "Apple SD Gothic Neo";
-    letter-spacing: -0.03rem;
     color: #afb0b1;
     line-height: 22px;
     text-align: justify ;
@@ -275,7 +280,7 @@ header nav .vertical1 .menu1 i.profile {
     height: auto;
 }
 
-#content .whitebox #padding #photo img:first-child {
+#content .whitebox #padding #photo img {
     padding-bottom: 30px;
 }
 

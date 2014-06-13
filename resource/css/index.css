@@ -69,10 +69,6 @@ header nav .vertical1 .menu1 i.profile {
 
 /* content */
 
-#horizontal {
-    padding: 0.1% 0;
-}
-
 #content {
     /* 헤더와 푸터에 가리지 않게 패딩을 적용 */
     padding-top: 130px;
