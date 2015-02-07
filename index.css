@@ -118,6 +118,13 @@ li.j-thumbnail {
     height: 100%;
 }
 
+.button {
+    margin: 0 20px;
+    padding: 20px 10px;
+    border-radius: 10px;
+    border: 2px solid #fff;
+}
+
 .j-info {
     color: #fff;
 }
