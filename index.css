@@ -50,7 +50,7 @@ a {
 
 header {
     height: 240px;
-    padding: 40px;
+    padding: 5%;
     box-sizing: border-box;
 }
 
@@ -148,9 +148,10 @@ li.j-thumbnail {
 /*------footer------*/
 
 footer {
+    display: inline-block;
     background-color: #666666;
-    height: 100%;
-    padding: 10%;
+    width: 100%;
+    padding: 5%;
     box-sizing: border-box;
 }
 
@@ -191,11 +192,6 @@ address {
 }
 
 @media (max-width: 930px) {
-    footer {
-        height: 250px;
-        /*padding: 36px;*/
-    }
-
     .j-contact,
     .j-sns,
     address {
@@ -216,6 +212,7 @@ address {
 @media (max-width: 640px) {
     header {
         height: 180px;
+        padding: 8%;
     }
 
     .j-title {
@@ -245,8 +242,7 @@ address {
     }
 
     footer {
-        height: 218px;
-        /*padding: 24px;*/
+        padding: 8%;
     }
 
     .j-contact,
