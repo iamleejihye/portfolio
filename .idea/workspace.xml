@@ -85,7 +85,7 @@
           <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="300" column="20" selection-start="4183" selection-end="4183" vertical-scroll-proportion="0.55916476" vertical-offset="3777" max-vertical-offset="5070">
+                <state line="328" column="25" selection-start="4663" selection-end="4663" vertical-scroll-proportion="0.68677497" vertical-offset="4032" max-vertical-offset="5400">
                   <folding />
                 </state>
               </provider>
@@ -524,7 +524,11 @@
       <created>1423327017457</created>
       <updated>1423327017457</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="mobile footer font size updated">
+      <created>1423327087290</created>
+      <updated>1423327087290</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -599,7 +603,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/08 02:38 a.m. 애니메이션" />
     <MESSAGE value="2013/12/09 11:05 a.m. 상상문 1동" />
     <MESSAGE value="2013/12/09 11:08 a.m. 상상문 1동" />
     <MESSAGE value="2013/12/09 11:15 a.m. 상상문 1동" />
@@ -624,7 +627,8 @@
     <MESSAGE value="footer padding updated&#10;" />
     <MESSAGE value="side menu added&#10;canvas size controlled" />
     <MESSAGE value="side menu - display : none" />
-    <option name="LAST_COMMIT_MESSAGE" value="side menu - display : none" />
+    <MESSAGE value="mobile footer font size updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="mobile footer font size updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -695,7 +699,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="300" column="20" selection-start="4183" selection-end="4183" vertical-scroll-proportion="0.55916476" vertical-offset="3777" max-vertical-offset="5070">
+        <state line="328" column="25" selection-start="4663" selection-end="4663" vertical-scroll-proportion="0.68677497" vertical-offset="4032" max-vertical-offset="5400">
           <folding />
         </state>
       </provider>

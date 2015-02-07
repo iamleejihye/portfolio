@@ -138,6 +138,7 @@ li.j-thumbnail {
     opacity: 0;
     -webkit-transition: 0.8s;
     transition: 0.8s;
+    font-weight: 400;
 }
 
 .j-hover-contents {
@@ -155,6 +156,7 @@ li.j-thumbnail {
     opacity: 0;
     -webkit-transition: 0.8s;
     transition: 0.8;
+    font-weight: 400;
 }
 
 .j-thumbnail:hover .j-hover-title {
@@ -323,10 +325,30 @@ address {
         padding: 8%;
     }
 
+    .j-contact-title {
+        margin-bottom: 24px;
+    }
+
     .j-contact,
     .j-sns,
     address {
         float: none;
+    }
+
+    .j-thumbnail:hover .j-hover-box {
+        opacity: 0;
+    }
+
+    .j-thumbnail:hover .j-hover-title {
+        opacity: 0;
+    }
+
+    .j-thumbnail:hover .j-hover-contents {
+        opacity: 0;
+    }
+
+    .j-thumbnail:hover .button {
+        opacity: 0;
     }
 
 
