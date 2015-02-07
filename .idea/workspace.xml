@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery-2.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery-2.1.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery-2.1.3.min.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -69,10 +73,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="27" column="22" selection-start="1210" selection-end="1210" vertical-scroll-proportion="-0.09929078" vertical-offset="531" max-vertical-offset="1800">
+                <state line="119" column="7" selection-start="4973" selection-end="4973" vertical-scroll-proportion="1.4066194" vertical-offset="0" max-vertical-offset="1920">
                   <folding />
                 </state>
               </provider>
@@ -82,10 +86,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="328" column="25" selection-start="4663" selection-end="4663" vertical-scroll-proportion="0.68677497" vertical-offset="4032" max-vertical-offset="5400">
+                <state line="94" column="19" selection-start="1315" selection-end="1315" vertical-scroll-proportion="0.8352668" vertical-offset="330" max-vertical-offset="5415">
                   <folding />
                 </state>
               </provider>
@@ -240,11 +244,11 @@
       <recent name="$PROJECT_DIR$/20131208" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/resource/image/social" />
       <recent name="$PROJECT_DIR$/resource/image/web" />
       <recent name="$PROJECT_DIR$/resource/image" />
       <recent name="$PROJECT_DIR$/20131203/resource" />
-      <recent name="$PROJECT_DIR$/20131203/resource/css" />
     </key>
   </component>
   <component name="RunManager">
@@ -528,7 +532,11 @@
       <created>1423327087290</created>
       <updated>1423327087290</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="mobile footer space updated">
+      <created>1423327549760</created>
+      <updated>1423327549760</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -603,7 +611,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/09 11:05 a.m. 상상문 1동" />
     <MESSAGE value="2013/12/09 11:08 a.m. 상상문 1동" />
     <MESSAGE value="2013/12/09 11:15 a.m. 상상문 1동" />
     <MESSAGE value="2013/12/09 11:34 a.m. 모든 페이지 정보 업데이트" />
@@ -628,7 +635,8 @@
     <MESSAGE value="side menu added&#10;canvas size controlled" />
     <MESSAGE value="side menu - display : none" />
     <MESSAGE value="mobile footer font size updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="mobile footer font size updated" />
+    <MESSAGE value="mobile footer space updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="mobile footer space updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -690,16 +698,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="22" selection-start="1210" selection-end="1210" vertical-scroll-proportion="-0.09929078" vertical-offset="531" max-vertical-offset="1800">
+        <state line="94" column="19" selection-start="1315" selection-end="1315" vertical-scroll-proportion="0.8352668" vertical-offset="330" max-vertical-offset="5415">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="328" column="25" selection-start="4663" selection-end="4663" vertical-scroll-proportion="0.68677497" vertical-offset="4032" max-vertical-offset="5400">
+        <state line="119" column="7" selection-start="4973" selection-end="4973" vertical-scroll-proportion="1.4066194" vertical-offset="0" max-vertical-offset="1920">
           <folding />
         </state>
       </provider>
