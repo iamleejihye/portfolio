@@ -1,11 +1,13 @@
 body {
     font-family: 'Lato', sans-serif;
+    font-weight: 300;
     text-transform: uppercase;
     letter-spacing: 1px;
     height: 100%;
     background-color: #f9f9f9;
     margin: 0;
     color: #fff;
+    position: relative;
 }
 
 body, html {
@@ -30,7 +32,6 @@ a {
 /*------center align------*/
 
 .container {
-    width: 60%;
     height: 100%;
     margin: 0 auto;
     background-color: #fff;
@@ -44,6 +45,31 @@ a {
 
 .j-body {
     font-size: 14px;
+}
+
+/*------side menu------*/
+
+.j-side-menu {
+    z-index: 1;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #ff976e;
+    opacity: 0;
+}
+
+.j-menu-title {
+    line-height: 56px;
+    font-size: 36px;
+}
+
+.j-menues {
+    margin-bottom: 30px;
+}
+
+.j-menu-sns {
+    font-size: 20px;
+    line-height: 38px;
 }
 
 /*------header------*/
@@ -107,6 +133,60 @@ li.j-thumbnail {
     text-align: center;
 }
 
+.j-hover-title {
+    margin-bottom: 20px;
+    opacity: 0;
+    -webkit-transition: 0.8s;
+    transition: 0.8s;
+}
+
+.j-hover-contents {
+    margin-bottom: 40px;
+    opacity: 0;
+    -webkit-transition: 0.8s;
+    transition: 0.8s;
+}
+
+.button {
+    margin: 0 100px;
+    padding: 20px;
+    border-radius: 8px;
+    border: 2px solid rgba(255,255,255,0.5);
+    opacity: 0;
+    -webkit-transition: 0.8s;
+    transition: 0.8;
+}
+
+.j-thumbnail:hover .j-hover-title {
+    opacity: 1;
+}
+
+.j-thumbnail:hover .j-hover-contents {
+    opacity: 1;
+}
+
+.j-thumbnail:hover .button {
+    opacity: 1;
+}
+
+
+.j-hover-box {
+    background-color: rgba(255, 151, 110, 0.9);
+    width: 100%;
+    height: 100%;
+    -webkit-transition: 0.8s;
+    transition: 0.8s;
+    -webkit-transform: scale(0.3);
+    transform: scale(0.3);
+    opacity: 0;
+}
+
+.j-thumbnail:hover .j-hover-box {
+    opacity: 1;
+    transform: scale(1);
+    -webkit-transform: scale(1);
+}
+
 .j-flex {
     display: -webkit-flex;
     display: flex;
@@ -118,32 +198,11 @@ li.j-thumbnail {
     height: 100%;
 }
 
-.button {
-    margin: 0 20px;
-    padding: 20px 10px;
-    border-radius: 10px;
-    border: 2px solid #fff;
-}
 
 .j-info {
     color: #fff;
 }
 
-.j-hover-box {
-    background-color: rgba(255, 151, 110, 0.9);
-    width: 100%;
-    height: 100%;
-    transition: 0.5s;
-    -webkit-transform: scale(0.6);
-    transform: scale(0.6);
-    opacity: 0;
-}
-
-.j-thumbnail:hover .j-hover-box {
-    opacity: 1;
-    transform: scale(1);
-    -webkit-transform: scale(1);
-}
 
 /*------footer------*/
 
@@ -163,10 +222,16 @@ footer {
 
 .j-mail {
     margin-bottom: 6px;
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
 }
 
 address {
     float: right;
+}
+
+.j-contact {
+    font-weight: 400;
 }
 
 .j-contact-title {
@@ -177,11 +242,25 @@ address {
     margin-right: 14px;
 }
 
+.j-mail:hover {
+    opacity: 0.5;
+
+}
+
+.j-sns span {
+    -webkit-transition: 0.1s;
+    transition: 0.1s;
+}
+
+.j-sns span:hover {
+    opacity: 0.5;
+}
+
 /*------responsive------*/
 
 @media (min-width: 1600px) {
     .container {
-        width: 60%;
+        width: 70.35%;
     }
 }
 
@@ -206,7 +285,6 @@ address {
     address {
         margin-top: 20px;
     }
-
 }
 
 @media (max-width: 640px) {

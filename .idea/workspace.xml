@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -72,7 +73,7 @@
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="33" column="25" selection-start="1502" selection-end="1502" vertical-scroll-proportion="0.20803782" vertical-offset="231" max-vertical-offset="1500">
+                <state line="24" column="77" selection-start="1105" selection-end="1105" vertical-scroll-proportion="-0.13475177" vertical-offset="531" max-vertical-offset="1800">
                   <folding />
                 </state>
               </provider>
@@ -85,7 +86,7 @@
           <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="189" column="20" selection-start="2675" selection-end="2675" vertical-scroll-proportion="0.18793504" vertical-offset="2592" max-vertical-offset="3900">
+                <state line="233" column="20" selection-start="3363" selection-end="3363" vertical-scroll-proportion="0.16473317" vertical-offset="3282" max-vertical-offset="5070">
                   <folding />
                 </state>
               </provider>
@@ -229,6 +230,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1221" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -511,7 +513,11 @@
       <created>1423322644148</created>
       <updated>1423322644148</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="footer padding updated&#10;">
+      <created>1423323288894</created>
+      <updated>1423323288894</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -586,7 +592,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/08 12:33 a.m. 썸네일 업로드" />
     <MESSAGE value="2013/12/08 12:36 a.m. 확대 금지" />
     <MESSAGE value="2013/12/08 02:21 a.m. 링크 완성" />
     <MESSAGE value="2013/12/08 02:38 a.m. 애니메이션" />
@@ -611,7 +616,8 @@
     <MESSAGE value="Because of Leo, everything was threw away. So I recovered it." />
     <MESSAGE value="footer updated" />
     <MESSAGE value="mobile footer updated&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="mobile footer updated&#10;" />
+    <MESSAGE value="footer padding updated&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer padding updated&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -675,14 +681,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="25" selection-start="1502" selection-end="1502" vertical-scroll-proportion="0.20803782" vertical-offset="231" max-vertical-offset="1500">
+        <state line="24" column="77" selection-start="1105" selection-end="1105" vertical-scroll-proportion="-0.13475177" vertical-offset="531" max-vertical-offset="1800">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="189" column="20" selection-start="2675" selection-end="2675" vertical-scroll-proportion="0.18793504" vertical-offset="2592" max-vertical-offset="3900">
+        <state line="233" column="20" selection-start="3363" selection-end="3363" vertical-scroll-proportion="0.16473317" vertical-offset="3282" max-vertical-offset="5070">
           <folding />
         </state>
       </provider>
