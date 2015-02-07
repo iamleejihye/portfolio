@@ -149,8 +149,8 @@ li.j-thumbnail {
 
 footer {
     background-color: #666666;
-    height: 214px;
-    padding: 48px;
+    height: 100%;
+    padding: 10%;
     box-sizing: border-box;
 }
 
@@ -193,7 +193,7 @@ address {
 @media (max-width: 930px) {
     footer {
         height: 250px;
-        padding: 36px;
+        /*padding: 36px;*/
     }
 
     .j-contact,
@@ -246,7 +246,7 @@ address {
 
     footer {
         height: 218px;
-        padding: 24px;
+        /*padding: 24px;*/
     }
 
     .j-contact,
