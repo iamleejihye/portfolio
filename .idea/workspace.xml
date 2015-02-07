@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/compass_library.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/greedygirl.github.io.iml" afterPath="$PROJECT_DIR$/.idea/greedygirl.github.io.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -69,10 +74,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="90" selection-start="144" selection-end="144" vertical-scroll-proportion="0.073051944" vertical-offset="0" max-vertical-offset="1530">
+                <state line="83" column="35" selection-start="3386" selection-end="3386" vertical-scroll-proportion="2.0211039" vertical-offset="0" max-vertical-offset="1500">
                   <folding />
                 </state>
               </provider>
@@ -82,10 +87,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.html">
+          <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="94" column="14" selection-start="3696" selection-end="3696" vertical-scroll-proportion="0.8125" vertical-offset="890" max-vertical-offset="1530">
+                <state line="109" column="9" selection-start="1467" selection-end="1467" vertical-scroll-proportion="0.6094946" vertical-offset="1237" max-vertical-offset="3360">
                   <folding />
                 </state>
               </provider>
@@ -100,9 +105,6 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
-  <component name="Git.Push.Settings">
-    <option name="myUpdateMethod" value="REBASE" />
-  </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -115,31 +117,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/font.html" />
-        <option value="$PROJECT_DIR$/profile.html" />
-        <option value="$PROJECT_DIR$/resource/css/reset-all.css" />
-        <option value="$PROJECT_DIR$/resource/css/profile.css" />
-        <option value="$PROJECT_DIR$/20140206 Tacademy/index.html" />
-        <option value="$PROJECT_DIR$/20140206/index.html" />
-        <option value="$PROJECT_DIR$/20140206/index.css" />
-        <option value="$PROJECT_DIR$/resource/css/animation.css" />
-        <option value="$PROJECT_DIR$/resource/css/app.css" />
-        <option value="$PROJECT_DIR$/resource/css/editorial.css" />
-        <option value="$PROJECT_DIR$/resource/css/illustration.css" />
-        <option value="$PROJECT_DIR$/app.html" />
-        <option value="$PROJECT_DIR$/editorial.html" />
-        <option value="$PROJECT_DIR$/illustration.html" />
-        <option value="$PROJECT_DIR$/resource/css/event.css" />
-        <option value="$PROJECT_DIR$/resource/css/font.css" />
-        <option value="$PROJECT_DIR$/web.html" />
-        <option value="$PROJECT_DIR$/resource/css/web.css" />
-        <option value="$PROJECT_DIR$/resource/css/index.css" />
-        <option value="$PROJECT_DIR$/animation.html" />
-        <option value="$PROJECT_DIR$/resource/css/social.css" />
-        <option value="$PROJECT_DIR$/social.html" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index.css" />
       </list>
     </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="4" />
@@ -221,7 +204,7 @@
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.lastSelected" value="watcher.settings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Backbone-Seminars" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -233,6 +216,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -251,14 +235,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -269,15 +245,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -294,184 +278,14 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="" />
       <created>1372674025069</created>
       <updated>1372674025069</updated>
-    </task>
-    <task id="LOCAL-00001" summary="지혜의 포트폴리오 사이트 업로드">
-      <created>1372674094988</created>
-      <updated>1372674094988</updated>
-    </task>
-    <task id="LOCAL-00002" summary="지혜의 포트폴리오 사이트 업로드">
-      <created>1374284142767</created>
-      <updated>1374284142767</updated>
-    </task>
-    <task id="LOCAL-00003" summary="지혜의 포트폴리오 사이트 업로드">
-      <created>1374284244208</created>
-      <updated>1374284244208</updated>
-    </task>
-    <task id="LOCAL-00004" summary="지혜의 포트폴리오 사이트 업로드">
-      <created>1374293506310</created>
-      <updated>1374293506310</updated>
-    </task>
-    <task id="LOCAL-00005" summary="2013/11/27 12:10 a.m. 업로드">
-      <created>1385478638314</created>
-      <updated>1385478638314</updated>
-    </task>
-    <task id="LOCAL-00006" summary="2013/11/27 12:10 a.m. 업로드">
-      <created>1385478843654</created>
-      <updated>1385478843654</updated>
-    </task>
-    <task id="LOCAL-00007" summary="2013/11/27 12:35 a.m. 업로드">
-      <created>1385480158044</created>
-      <updated>1385480158044</updated>
-    </task>
-    <task id="LOCAL-00008" summary="2013/11/27 01:19 a.m. 업로드">
-      <created>1385482792938</created>
-      <updated>1385482792938</updated>
-    </task>
-    <task id="LOCAL-00009" summary="2013/11/27 01:30 a.m. 설명 추가">
-      <created>1385483412793</created>
-      <updated>1385483412793</updated>
-    </task>
-    <task id="LOCAL-00010" summary="2013/11/27 01:47 a.m. height 문제">
-      <created>1385484435504</created>
-      <updated>1385484435504</updated>
-    </task>
-    <task id="LOCAL-00011" summary="2013/11/27 01:59 a.m. 웹스톰이 이상해!">
-      <created>1385485194074</created>
-      <updated>1385485194074</updated>
-    </task>
-    <task id="LOCAL-00012" summary="2013/11/27 11:38 a.m. app까지 일단!">
-      <created>1385519871397</created>
-      <updated>1385519871397</updated>
-    </task>
-    <task id="LOCAL-00013" summary="2013/11/27 01:01 a.m. resume">
-      <created>1385524913870</created>
-      <updated>1385524913870</updated>
-    </task>
-    <task id="LOCAL-00014" summary="2013/12/04 06:06 p.m. 포폴 사이트 재구성">
-      <created>1386148017891</created>
-      <updated>1386148017891</updated>
-    </task>
-    <task id="LOCAL-00015" summary="2013/12/05 06:07 p.m. 화이팅">
-      <created>1386234471478</created>
-      <updated>1386234471478</updated>
-    </task>
-    <task id="LOCAL-00016" summary="2013/12/05 06:20 p.m.">
-      <created>1386235223531</created>
-      <updated>1386235223531</updated>
-    </task>
-    <task id="LOCAL-00017" summary="2013/12/05 06:55 p.m.">
-      <created>1386237349472</created>
-      <updated>1386237349472</updated>
-    </task>
-    <task id="LOCAL-00018" summary="2013/12/05 07:12 p.m.">
-      <created>1386238380027</created>
-      <updated>1386238380027</updated>
-    </task>
-    <task id="LOCAL-00019" summary="2013/12/05 11:07 p.m.">
-      <created>1386252457435</created>
-      <updated>1386252457435</updated>
-    </task>
-    <task id="LOCAL-00020" summary="2013/12/05 11:07 p.m.">
-      <created>1386252500685</created>
-      <updated>1386252500685</updated>
-    </task>
-    <task id="LOCAL-00021" summary="2013/12/05 11:10 p.m.">
-      <created>1386252624682</created>
-      <updated>1386252624682</updated>
-    </task>
-    <task id="LOCAL-00022" summary="2013/12/06 03:36 a.m. Responsive Web Design!">
-      <created>1386268620027</created>
-      <updated>1386268620027</updated>
-    </task>
-    <task id="LOCAL-00023" summary="2013/12/06 03:52 a.m. 가운데 정렬">
-      <created>1386269547128</created>
-      <updated>1386269547128</updated>
-    </task>
-    <task id="LOCAL-00024" summary="2013/12/06 03:52 a.m. 가운데 정렬">
-      <created>1386269630466</created>
-      <updated>1386269630466</updated>
-    </task>
-    <task id="LOCAL-00025" summary="2013/12/06 03:19 a.m. Resume pdf 업로드">
-      <created>1386310805783</created>
-      <updated>1386310805783</updated>
-    </task>
-    <task id="LOCAL-00026" summary="2013/12/06 04:29 p.m. 아이콘 수정 및 hover 업그레이드">
-      <created>1386315001968</created>
-      <updated>1386315001968</updated>
-    </task>
-    <task id="LOCAL-00027" summary="2013/12/06 04:46 p.m. border 수정 Resume 아이콘 수정">
-      <created>1386316004658</created>
-      <updated>1386316004658</updated>
-    </task>
-    <task id="LOCAL-00028" summary="2013/12/07 07:12 p.m. web.html">
-      <created>1386411174821</created>
-      <updated>1386411174821</updated>
-    </task>
-    <task id="LOCAL-00029" summary="2013/12/07 08:11 p.m.">
-      <created>1386414720763</created>
-      <updated>1386414720763</updated>
-    </task>
-    <task id="LOCAL-00030" summary="2013/12/07 08:29 p.m.">
-      <created>1386415790665</created>
-      <updated>1386415790665</updated>
-    </task>
-    <task id="LOCAL-00031" summary="2013/12/07 08:31 viewport test">
-      <created>1386415919652</created>
-      <updated>1386415919652</updated>
-    </task>
-    <task id="LOCAL-00032" summary="2013/12/07 08:31 viewport test 2">
-      <created>1386416342073</created>
-      <updated>1386416342073</updated>
-    </task>
-    <task id="LOCAL-00033" summary="2013/12/07 08:31 viewport test 3">
-      <created>1386416413858</created>
-      <updated>1386416413858</updated>
-    </task>
-    <task id="LOCAL-00034" summary="2013/12/07 08:31 viewport test 3">
-      <created>1386416672721</created>
-      <updated>1386416672721</updated>
-    </task>
-    <task id="LOCAL-00035" summary="2013/12/07 08:31 viewport test 4">
-      <created>1386424427309</created>
-      <updated>1386424427310</updated>
-    </task>
-    <task id="LOCAL-00036" summary="2013/12/07 11:14 p.m. initial-scale=0.5">
-      <created>1386425686746</created>
-      <updated>1386425686746</updated>
-    </task>
-    <task id="LOCAL-00037" summary="2013/12/07 11:51 p.m. overflow-x: hidden;">
-      <created>1386427875154</created>
-      <updated>1386427875154</updated>
-    </task>
-    <task id="LOCAL-00038" summary="2013/12/07 11:53 p.m. 마진">
-      <created>1386428044679</created>
-      <updated>1386428044679</updated>
-    </task>
-    <task id="LOCAL-00039" summary="2013/12/08 12:07 overflow: hidden 와이드 레이아웃 빼고 다">
-      <created>1386428897281</created>
-      <updated>1386428897281</updated>
     </task>
     <task id="LOCAL-00040" summary="2013/12/08 12:10 overflow: hidden 와이드 레이아웃 빼고 다">
       <created>1386429057099</created>
@@ -665,23 +479,27 @@
       <created>1423294869852</created>
       <updated>1423294869852</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="viewport added">
+      <created>1423296024186</created>
+      <updated>1423296024186</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32599118" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3274596" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15697211" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32452276" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -694,25 +512,25 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32798833" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15752351" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -740,7 +558,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/08 11:25 p.m. 이미지 업로드 빠르게 png 로 바꿈" />
     <MESSAGE value="2013/12/08 11:31 p.m. 이미지 업로드" />
     <MESSAGE value="2013/12/08 11:44 p.m. 이미지 업로드" />
     <MESSAGE value="2013/12/08 12:29 a.m. 썸네일 업로드" />
@@ -765,7 +582,8 @@
     <MESSAGE value="2013/12/09 05:08 p.m. hover 수정" />
     <MESSAGE value="2014/06/13 세미나 오픈 전 준비하기 - wide 화면으로 볼때 센터 정렬 안되는 부분 수정" />
     <MESSAGE value="All Renewal" />
-    <option name="LAST_COMMIT_MESSAGE" value="All Renewal" />
+    <MESSAGE value="viewport added" />
+    <option name="LAST_COMMIT_MESSAGE" value="viewport added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -773,21 +591,70 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="22" selection-start="747" selection-end="747" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="2160">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1500">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="22" selection-start="747" selection-end="747" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="2160">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="90" selection-start="144" selection-end="144" vertical-scroll-proportion="0.073051944" vertical-offset="0" max-vertical-offset="1530">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="35" selection-start="3386" selection-end="3386" vertical-scroll-proportion="2.0211039" vertical-offset="0" max-vertical-offset="1500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="9" selection-start="1467" selection-end="1467" vertical-scroll-proportion="0.6094946" vertical-offset="1237" max-vertical-offset="3360">
           <folding />
         </state>
       </provider>
