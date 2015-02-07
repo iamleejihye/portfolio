@@ -50,12 +50,21 @@ a {
 /*------side menu------*/
 
 .j-side-menu {
-    z-index: -1;
+    z-index: 1;
     position: absolute;
     width: 100%;
     height: 100%;
     background-color: #ff976e;
-    opacity: 0.5;
+    display: none;
+    opacity: 0.9;
+}
+
+.white {
+    background-image: url('asset/j-menu_fff.svg');
+}
+
+.hidden {
+    overflow: hidden;
 }
 
 .j-menu-title {
@@ -88,6 +97,8 @@ header {
 }
 
 .j-menu {
+    position: relative;
+    z-index: 2;
     float: left;
     background-image: url('asset/j-menu.svg');
     width: 24px;
