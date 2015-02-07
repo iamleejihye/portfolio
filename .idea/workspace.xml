@@ -2,105 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/j-logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/j-logo_mobile.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/j-menu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/j-menu_mobile.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_01.svg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/animation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/editorial.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/event.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/illustration.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/profile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/css/animation.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/css/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/css/editorial.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/css/event.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/css/font.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/css/illustration.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/css/profile.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/css/reset-all.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/css/social.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/css/web.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/animation/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/animation/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/animation/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/animation/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/animation/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/animation/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/animation/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/animation/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/animation/comani_big_.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/animation/thumbnail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/app/1.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/app/2.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/app/3.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/app/4.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/app/5.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/app/6.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/app/thumbnail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/editorial/01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/editorial/02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/editorial/thumbnail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/event/thumbnail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/calendar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/calendar10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/calendar11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/calendar12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/calendar2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/calendar3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/calendar4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/calendar5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/calendar6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/calendar7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/calendar8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/calendar9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/poster-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/font/thumbnail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/illustration/1.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/illustration/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/illustration/2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/illustration/3.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/illustration/4.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/illustration/5.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/illustration/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/illustration/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/illustration/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/illustration/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/illustration/thumbnail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/profile.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/social/01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/social/02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/social/free poster design.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/social/thumbnail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/web/01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/web/02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/web/03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/web/04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/image/web/thumbnail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/psd/20131203.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/resume/resume_leejihye.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/social.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -168,10 +69,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="93" column="14" selection-start="3605" selection-end="3605" vertical-scroll-proportion="0.8051948" vertical-offset="899" max-vertical-offset="1515">
+                <state line="3" column="90" selection-start="144" selection-end="144" vertical-scroll-proportion="0.073051944" vertical-offset="0" max-vertical-offset="1530">
                   <folding />
                 </state>
               </provider>
@@ -181,10 +82,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="93" column="14" selection-start="3605" selection-end="3605" vertical-scroll-proportion="0.8125" vertical-offset="875" max-vertical-offset="1515">
+                <state line="94" column="14" selection-start="3696" selection-end="3696" vertical-scroll-proportion="0.8125" vertical-offset="890" max-vertical-offset="1530">
                   <folding />
                 </state>
               </provider>
@@ -760,18 +661,23 @@
       <created>1402661123428</created>
       <updated>1402661123428</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="All Renewal">
+      <created>1423294869852</created>
+      <updated>1423294869852</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="773" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15697211" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15697211" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -789,7 +695,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32798833" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -835,7 +740,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/08 10:41 p.m. information-contents font-weight 변경" />
     <MESSAGE value="2013/12/08 11:25 p.m. 이미지 업로드 빠르게 png 로 바꿈" />
     <MESSAGE value="2013/12/08 11:31 p.m. 이미지 업로드" />
     <MESSAGE value="2013/12/08 11:44 p.m. 이미지 업로드" />
@@ -860,7 +764,8 @@
     <MESSAGE value="2013/12/09 05:06 p.m. hover 수정" />
     <MESSAGE value="2013/12/09 05:08 p.m. hover 수정" />
     <MESSAGE value="2014/06/13 세미나 오픈 전 준비하기 - wide 화면으로 볼때 센터 정렬 안되는 부분 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="2014/06/13 세미나 오픈 전 준비하기 - wide 화면으로 볼때 센터 정렬 안되는 부분 수정" />
+    <MESSAGE value="All Renewal" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Renewal" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -882,7 +787,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="14" selection-start="3605" selection-end="3605" vertical-scroll-proportion="0.8125" vertical-offset="875" max-vertical-offset="1515">
+        <state line="3" column="90" selection-start="144" selection-end="144" vertical-scroll-proportion="0.073051944" vertical-offset="0" max-vertical-offset="1530">
           <folding />
         </state>
       </provider>
