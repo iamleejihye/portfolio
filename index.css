@@ -58,6 +58,10 @@ p {
     line-height: 28px;
 }
 
+.j-body-strong {
+    font-weight: 400;
+}
+
 /*------------side menu------------*/
 
 .j-side-menu {
@@ -256,7 +260,11 @@ p.j-body {
     text-align: center;
 }
 
-#j-project-detail .j-thumbnail:nth-child(1) {
+#j-project-01 .j-thumbnail:nth-child(1) {
+    width: 100%;
+}
+
+#j-project-01 .j-thumbnail:nth-child(4) {
     width: 100%;
 }
 
