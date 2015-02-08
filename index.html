@@ -14,9 +14,9 @@
     <div class="j-flex">
         <div>
             <div class="j-menues">
-                <div class="j-menu-title">project</div>
-                <div class="j-menu-title">blog</div>
-                <div class="j-menu-title">about</div>
+                <div class="j-menu-project">project</div>
+                <div class="j-menu-blog">blog</div>
+                <div class="j-menu-about">about</div>
             </div>
             <a href="https://www.facebook.com/iamleejihye" target="_blank">
                 <div class="j-menu-sns">facebook</div>
@@ -113,13 +113,15 @@
         </address>
     </footer>
 </div>
+
+<!------------------this is about page------------------>
+
 </body>
 </html>
 <script>
     $('.j-menu').on('click', function() {
-        $('.j-side-menu').toggle();
+        $('.j-side-menu').fadeToggle('fast');
         $(this).toggleClass('x');
-        $('.j-side-menu').animate({opacity:1}, 250);
         $('html,body').toggleClass('hidesScrollBar');
     });
 </script>
