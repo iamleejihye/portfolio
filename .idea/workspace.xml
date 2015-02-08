@@ -100,7 +100,7 @@
           <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="177" column="17" selection-start="2531" selection-end="2531" vertical-scroll-proportion="0.34493425" vertical-offset="2209" max-vertical-offset="6615">
+                <state line="355" column="21" selection-start="5097" selection-end="5097" vertical-scroll-proportion="0.34493425" vertical-offset="4879" max-vertical-offset="6615">
                   <folding />
                 </state>
               </provider>
@@ -230,21 +230,21 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="421" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="422" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="423" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="424" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="427" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="428" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1221" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1222" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="421" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="422" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="423" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="424" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="427" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="428" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1221" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1222" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="SearchEverywhereHistory" value="" />
   </component>
@@ -693,12 +693,16 @@
       <created>1423403427027</created>
       <updated>1423403427027</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="project hover button size updated">
+      <created>1423403628767</created>
+      <updated>1423403628767</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1413" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853898" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -768,7 +772,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/09 04:49 p.m. 프로필 아이콘 업로드" />
     <MESSAGE value="2013/12/09 04:54 p.m. 프로필 글씨 크기" />
     <MESSAGE value="2013/12/09 04:55 p.m. 프로필 내용 업데이트" />
     <MESSAGE value="2013/12/09 05:06 p.m. hover 수정" />
@@ -793,7 +796,8 @@
     <MESSAGE value="about image updated" />
     <MESSAGE value="title updated" />
     <MESSAGE value="project detail view updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="project detail view updated" />
+    <MESSAGE value="project hover button size updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="project hover button size updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -908,7 +912,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="177" column="17" selection-start="2531" selection-end="2531" vertical-scroll-proportion="0.34493425" vertical-offset="2209" max-vertical-offset="6615">
+        <state line="355" column="21" selection-start="5097" selection-end="5097" vertical-scroll-proportion="0.34493425" vertical-offset="4879" max-vertical-offset="6615">
           <folding />
         </state>
       </provider>
