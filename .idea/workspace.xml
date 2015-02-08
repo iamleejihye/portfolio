@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-about.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -72,7 +73,7 @@
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="98" column="20" selection-start="3590" selection-end="4080" vertical-scroll-proportion="-14.583333" vertical-offset="1120" max-vertical-offset="2085">
+                <state line="2" column="4" selection-start="27" selection-end="52" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="2100">
                   <folding />
                 </state>
               </provider>
@@ -81,7 +82,7 @@
           <file leaf-file-name="about.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/about.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="85" column="49" selection-start="3428" selection-end="3428" vertical-scroll-proportion="0.464933" vertical-offset="685" max-vertical-offset="2175">
+                <state line="10" column="29" selection-start="112" selection-end="112" vertical-scroll-proportion="0.11820331" vertical-offset="0" max-vertical-offset="2190">
                   <folding />
                 </state>
               </provider>
@@ -122,8 +123,8 @@
     <option name="changedFiles">
       <list>
         <option value="$USER_HOME$/Desktop/iamleejihye.github.io-master/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
@@ -688,12 +689,16 @@
       <created>1423384589124</created>
       <updated>1423384589125</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="about image updated">
+      <created>1423384657125</created>
+      <updated>1423384657125</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1413" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853898" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -701,7 +706,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3274596" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0775896" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0775896" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -763,7 +768,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="2013/12/09 11:52 a.m. 일러스트레이션 이미지 업로드" />
     <MESSAGE value="2013/12/09 04:19 p.m. 프로필 업로드" />
     <MESSAGE value="2013/12/09 04:44 p.m. 프로필 업로드" />
     <MESSAGE value="2013/12/09 04:49 p.m. 프로필 아이콘 업로드" />
@@ -788,7 +792,8 @@
     <MESSAGE value="menu animation successed!" />
     <MESSAGE value="menu animation succeed!" />
     <MESSAGE value="about page updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="about page updated" />
+    <MESSAGE value="about image updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="about image updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -857,13 +862,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="20" selection-start="3590" selection-end="4080" vertical-scroll-proportion="-14.583333" vertical-offset="1120" max-vertical-offset="2085">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="12" selection-start="497" selection-end="497" vertical-scroll-proportion="0.3433307" vertical-offset="120" max-vertical-offset="5955">
@@ -871,9 +869,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="4" selection-start="27" selection-end="52" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="2100">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="49" selection-start="3428" selection-end="3428" vertical-scroll-proportion="0.464933" vertical-offset="685" max-vertical-offset="2175">
+        <state line="10" column="29" selection-start="112" selection-end="112" vertical-scroll-proportion="0.11820331" vertical-offset="0" max-vertical-offset="2190">
           <folding />
         </state>
       </provider>
