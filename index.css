@@ -18,7 +18,7 @@ body, html {
     overflow: hidden;
 }
 
-/*------normalize------*/
+/*------------normalize------------*/
 
 li {
     list-style: none;
@@ -33,6 +33,10 @@ a {
     text-decoration: none;
 }
 
+p {
+    margin: 0;
+}
+
 /*------center align------*/
 
 .container {
@@ -41,19 +45,20 @@ a {
     background-color: #fff;
 }
 
-/*------font size------*/
+/*------------font size------------*/
 
 .j-title {
     font-size: 19px;
-    line-height: 29px;
+    line-height: 39px;
+    font-weight: 400;
 }
 
 .j-body {
     font-size: 14px;
-    line-height: 24px;
+    line-height: 28px;
 }
 
-/*------side menu------*/
+/*------------side menu------------*/
 
 .j-side-menu {
     z-index: 1;
@@ -81,7 +86,7 @@ a {
     cursor: pointer;
 }
 
-/*------header------*/
+/*------------header------------*/
 
 header {
     height: 240px;
@@ -117,7 +122,7 @@ header {
     height: 84px;
 }
 
-/*------project------*/
+/*------------project thumbnail------------*/
 
 section {
     width: 100%;
@@ -226,22 +231,36 @@ img {
     color: #fff;
 }
 
-/*------about-------*/
+/*------------about-------------*/
 
 .j-about-text {
     padding: 4%;
     box-sizing: border-box;
+    text-align: center;
 }
 
 p.j-title {
     color: #636262;
+    margin-bottom: 20px;
 }
 
 p.j-body {
     color: #636262;
 }
 
-/*------footer------*/
+/*------------project------------*/
+
+.j-project-text {
+    padding: 4%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#j-project-detail .j-thumbnail:nth-child(1) {
+    width: 100%;
+}
+
+/*------------footer------------*/
 
 footer {
     display: inline-block;
@@ -281,7 +300,6 @@ address {
 
 .j-mail:hover {
     opacity: 0.5;
-
 }
 
 .j-sns span {
@@ -293,7 +311,8 @@ address {
     opacity: 0.5;
 }
 
-/*------responsive------*/
+
+/*------------responsive------------*/
 
 @media (min-width: 1600px) {
     .container {
@@ -325,19 +344,24 @@ address {
 }
 
 @media (max-width: 640px) {
-    header {
-        height: 140px;
-        padding: 8%;
-    }
+
+    /*------------font------------*/
 
     .j-title {
-        font-size: 14px;
-        line-height: 24px;
+        font-size: 17px;
+        line-height: 28px;
     }
 
     .j-body {
-        font-size: 9px;
+        font-size: 13px;
         line-height: 19px;
+    }
+
+    /*------------header------------*/
+
+    header {
+        height: 140px;
+        padding: 8%;
     }
 
     .j-menu {
@@ -354,22 +378,10 @@ address {
         height: 54px;
     }
 
-    li.j-thumbnail {
+    /*------------project thumbnail------------*/
+
+    .j-thumbnail {
         width: 100%;
-    }
-
-    footer {
-        padding: 8%;
-    }
-
-    .j-contact-title {
-        margin-bottom: 24px;
-    }
-
-    .j-contact,
-    .j-sns,
-    address {
-        float: none;
     }
 
     .j-thumbnail:hover .j-hover-box {
@@ -388,5 +400,37 @@ address {
         opacity: 0;
     }
 
+    /*------------footer------------*/
+
+    footer {
+        padding: 8%;
+    }
+
+    .j-contact,
+    .j-sns {
+        margin-right: 0px;
+    }
+
+    .j-contact-title {
+        margin-bottom: 24px;
+    }
+
+    .j-contact,
+    .j-sns,
+    address {
+        float: none;
+    }
+
+    /*------------about------------*/
+
+    .j-about-text {
+        padding: 8%;
+    }
+
+    /*------------project------------*/
+
+    .j-project-text {
+        padding: 8%;
+    }
 
 }
