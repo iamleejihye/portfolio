@@ -1,0 +1,139 @@
+<!--------------------about------------------------>
+
+
+
+
+
+
+
+<!doctype html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link href="index.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+    <script src="jquery-2.1.3.js"></script>
+    <script src="jquery-2.1.3.min.js"></script>
+</head>
+<html>
+<body>
+<div class="j-side-menu">
+    <div class="j-flex">
+        <div>
+            <div class="j-menues">
+                <a href="index.html"><div class="j-menu-project">project</div></a>
+                <div class="j-menu-blog">blog</div>
+                <a href="about.html"><div class="j-menu-about">about</div></a>
+            </div>
+            <a href="https://www.facebook.com/iamleejihye" target="_blank">
+                <div class="j-menu-sns">facebook</div>
+            </a>
+            <a href="http://instagram.com/my.daily.routine" target="_blank">
+                <div class="j-menu-sns">instagram</div>
+            </a>
+            <a href="http://greedy-girl.tumblr.com/" target="_blank">
+                <div class="j-menu-sns">tumblr</div>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <header>
+        <div class="j-menu icon"></div>
+        <a href="index.html"><div class="j-logo icon"></div></a>
+    </header>
+    <section>
+        <div class="j-project">
+            <div class="j-about">
+                <img src="img/j-about.svg">
+            </div>
+        </div>
+        <div class="j-about-text">
+            <p class="j-title">
+                I’M JIHYE LEE,
+                GRAPHIC DESIGNER
+                IN SEOUL.
+            </p>
+            <p class="j-body">
+                I work as a graphic designer in a field of
+                a user experience for about 1 year. And
+                I’m a Co-Founder of dxd seminar - A
+                Designer to Code. I work as a graphic
+                designer in a field of a user experience for
+                about 1 year. And I’m a Co-Founder of
+                dxd seminar - A Designer to Code. I work
+                as a graphic designer in a field of
+                a user experience for about 1 year. And
+                I’m a Co-Founder of dxd seminar - A
+                Designer to Code. I work as a graphic
+                designer in a field of a user experience for
+                about 1 year. And I’m a Co-Founder of
+                dxd seminar - A Designer to Code.
+                I work as a graphic designer in a field of
+                a user experience for about 1 year. And
+                I’m a Co-Founder of dxd seminar - A
+                Designer to Code. I work as a graphic
+                designer in a field of a user experience for
+                about 1 year. And I’m a Co-Founder of
+                dxd seminar - A Designer to Code. I work
+                as a graphic designer in a field of
+                a user experience for about 1 year. And
+                I’m a Co-Founder of dxd seminar - A
+                Designer to Code. I work as a graphic
+                designer in a field of a user experience for
+                about 1 year. And I’m a Co-Founder of
+                dxd seminar - A Designer to Code.
+            </p>
+        </div>
+    </section>
+    <footer>
+        <div class="j-contact-title j-body">
+            contact
+        </div>
+        <div class="j-contact">
+            <div class="j-mail j-title">
+                <a href="mailto:iam.leejihye@gmail.com">
+                    iam.leejihye@gmail.com
+                </a>
+            </div>
+            <div class="j-title">
+                010.2053.0301
+            </div>
+        </div>
+        <div class="j-sns">
+                    <span class="j-body">
+                        <a href="https://www.behance.net/designerleee" target="_blank">Behance</a>
+                    </span>
+                    <span class="j-body">
+                        <a href="https://www.facebook.com/iamleejihye" target="_blank">Facebook</a>
+                    </span>
+                    <span class="j-body">
+                        <a href="http://instagram.com/my.daily.routine" target="_blank">Instagram</a>
+                    </span>
+        </div>
+        <address>
+            <div class="j-body">
+                © JIHYE LEE. 2015
+            </div>
+        </address>
+    </footer>
+</div>
+</body>
+</html>
+<script>
+    $('.j-menu').on('click', function() {
+        $('.j-side-menu').fadeToggle('fast');
+        $(this).toggleClass('x');
+        $('html,body').toggleClass('hidesScrollBar');
+    });
+
+    $(document).ready(function(){
+        $('.j-menu-about').click(function(){
+            $('.j-about').fadeTo('fast');
+        });
+    });
+
+
+</script>
+

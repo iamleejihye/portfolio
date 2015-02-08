@@ -45,10 +45,12 @@ a {
 
 .j-title {
     font-size: 19px;
+    line-height: 29px;
 }
 
 .j-body {
     font-size: 14px;
+    line-height: 24px;
 }
 
 /*------side menu------*/
@@ -65,15 +67,18 @@ a {
 .j-menues {
     line-height: 56px;
     font-size: 36px;
-}
-
-.j-menues {
     margin-bottom: 30px;
 }
 
 .j-menu-sns {
     font-size: 20px;
     line-height: 38px;
+}
+
+.j-menu-project,
+.j-menu-blog,
+.j-menu-about {
+    cursor: pointer;
 }
 
 /*------header------*/
@@ -123,7 +128,7 @@ img {
     vertical-align: top;
 }
 
-ul.j-project {
+.j-project {
     padding: 0;
     margin: 0;
     display: flex;
@@ -132,9 +137,14 @@ ul.j-project {
     -webkit-flex-wrap: wrap;
 }
 
-li.j-thumbnail {
+.j-thumbnail {
     position: relative;
     width: 50%;
+}
+
+.j-about {
+    position: relative;
+    width: 100%;
 }
 
 .j-hover {
@@ -216,6 +226,20 @@ li.j-thumbnail {
     color: #fff;
 }
 
+/*------about-------*/
+
+.j-about-text {
+    padding: 4%;
+    box-sizing: border-box;
+}
+
+p.j-title {
+    color: #636262;
+}
+
+p.j-body {
+    color: #636262;
+}
 
 /*------footer------*/
 
@@ -269,12 +293,6 @@ address {
     opacity: 0.5;
 }
 
-/*------article------*/
-
-article.j-about {
-    display: none;
-}
-
 /*------responsive------*/
 
 @media (min-width: 1600px) {
@@ -314,10 +332,12 @@ article.j-about {
 
     .j-title {
         font-size: 14px;
+        line-height: 24px;
     }
 
     .j-body {
         font-size: 9px;
+        line-height: 19px;
     }
 
     .j-menu {
