@@ -348,12 +348,12 @@ address {
     /*------------font------------*/
 
     .j-title {
-        font-size: 16px;
+        font-size: 17px;
         line-height: 28px;
     }
 
     .j-body {
-        font-size: 12px;
+        font-size: 13px;
         line-height: 19px;
     }
 
@@ -420,6 +420,16 @@ address {
     address {
         float: none;
     }
+
+    footer .j-title {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    footer .j-body {
+        font-size: 11px;
+    }
+
 
     /*------------about------------*/
 
