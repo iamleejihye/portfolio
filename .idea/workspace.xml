@@ -616,7 +616,11 @@
       <created>1425151236796</created>
       <updated>1425151236796</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="project body padding updated">
+      <created>1425151417738</created>
+      <updated>1425151417738</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -691,7 +695,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Because of Leo, everything was threw away. So I recovered it." />
     <MESSAGE value="footer updated" />
     <MESSAGE value="mobile footer updated&#10;" />
     <MESSAGE value="footer padding updated&#10;" />
@@ -716,7 +719,8 @@
     <MESSAGE value="자기소개 업데이트" />
     <MESSAGE value="menu interaction 추가 / project thumbnail hover 추가" />
     <MESSAGE value="j-body-korean font color updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="j-body-korean font color updated" />
+    <MESSAGE value="project body padding updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="project body padding updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
