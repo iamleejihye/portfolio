@@ -1,8 +1,7 @@
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato', sans-serif, 'Nanum Gothic', serif;
     font-weight: 300;
     text-transform: uppercase;
-    letter-spacing: 1px;
     height: 100%;
     background-color: #f9f9f9;
     margin: 0;
@@ -51,15 +50,26 @@ p {
     font-size: 19px;
     line-height: 39px;
     font-weight: 400;
+    letter-spacing: 1px;
 }
 
 .j-body {
     font-size: 14px;
     line-height: 28px;
+    letter-spacing: 1px;
 }
 
 .j-body-strong {
     font-weight: 400;
+    letter-spacing: 1px;
+}
+
+.j-body-korean {
+    font-size: 13px;
+    line-height: 26px;
+    color: #707070;
+    font-family: 'Nanum Gothic', sans-serif;
+    letter-spacing: 0;
 }
 
 /*------------side menu------------*/
@@ -71,6 +81,7 @@ p {
     width: 100%;
     height: 100%;
     background-color: #ff976e;
+    opacity: 0.95;
 }
 
 .j-menues {
@@ -88,6 +99,20 @@ p {
 .j-menu-blog,
 .j-menu-about {
     cursor: pointer;
+}
+
+.j-side-menu a {
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
+    display: block;
+}
+
+
+.j-side-menu a:hover {
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
+    transform: scale(1.1);
+    display: block;
 }
 
 /*------------header------------*/
@@ -130,6 +155,7 @@ header {
 
 section {
     width: 100%;
+    background-color: #fff;
 }
 
 img {
@@ -164,30 +190,36 @@ img {
 }
 
 .j-hover-title {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     opacity: 0;
-    -webkit-transition: 0.8s;
-    transition: 0.8s;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
     font-weight: 400;
 }
 
 .j-hover-contents {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     opacity: 0;
-    -webkit-transition: 0.8s;
-    transition: 0.8s;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
 }
 
 .button {
     margin: 0 104px;
-    padding: 14px;
-    border-radius: 8px;
-    border: 2px solid rgba(255,255,255,0.5);
+    padding: 9px;
+    border-radius: 6px;
+    border: 2px solid #fff;
     opacity: 0;
-    -webkit-transition: 0.8s;
-    transition: 0.8;
+    -webkit-transition: 0.5s;
+    transition: 0.5;
     font-weight: 400;
 }
+
+.button:hover {
+    background-color: #fff;
+    color: #ff976e;
+}
+
 
 .j-thumbnail:hover .j-hover-title {
     opacity: 1;
@@ -255,7 +287,7 @@ p.j-body {
 /*------------project------------*/
 
 .j-project-text {
-    padding: 4%;
+    padding: 0 4% 6% 4%;
     box-sizing: border-box;
     text-align: center;
 }
@@ -266,6 +298,14 @@ p.j-body {
 
 #j-project-01 .j-thumbnail:nth-child(4) {
     width: 100%;
+}
+
+.j-project-text p.j-body-korean {
+    margin-top: 16px;
+}
+
+p.j-body-strong {
+    margin-top: 16px;
 }
 
 /*------------footer------------*/
