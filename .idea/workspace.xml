@@ -103,7 +103,7 @@
           <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="69" column="18" selection-start="971" selection-end="971" vertical-scroll-proportion="0.4296875" vertical-offset="760" max-vertical-offset="7485">
+                <state line="490" column="24" selection-start="7218" selection-end="7218" vertical-scroll-proportion="0.7890625" vertical-offset="6845" max-vertical-offset="7485">
                   <folding />
                 </state>
               </provider>
@@ -612,7 +612,11 @@
       <created>1425151052357</created>
       <updated>1425151052357</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="j-body-korean font color updated">
+      <created>1425151236796</created>
+      <updated>1425151236796</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -687,7 +691,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="viewport added" />
     <MESSAGE value="Because of Leo, everything was threw away. So I recovered it." />
     <MESSAGE value="footer updated" />
     <MESSAGE value="mobile footer updated&#10;" />
@@ -712,7 +715,8 @@
     <MESSAGE value="dxd seminar img updated" />
     <MESSAGE value="자기소개 업데이트" />
     <MESSAGE value="menu interaction 추가 / project thumbnail hover 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="menu interaction 추가 / project thumbnail hover 추가" />
+    <MESSAGE value="j-body-korean font color updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="j-body-korean font color updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -847,7 +851,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="18" selection-start="971" selection-end="971" vertical-scroll-proportion="0.4296875" vertical-offset="760" max-vertical-offset="7485">
+        <state line="490" column="24" selection-start="7218" selection-end="7218" vertical-scroll-proportion="0.7890625" vertical-offset="6845" max-vertical-offset="7485">
           <folding />
         </state>
       </provider>
