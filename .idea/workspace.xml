@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_01_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_01_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_01_02.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/j-project_01_07.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-project_01.svg" afterPath="$PROJECT_DIR$/img/j-project_01.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-project_01_02.svg" afterPath="$PROJECT_DIR$/img/j-project_01_02.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_01.html" afterPath="$PROJECT_DIR$/project_01.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -83,10 +81,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="project_01.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="project_01.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/project_01.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="71" column="49" selection-start="3368" selection-end="3368" vertical-scroll-proportion="0.6644951" vertical-offset="799" max-vertical-offset="2227">
+                <state line="53" column="46" selection-start="2727" selection-end="2727" vertical-scroll-proportion="0.41530946" vertical-offset="646" max-vertical-offset="2227">
                   <folding />
                 </state>
               </provider>
@@ -105,10 +103,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="307" column="38" selection-start="4655" selection-end="4655" vertical-scroll-proportion="0.4397394" vertical-offset="4335" max-vertical-offset="7920">
+                <state line="307" column="38" selection-start="4655" selection-end="4655" vertical-scroll-proportion="0.6107492" vertical-offset="4230" max-vertical-offset="7920">
                   <folding />
                 </state>
               </provider>
@@ -139,8 +137,8 @@
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/project_02.html" />
-        <option value="$PROJECT_DIR$/project_01.html" />
         <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/project_01.html" />
       </list>
     </option>
   </component>
@@ -660,19 +658,23 @@
       <created>1425443489283</created>
       <updated>1425443489283</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="dxd seminar image uploaded">
+      <created>1425454498278</created>
+      <updated>1425454498278</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853898" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32599118" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18347895" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18347895" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -735,7 +737,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="mobile footer font size updated" />
     <MESSAGE value="mobile footer space updated" />
     <MESSAGE value="mobile footer space updated&#10;" />
     <MESSAGE value="tbd side menu updated" />
@@ -760,7 +761,8 @@
     <MESSAGE value="Selected Thesis Upload&#10;" />
     <MESSAGE value="Selected Thesis Text Upload&#10;" />
     <MESSAGE value="Selected Thesis Mockup Image Upload&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selected Thesis Mockup Image Upload&#10;" />
+    <MESSAGE value="dxd seminar image uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="dxd seminar image uploaded" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -893,16 +895,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_01.html">
+    <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="49" selection-start="3368" selection-end="3368" vertical-scroll-proportion="0.6644951" vertical-offset="799" max-vertical-offset="2227">
+        <state line="307" column="38" selection-start="4655" selection-end="4655" vertical-scroll-proportion="0.6107492" vertical-offset="4230" max-vertical-offset="7920">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
+    <entry file="file://$PROJECT_DIR$/project_01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="307" column="38" selection-start="4655" selection-end="4655" vertical-scroll-proportion="0.4397394" vertical-offset="4335" max-vertical-offset="7920">
+        <state line="53" column="46" selection-start="2727" selection-end="2727" vertical-scroll-proportion="0.41530946" vertical-offset="646" max-vertical-offset="2227">
           <folding />
         </state>
       </provider>
