@@ -297,7 +297,15 @@ p.j-body {
     width: 100%;
 }
 
-#j-project-01 .j-thumbnail:nth-child(4) {
+#j-project-01 .j-thumbnail:nth-child(2) {
+    width: 100%;
+}
+
+#j-project-01 .j-thumbnail:nth-child(5) {
+    width: 100%;
+}
+
+#j-project-01 .j-thumbnail:nth-child(8) {
     width: 100%;
 }
 
