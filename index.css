@@ -301,11 +301,7 @@ p.j-body {
     width: 100%;
 }
 
-#j-project-02 .j-thumbnail:nth-child(1) {
-    width: 100%;
-}
-
-#j-project-02 .j-thumbnail:nth-child(2) {
+#j-project-02 .j-thumbnail {
     width: 100%;
 }
 
