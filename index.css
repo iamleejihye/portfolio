@@ -311,23 +311,23 @@ p.j-body {
     text-align: center;
 }
 
-#j-project-01 .j-thumbnail:nth-child(1) {
+#j-project-02 .j-thumbnail:nth-child(1) {
     width: 100%;
 }
 
-#j-project-01 .j-thumbnail:nth-child(2) {
+#j-project-02 .j-thumbnail:nth-child(2) {
     width: 100%;
 }
 
-#j-project-01 .j-thumbnail:nth-child(3) {
+#j-project-02 .j-thumbnail:nth-child(3) {
     width: 100%;
 }
 
-#j-project-01 .j-thumbnail:nth-child(6) {
+#j-project-02 .j-thumbnail:nth-child(6) {
     width: 100%;
 }
 
-#j-project-02 .j-thumbnail {
+#j-project-03 .j-thumbnail {
     width: 100%;
 }
 
