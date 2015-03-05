@@ -221,7 +221,6 @@ img {
     color: #ff976e;
 }
 
-
 .j-thumbnail:hover .j-hover-title {
     opacity: 1;
 }
@@ -283,6 +282,25 @@ p.j-title {
 
 p.j-body {
     color: #636262;
+}
+
+.j-about-button {
+    margin-top: 30px;
+    display: inline-block;
+    width: 170px;
+    padding: 9px;
+    border-radius: 6px;
+    border: 2px solid rgba(255,151,110,0.5);
+    -webkit-transition: 0.5s;
+    transition: 0.5;
+    font-weight: 400;
+    color: #ff976e;
+    cursor: pointer;
+}
+
+.j-about-button:hover {
+    background-color: #ff976e;
+    color: #fff;
 }
 
 /*------------project------------*/

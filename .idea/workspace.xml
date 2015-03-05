@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_01.html" afterPath="$PROJECT_DIR$/project_01.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -72,7 +74,7 @@
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="28" column="38" selection-start="1275" selection-end="1275" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="2280">
+                <state line="118" column="29" selection-start="4689" selection-end="4689" vertical-scroll-proportion="-18.791666" vertical-offset="1319" max-vertical-offset="2280">
                   <folding />
                 </state>
               </provider>
@@ -81,7 +83,7 @@
           <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/about.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="67" column="130" selection-start="3132" selection-end="3132" vertical-scroll-proportion="0.70616883" vertical-offset="570" max-vertical-offset="1890">
+                <state line="68" column="77" selection-start="3467" selection-end="3467" vertical-scroll-proportion="0.58441556" vertical-offset="660" max-vertical-offset="1920">
                   <folding />
                 </state>
               </provider>
@@ -90,7 +92,7 @@
           <file leaf-file-name="project_01.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/project_01.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="42" column="198" selection-start="1827" selection-end="1827" vertical-scroll-proportion="-9.153846" vertical-offset="476" max-vertical-offset="2227">
+                <state line="45" column="4" selection-start="2353" selection-end="2353" vertical-scroll-proportion="-10.461538" vertical-offset="493" max-vertical-offset="2227">
                   <folding />
                 </state>
               </provider>
@@ -112,7 +114,7 @@
           <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="505" column="23" selection-start="7372" selection-end="7372" vertical-scroll-proportion="0.43811074" vertical-offset="7306" max-vertical-offset="7920">
+                <state line="287" column="18" selection-start="4331" selection-end="4331" vertical-scroll-proportion="0.8778502" vertical-offset="3766" max-vertical-offset="8190">
                   <folding />
                 </state>
               </provider>
@@ -140,10 +142,10 @@
     <option name="changedFiles">
       <list>
         <option value="$USER_HOME$/Desktop/iamleejihye.github.io-master/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/project_02.html" />
-        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/project_01.html" />
+        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/index.css" />
       </list>
     </option>
@@ -680,7 +682,11 @@
       <created>1425522985072</created>
       <updated>1425522985072</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="introduction text padding modified&#10;">
+      <created>1425523026263</created>
+      <updated>1425523026263</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -892,6 +898,13 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="29" selection-start="4689" selection-end="4689" vertical-scroll-proportion="-18.791666" vertical-offset="1319" max-vertical-offset="2280">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/project_02.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="230" selection-start="1971" selection-end="2197" vertical-scroll-proportion="-10.0" vertical-offset="420" max-vertical-offset="1770">
@@ -899,30 +912,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="38" selection-start="1275" selection-end="1275" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="2280">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project_01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="198" selection-start="1827" selection-end="1827" vertical-scroll-proportion="-9.153846" vertical-offset="476" max-vertical-offset="2227">
+        <state line="45" column="4" selection-start="2353" selection-end="2353" vertical-scroll-proportion="-10.461538" vertical-offset="493" max-vertical-offset="2227">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="130" selection-start="3132" selection-end="3132" vertical-scroll-proportion="0.70616883" vertical-offset="570" max-vertical-offset="1890">
+        <state line="68" column="77" selection-start="3467" selection-end="3467" vertical-scroll-proportion="0.58441556" vertical-offset="660" max-vertical-offset="1920">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="505" column="23" selection-start="7372" selection-end="7372" vertical-scroll-proportion="0.43811074" vertical-offset="7306" max-vertical-offset="7920">
+        <state line="287" column="18" selection-start="4331" selection-end="4331" vertical-scroll-proportion="0.8778502" vertical-offset="3766" max-vertical-offset="8190">
           <folding />
         </state>
       </provider>
