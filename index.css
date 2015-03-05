@@ -503,7 +503,7 @@ address {
     /*------------about------------*/
 
     .j-about-text {
-        padding: 8%;
+        padding: 0 8% 14% 8%;
     }
 
     /*------------project------------*/
