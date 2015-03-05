@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-about_01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-about_01.png" afterPath="$PROJECT_DIR$/img/j-about_01.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -705,7 +704,11 @@
       <created>1425558214514</created>
       <updated>1425558214514</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="my introduction image mobile uploaded&#10;">
+      <created>1425558523044</created>
+      <updated>1425558523044</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -780,7 +783,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="title updated" />
     <MESSAGE value="project detail view updated" />
     <MESSAGE value="project hover button size updated" />
     <MESSAGE value="mobile font size modified" />
@@ -805,7 +807,8 @@
     <MESSAGE value="view resume button hover mobile modified&#10;" />
     <MESSAGE value="my introduction image uploaded" />
     <MESSAGE value="my introduction image uploaded&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="my introduction image uploaded&#10;" />
+    <MESSAGE value="my introduction image mobile uploaded&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="my introduction image mobile uploaded&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
