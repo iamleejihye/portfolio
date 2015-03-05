@@ -81,7 +81,7 @@
           <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/about.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="68" column="77" selection-start="3467" selection-end="3467" vertical-scroll-proportion="0.53571427" vertical-offset="690" max-vertical-offset="1920">
+                <state line="57" column="12" selection-start="1783" selection-end="1886" vertical-scroll-proportion="0.26785713" vertical-offset="690" max-vertical-offset="1920">
                   <folding />
                 </state>
               </provider>
@@ -112,7 +112,7 @@
           <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="526" column="25" selection-start="7769" selection-end="7769" vertical-scroll-proportion="0.65798044" vertical-offset="7486" max-vertical-offset="8400">
+                <state line="529" column="23" selection-start="7883" selection-end="7883" vertical-scroll-proportion="0.51140064" vertical-offset="7621" max-vertical-offset="8280">
                   <folding />
                 </state>
               </provider>
@@ -688,7 +688,11 @@
       <created>1425524315083</created>
       <updated>1425524315084</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="view resume button mobile modified&#10;">
+      <created>1425524432479</created>
+      <updated>1425524432479</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -763,7 +767,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="menu animation successed!" />
     <MESSAGE value="menu animation succeed!" />
     <MESSAGE value="about page updated" />
     <MESSAGE value="about image updated" />
@@ -788,7 +791,8 @@
     <MESSAGE value="introduction text updated" />
     <MESSAGE value="introduction text padding modified&#10;" />
     <MESSAGE value="view resume button added" />
-    <option name="LAST_COMMIT_MESSAGE" value="view resume button added" />
+    <MESSAGE value="view resume button mobile modified&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="view resume button mobile modified&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -923,14 +927,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="77" selection-start="3467" selection-end="3467" vertical-scroll-proportion="0.53571427" vertical-offset="690" max-vertical-offset="1920">
+        <state line="57" column="12" selection-start="1783" selection-end="1886" vertical-scroll-proportion="0.26785713" vertical-offset="690" max-vertical-offset="1920">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="526" column="25" selection-start="7769" selection-end="7769" vertical-scroll-proportion="0.65798044" vertical-offset="7486" max-vertical-offset="8400">
+        <state line="529" column="23" selection-start="7883" selection-end="7883" vertical-scroll-proportion="0.51140064" vertical-offset="7621" max-vertical-offset="8280">
           <folding />
         </state>
       </provider>
