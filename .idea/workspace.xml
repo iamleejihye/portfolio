@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="순서 변경, 이미지 업로드">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_02_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_02_02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_02.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_02_02.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_02_03.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_02_04.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_02_05.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_02_06.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_03.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/j-project_01.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/j-project_01_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/j-project_01_02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/j-project_01_02.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/j-project_01_03.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/j-project_01_04.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/j-project_01_05.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/j-project_01_06.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/j-project_02.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/j-about_01.png" afterPath="$PROJECT_DIR$/img/j-about-m.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/project_01.html" afterPath="$PROJECT_DIR$/project_02.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -736,7 +712,11 @@
       <created>1425558667485</created>
       <updated>1425558667485</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="순서 변경, 이미지 업로드">
+      <created>1425565110487</created>
+      <updated>1425565110487</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -811,7 +791,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="project hover button size updated" />
     <MESSAGE value="mobile font size modified" />
     <MESSAGE value="mobile font size modified&#10;" />
     <MESSAGE value="dxd seminar project updated" />
@@ -836,7 +815,8 @@
     <MESSAGE value="my introduction image uploaded&#10;" />
     <MESSAGE value="my introduction image mobile uploaded&#10;" />
     <MESSAGE value="순서 변경, 이미지 업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="순서 변경, 이미지 업로드" />
+    <MESSAGE value="순서 변경, 이미지 업로드&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="순서 변경, 이미지 업로드&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
