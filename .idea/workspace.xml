@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_04_01.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_04.html" afterPath="$PROJECT_DIR$/project_04.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -100,7 +99,7 @@
           <file leaf-file-name="project_04.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/project_04.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="60" column="54" selection-start="2733" selection-end="2733" vertical-scroll-proportion="0.6439394" vertical-offset="645" max-vertical-offset="1845">
+                <state line="58" column="17" selection-start="2631" selection-end="2631" vertical-scroll-proportion="0.6818182" vertical-offset="600" max-vertical-offset="1800">
                   <folding />
                 </state>
               </provider>
@@ -727,7 +726,11 @@
       <created>1425638802030</created>
       <updated>1425638802031</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="open morning wireframe uploaded&#10;">
+      <created>1425641961263</created>
+      <updated>1425641961264</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -802,7 +805,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="mobile font size modified&#10;" />
     <MESSAGE value="dxd seminar project updated" />
     <MESSAGE value="dxd seminar img updated" />
     <MESSAGE value="자기소개 업데이트" />
@@ -827,7 +829,8 @@
     <MESSAGE value="순서 변경, 이미지 업로드" />
     <MESSAGE value="순서 변경, 이미지 업로드&#10;" />
     <MESSAGE value="open morning uploaded" />
-    <option name="LAST_COMMIT_MESSAGE" value="open morning uploaded" />
+    <MESSAGE value="open morning wireframe uploaded&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="open morning wireframe uploaded&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -976,7 +979,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project_04.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="54" selection-start="2733" selection-end="2733" vertical-scroll-proportion="0.6439394" vertical-offset="645" max-vertical-offset="1845">
+        <state line="58" column="17" selection-start="2631" selection-end="2631" vertical-scroll-proportion="0.6818182" vertical-offset="600" max-vertical-offset="1800">
           <folding />
         </state>
       </provider>
