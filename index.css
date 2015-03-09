@@ -111,7 +111,7 @@ p {
 .j-side-menu a:hover {
     -webkit-transition: 0.2s;
     transition: 0.2s;
-    -webkit-transform: scale(1,1);
+    -webkit-transform: scale(1.1);
     transform: scale(1.1);
     display: block;
 }

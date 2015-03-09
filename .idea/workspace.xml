@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="text">
+    <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -112,7 +112,7 @@
           <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="105" column="21" selection-start="1529" selection-end="1529" vertical-scroll-proportion="0.25641027" vertical-offset="1475" max-vertical-offset="8355">
+                <state line="113" column="31" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.6025641" vertical-offset="1460" max-vertical-offset="8355">
                   <folding />
                 </state>
               </provider>
@@ -770,7 +770,11 @@
       <created>1425891024621</created>
       <updated>1425891024622</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="transform updated">
+      <created>1425900465372</created>
+      <updated>1425900465372</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -845,7 +849,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="j-body-korean font color updated" />
     <MESSAGE value="project body padding updated" />
     <MESSAGE value="project body padding updated&#10;" />
     <MESSAGE value="Selected Thesis Upload" />
@@ -870,7 +873,8 @@
     <MESSAGE value="dxd designers community thumbnail image updated" />
     <MESSAGE value="all thumbnail updated" />
     <MESSAGE value="illustration thumbnail updated&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="illustration thumbnail updated&#10;" />
+    <MESSAGE value="transform updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="transform updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1019,7 +1023,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="21" selection-start="1529" selection-end="1529" vertical-scroll-proportion="0.25641027" vertical-offset="1475" max-vertical-offset="8355">
+        <state line="113" column="31" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.6025641" vertical-offset="1460" max-vertical-offset="8355">
           <folding />
         </state>
       </provider>
