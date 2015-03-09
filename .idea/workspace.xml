@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_07.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-project_07.png" afterPath="$PROJECT_DIR$/img/j-project_07.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -758,7 +758,11 @@
       <created>1425885370424</created>
       <updated>1425885370424</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="illustration thumbnail updated&#10;">
+      <created>1425889306720</created>
+      <updated>1425889306721</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -833,7 +837,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="menu interaction 추가 / project thumbnail hover 추가" />
     <MESSAGE value="j-body-korean font color updated" />
     <MESSAGE value="project body padding updated" />
     <MESSAGE value="project body padding updated&#10;" />
@@ -858,7 +861,8 @@
     <MESSAGE value="open morning mockup image uploaded&#10;" />
     <MESSAGE value="dxd designers community thumbnail image updated" />
     <MESSAGE value="all thumbnail updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="all thumbnail updated" />
+    <MESSAGE value="illustration thumbnail updated&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="illustration thumbnail updated&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
