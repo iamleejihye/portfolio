@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="index thumbnail image px fixed&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/j-project_02.png" />
+    <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-project_01.png" afterPath="$PROJECT_DIR$/img/j-project_01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-project_02.png" afterPath="$PROJECT_DIR$/img/j-project_02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-project_06.png" afterPath="$PROJECT_DIR$/img/j-project_06.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-project_07.png" afterPath="$PROJECT_DIR$/img/j-project_07.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-project_02.svg" afterPath="$PROJECT_DIR$/img/j-project_02.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -72,7 +77,7 @@
           <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="71" column="50" selection-start="3107" selection-end="3107" vertical-scroll-proportion="0.7270408" vertical-offset="780" max-vertical-offset="2640">
+                <state line="71" column="50" selection-start="3107" selection-end="3107" vertical-scroll-proportion="0.88010204" vertical-offset="720" max-vertical-offset="2640">
                   <folding />
                 </state>
               </provider>
@@ -786,19 +791,23 @@
       <created>1425958735217</created>
       <updated>1425958735217</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="index thumbnail image px fixed&#10;">
+      <created>1425958772962</created>
+      <updated>1425958772963</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32892805" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853898" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32599118" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18347895" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18347895" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -1035,7 +1044,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="50" selection-start="3107" selection-end="3107" vertical-scroll-proportion="0.7270408" vertical-offset="780" max-vertical-offset="2640">
+        <state line="71" column="50" selection-start="3107" selection-end="3107" vertical-scroll-proportion="0.88010204" vertical-offset="720" max-vertical-offset="2640">
           <folding />
         </state>
       </provider>
