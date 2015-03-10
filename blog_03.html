@@ -37,58 +37,43 @@
         <a href="index.html"><div class="j-logo icon"></div></a>
     </header>
     <section>
-        <ul class="j-project">
+    <div class="j-project-text">
+    <p class="j-title">The Miracles of the Namiya General Store</p>
+    <p class="j-body">
+        2015.03.07-08
+    </p>
+    <p class="j-body-korean">
+        오랜만에 정말 빠르게 읽어내려간 책이다.
+        요새 고민이 참 많았는데 구체적이지는 않지만 나도 나미야 잡화점에서 해결책을 얻은 것 같다.
+        나야미가 고민이라는 뜻이라서 말 장난처럼 비슷한 단어로 되어있는 '나미야' 잡화점이
+        고민 상담소가 된거라는 것을 알고 봤다면 이 책의 느낌은 어땠을까 생각하며 우리나라식으로
+        '고만' 잡화점, '구민' 잡화점, 이런식으로 떠올려보는 것도 재밌었다. 하지만 그렇다면
+        나미야 아저씨는 '고만'이나 '구민'이라는 한국식 이름을 가져야 되기 때문에 일본이라는 배경 때문에
+        이야기상 맞지는 않는다. 또 액자식 구성으로 되어있는 소설인지 모르고 보다가 조금 헷갈리기도 해서
+        여러 번 페이지를 왔다갔다 하며 봐야했는데 그래도 진진한 이야기를 놓치지 않기 위해서라면 그런 것들도 수고롭지 않았다.
+        한편 이 책은 처음 리디북스라는 툴을 사용하여 본 소설이었다. 작년 초에 한 라식 수술을 때문에
+        가능하면 스마트폰을 안보려고 하기 때문에 이런 서비스가 있구나 알면서도 사용하지 않았었는데
+        우연히 보게 된 채용 공고에 매료되어 채용 공고도 이렇게 매력있게 디자인하는 곳의 서비스라면
+        이용해보고 싶다는 생각이 들어서 처음 구매하여 보기 시작했다. 생각보다 대만족이었다.
+        나는 '짐녀'라는 별명이 있을 정도로 노트북, 노트, 큰 파우치 등 짐을 평소에
+        많이 들고 다니는 스타일이어서 책 읽는 것을 좋아하지만 마음 먹고 책을 가지고 밖에 나가는 것은 어려운 일이었다.
+        하지만 리디북스를 통해 책을 사고서는 물리적인 무게 없이 책을 편하게 볼 수 있어서 좋았다.
+        다만 아쉬운 점은 생각보다 컨텐츠가 없다는 점이었다. 좀 더 다양한 출판사들과 연계하여
+        다양한 책들을 보고 싶다.
+
+    </p>
+    </div>
+
+        <ul class="j-project" id="j-project-04">
             <li class="j-thumbnail">
-                <a href="blog_03.html">
-                    <div class="j-hover">
-                        <div class="j-hover-box"></div>
-                    </div>
-                    <div class="j-hover j-hover-ani">
-                        <div class="j-flex">
-                            <div class="j-info">
-                                <div class="j-hover-title j-title">The Miracles of the Namiya General Store</div>
-                                <div class="j-hover-contents j-body">2015.03.07-08</div>
-                                <div class="button j-body">view a post</div>
-                            </div>
-                        </div>
-                    </div>
-                    <img src="img/j-blog_03.png">
-                </a>
+                <img src="img/j-blog_03.png">
             </li>
-            <li class="j-thumbnail">
-                <a href="blog_02.html">
-                    <div class="j-hover">
-                        <div class="j-hover-box"></div>
-                    </div>
-                    <div class="j-hover j-hover-ani">
-                        <div class="j-flex">
-                            <div class="j-info">
-                                <div class="j-hover-title j-title">Kyungju Travel</div>
-                                <div class="j-hover-contents j-body">2014.12.26-28</div>
-                                <div class="button j-body">view a post</div>
-                            </div>
-                        </div>
-                    </div>
-                    <img src="img/j-blog_02.png">
-                </a>
-            </li>
-            <li class="j-thumbnail">
-                <a href="blog_01.html">
-                    <div class="j-hover">
-                        <div class="j-hover-box"></div>
-                    </div>
-                    <div class="j-hover j-hover-ani">
-                        <div class="j-flex">
-                            <div class="j-info">
-                                <div class="j-hover-title j-title">Taiwan Travel Alone</div>
-                                <div class="j-hover-contents j-body">2014.09.23-27</div>
-                                <div class="button j-body">view a post</div>
-                            </div>
-                        </div>
-                    </div>
-                    <img src="img/j-blog_01.png">
-                </a>
-            </li>
+            <!--<li class="j-thumbnail">-->
+                <!--<img src="img/j-project_04_01.png">-->
+            <!--</li>-->
+            <!--<li class="j-thumbnail">-->
+                <!--<img src="img/j-project_04_02.png">-->
+            <!--</li>-->
         </ul>
     </section>
     <footer>
@@ -127,7 +112,7 @@
 </html>
 <script>
     $('.j-menu').on('click', function() {
-        $('.j-side-menu').fadeToggle(350);
+        $('.j-side-menu').fadeToggle('fast');
         $(this).toggleClass('x');
         $('html,body').toggleClass('hidesScrollBar');
     });

@@ -37,58 +37,26 @@
         <a href="index.html"><div class="j-logo icon"></div></a>
     </header>
     <section>
-        <ul class="j-project">
+    <div class="j-project-text">
+    <p class="j-title">Taiwan Travel</p>
+    <p class="j-body">
+        2014.09.23-27
+    </p>
+    <p class="j-body-korean">
+         대만 여행
+    </p>
+    </div>
+
+        <ul class="j-project" id="j-project-04">
             <li class="j-thumbnail">
-                <a href="blog_03.html">
-                    <div class="j-hover">
-                        <div class="j-hover-box"></div>
-                    </div>
-                    <div class="j-hover j-hover-ani">
-                        <div class="j-flex">
-                            <div class="j-info">
-                                <div class="j-hover-title j-title">The Miracles of the Namiya General Store</div>
-                                <div class="j-hover-contents j-body">2015.03.07-08</div>
-                                <div class="button j-body">view a post</div>
-                            </div>
-                        </div>
-                    </div>
-                    <img src="img/j-blog_03.png">
-                </a>
+                <img src="img/j-blog_01.png">
             </li>
-            <li class="j-thumbnail">
-                <a href="blog_02.html">
-                    <div class="j-hover">
-                        <div class="j-hover-box"></div>
-                    </div>
-                    <div class="j-hover j-hover-ani">
-                        <div class="j-flex">
-                            <div class="j-info">
-                                <div class="j-hover-title j-title">Kyungju Travel</div>
-                                <div class="j-hover-contents j-body">2014.12.26-28</div>
-                                <div class="button j-body">view a post</div>
-                            </div>
-                        </div>
-                    </div>
-                    <img src="img/j-blog_02.png">
-                </a>
-            </li>
-            <li class="j-thumbnail">
-                <a href="blog_01.html">
-                    <div class="j-hover">
-                        <div class="j-hover-box"></div>
-                    </div>
-                    <div class="j-hover j-hover-ani">
-                        <div class="j-flex">
-                            <div class="j-info">
-                                <div class="j-hover-title j-title">Taiwan Travel Alone</div>
-                                <div class="j-hover-contents j-body">2014.09.23-27</div>
-                                <div class="button j-body">view a post</div>
-                            </div>
-                        </div>
-                    </div>
-                    <img src="img/j-blog_01.png">
-                </a>
-            </li>
+            <!--<li class="j-thumbnail">-->
+                <!--<img src="img/j-project_04_01.png">-->
+            <!--</li>-->
+            <!--<li class="j-thumbnail">-->
+                <!--<img src="img/j-project_04_02.png">-->
+            <!--</li>-->
         </ul>
     </section>
     <footer>
@@ -127,7 +95,7 @@
 </html>
 <script>
     $('.j-menu').on('click', function() {
-        $('.j-side-menu').fadeToggle(350);
+        $('.j-side-menu').fadeToggle('fast');
         $(this).toggleClass('x');
         $('html,body').toggleClass('hidesScrollBar');
     });
