@@ -1,0 +1,114 @@
+<!doctype html>
+<head>
+    <title>JIHYE LEEE</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link href="index.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+    <script src="jquery-2.1.3.js"></script>
+    <script src="jquery-2.1.3.min.js"></script>
+</head>
+<html>
+<body>
+<div class="j-side-menu">
+    <div class="j-flex">
+        <div>
+            <div class="j-menues">
+                <a href="index.html"><div class="j-menu-project">project</div></a>
+                <div class="j-menu-blog">blog</div>
+                <a href="about.html"><div class="j-menu-about">about</div></a>
+            </div>
+            <a href="https://www.behance.net/designerleee" target="_blank">
+                <div class="j-menu-sns">behance</div>
+            </a>
+            <a href="https://www.facebook.com/iamleejihye" target="_blank">
+                <div class="j-menu-sns">facebook</div>
+            </a>
+            <a href="http://instagram.com/my.daily.routine" target="_blank">
+                <div class="j-menu-sns">instagram</div>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <header>
+        <div class="j-menu icon"></div>
+        <a href="index.html"><div class="j-logo icon"></div></a>
+    </header>
+    <section>
+    <div class="j-project-text">
+    <p class="j-title">The Education of Little Tree</p>
+    <p class="j-body">
+        Do you want to be a morning person? Come here, Share your morning routine every day, seize your day.
+    </p>
+    <p class="j-body-korean">
+        OPEN MORNING은 아침 일상 사진을 공유할 수 있는 서비스입니다.
+        이 서비스는 앱을 기반으로 하며 포스트 업로드는 아침 6시부터 11시까지 총 5시간만 쓸 수 있습니다. 그렇게 사용할 수 있는 시간을 제한하여 늘 흔적도 없이 사라지는 귀중한 아침 시간의 소중함을 느낄 수 있게 해줍니다. 그리고 사진에는 올린 시간이 크게 기재되어 시간을 기반으로 하는 서비스라는 것을 알 수 있게 합니다.
+        유저들이 올리는 사진이 언제 활동된 사진이라는 것을 한 눈에 볼 수 있게 끔 하여 그 시간에는 자고 있던 늦잠꾸러기 유저에게는 자극을 줍니다. 그리고 아침 일상 사진을 올릴 때는 태그를 달 수 있게 하여 아침에 보통 하는 행위들, 예를 들면 책 읽기, 커피 마시기, 영어 공부 하기 등을 정리할 수 있게 해주고 정리된 아침 일상은
+        마이페이지에서 체계적으로 정리되어 보여줍니다. 오픈 모닝의 궁극적인 목표는 아침을 효율적으로 보내고 있는 사람들의 아침 일상 사진을 보며 긍정적인 자극을 느끼게 해주는 것, 또 사용자가 직접 적극적으로, 능동적으로 체계적인 아침을 보내기 위해서 앱을 사용하게끔 하는 것입니다.
+    </p>
+    </div>
+
+        <ul class="j-project" id="j-project-04">
+            <li class="j-thumbnail">
+                <img src="img/j-project_06.png">
+            </li>
+            <!--<li class="j-thumbnail">-->
+                <!--<img src="img/j-project_04_01.png">-->
+            <!--</li>-->
+            <!--<li class="j-thumbnail">-->
+                <!--<img src="img/j-project_04_02.png">-->
+            <!--</li>-->
+        </ul>
+    </section>
+    <footer>
+        <div class="j-contact-title j-body">
+            contact
+        </div>
+        <div class="j-contact">
+            <div class="j-mail j-title">
+                <a href="mailto:iam.leejihye@gmail.com">
+                    iam.leejihye@gmail.com
+                </a>
+            </div>
+            <div class="j-title">
+                010.2053.0301
+            </div>
+        </div>
+        <div class="j-sns">
+                    <span class="j-body">
+                        <a href="https://www.behance.net/designerleee" target="_blank">Behance</a>
+                    </span>
+                    <span class="j-body">
+                        <a href="https://www.facebook.com/iamleejihye" target="_blank">Facebook</a>
+                    </span>
+                    <span class="j-body">
+                        <a href="http://instagram.com/my.daily.routine" target="_blank">Instagram</a>
+                    </span>
+        </div>
+        <address>
+            <div class="j-body">
+                © JIHYE LEE. 2015
+            </div>
+        </address>
+    </footer>
+</div>
+</body>
+</html>
+<script>
+    $('.j-menu').on('click', function() {
+        $('.j-side-menu').fadeToggle('fast');
+        $(this).toggleClass('x');
+        $('html,body').toggleClass('hidesScrollBar');
+    });
+
+    $(document).ready(function(){
+        $('.j-menu-about').click(function(){
+            $('.j-about').fadeTo('fast');
+        });
+    });
+
+
+</script>
+

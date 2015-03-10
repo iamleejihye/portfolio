@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-project_01.png" afterPath="$PROJECT_DIR$/img/j-project_01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-project_02.png" afterPath="$PROJECT_DIR$/img/j-project_02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-project_06.png" afterPath="$PROJECT_DIR$/img/j-project_06.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-project_07.png" afterPath="$PROJECT_DIR$/img/j-project_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_05.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_06.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-project_02.svg" afterPath="$PROJECT_DIR$/img/j-project_02.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -74,37 +72,37 @@
     <splitter split-orientation="horizontal" split-proportion="0.5408805">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="71" column="50" selection-start="3107" selection-end="3107" vertical-scroll-proportion="0.88010204" vertical-offset="720" max-vertical-offset="2640">
+                <state line="41" column="40" selection-start="1621" selection-end="1621" vertical-scroll-proportion="-8.833333" vertical-offset="403" max-vertical-offset="3000">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/about.html">
+          <file leaf-file-name="project_05.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/project_05.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="37" column="16" selection-start="1369" selection-end="1369" vertical-scroll-proportion="-15.0" vertical-offset="195" max-vertical-offset="1935">
+                <state line="61" column="24" selection-start="2796" selection-end="2796" vertical-scroll-proportion="-21.875" vertical-offset="390" max-vertical-offset="1800">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="project_03.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/project_03.html">
+          <file leaf-file-name="project_06.html" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/project_06.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="47" column="46" selection-start="2256" selection-end="2256" vertical-scroll-proportion="-6.25" vertical-offset="555" max-vertical-offset="1770">
+                <state line="46" column="435" selection-start="2212" selection-end="2212" vertical-scroll-proportion="0.38265306" vertical-offset="540" max-vertical-offset="1770">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="project_04.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/project_04.html">
+          <file leaf-file-name="project_01.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/project_01.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="88" column="14" selection-start="3725" selection-end="3725" vertical-scroll-proportion="-37.5" vertical-offset="420" max-vertical-offset="1800">
+                <state line="55" column="42" selection-start="2518" selection-end="2518" vertical-scroll-proportion="-11.875" vertical-offset="540" max-vertical-offset="1815">
                   <folding />
                 </state>
               </provider>
@@ -146,12 +144,14 @@
       <list>
         <option value="$USER_HOME$/Desktop/iamleejihye.github.io-master/index.html" />
         <option value="$PROJECT_DIR$/project_03.html" />
-        <option value="$PROJECT_DIR$/project_01.html" />
         <option value="$PROJECT_DIR$/project_02.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/project_04.html" />
         <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/project_05.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/project_01.html" />
+        <option value="$PROJECT_DIR$/project_06.html" />
       </list>
     </option>
   </component>
@@ -795,7 +795,11 @@
       <created>1425958772962</created>
       <updated>1425958772963</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="index thumbnail image px fixed&#10;">
+      <created>1425959234276</created>
+      <updated>1425959234276</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1044,7 +1048,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="50" selection-start="3107" selection-end="3107" vertical-scroll-proportion="0.88010204" vertical-offset="720" max-vertical-offset="2640">
+        <state line="41" column="40" selection-start="1621" selection-end="1621" vertical-scroll-proportion="-8.833333" vertical-offset="403" max-vertical-offset="3000">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="42" selection-start="2518" selection-end="2518" vertical-scroll-proportion="-11.875" vertical-offset="540" max-vertical-offset="1815">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="24" selection-start="2796" selection-end="2796" vertical-scroll-proportion="-21.875" vertical-offset="390" max-vertical-offset="1800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_06.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="435" selection-start="2212" selection-end="2212" vertical-scroll-proportion="0.38265306" vertical-offset="540" max-vertical-offset="1770">
           <folding />
         </state>
       </provider>

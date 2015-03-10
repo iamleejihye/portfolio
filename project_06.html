@@ -1,0 +1,112 @@
+<!doctype html>
+<head>
+    <title>JIHYE LEEE</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link href="index.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+    <script src="jquery-2.1.3.js"></script>
+    <script src="jquery-2.1.3.min.js"></script>
+</head>
+<html>
+<body>
+<div class="j-side-menu">
+    <div class="j-flex">
+        <div>
+            <div class="j-menues">
+                <a href="index.html"><div class="j-menu-project">project</div></a>
+                <div class="j-menu-blog">blog</div>
+                <a href="about.html"><div class="j-menu-about">about</div></a>
+            </div>
+            <a href="https://www.behance.net/designerleee" target="_blank">
+                <div class="j-menu-sns">behance</div>
+            </a>
+            <a href="https://www.facebook.com/iamleejihye" target="_blank">
+                <div class="j-menu-sns">facebook</div>
+            </a>
+            <a href="http://instagram.com/my.daily.routine" target="_blank">
+                <div class="j-menu-sns">instagram</div>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <header>
+        <div class="j-menu icon"></div>
+        <a href="index.html"><div class="j-logo icon"></div></a>
+    </header>
+    <section>
+    <div class="j-project-text">
+    <p class="j-title">My tiny world</p>
+    <p class="j-body">
+        It consists of many things I really love
+        for example, a guitar, books, a radio, a cup of coffee, a milk carton.
+    </p>
+    <p class="j-body-korean">
+        통기타 치는 것을 좋아합니다. 스트레스를 받을 때면 커피를 타러 갑니다. 커피의 향기가 저를 힘이나게 해줍니다. 매일 매일 아침부터 저녁까지 라디오를 듣습니다. 이근철의 굿모닝팝스, 백원경의 올댓재즈 등의 라디오 프로그램을 좋아합니다. 책 읽는 것을 좋아합니다. 책을 읽을 때 편식하며 읽기는 하지만 그래도 좋아하는 분야만큼은 편식하고 싶어합니다. 매일 침대에 머리 맡에는 언제든지 손을 뻗으면 읽을 수 있게 책을 놓아 놓고는 합니다. 캠핑과 피크닉을 사랑합니다. 어렸을 때부터 캠핑 가는 것을 좋아했고 저만의 돗자리도 따로 구매할 정도로 애정이 넘칩니다. 이렇게 탄생한 것이 바로 My tiny world 입니다. My tiny world는 통기타, 햄버거, 책, 커피, 라디오, 텐트 등 제가 좋아하는 것들로 구성되어 있는 저만의 소인국을 그린 일러스트입니다.
+    </p>
+    </div>
+
+        <ul class="j-project" id="j-project-04">
+            <li class="j-thumbnail">
+                <img src="img/j-project_07.png">
+            </li>
+            <!--<li class="j-thumbnail">-->
+                <!--<img src="img/j-project_04_01.png">-->
+            <!--</li>-->
+            <!--<li class="j-thumbnail">-->
+                <!--<img src="img/j-project_04_02.png">-->
+            <!--</li>-->
+        </ul>
+    </section>
+    <footer>
+        <div class="j-contact-title j-body">
+            contact
+        </div>
+        <div class="j-contact">
+            <div class="j-mail j-title">
+                <a href="mailto:iam.leejihye@gmail.com">
+                    iam.leejihye@gmail.com
+                </a>
+            </div>
+            <div class="j-title">
+                010.2053.0301
+            </div>
+        </div>
+        <div class="j-sns">
+                    <span class="j-body">
+                        <a href="https://www.behance.net/designerleee" target="_blank">Behance</a>
+                    </span>
+                    <span class="j-body">
+                        <a href="https://www.facebook.com/iamleejihye" target="_blank">Facebook</a>
+                    </span>
+                    <span class="j-body">
+                        <a href="http://instagram.com/my.daily.routine" target="_blank">Instagram</a>
+                    </span>
+        </div>
+        <address>
+            <div class="j-body">
+                © JIHYE LEE. 2015
+            </div>
+        </address>
+    </footer>
+</div>
+</body>
+</html>
+<script>
+    $('.j-menu').on('click', function() {
+        $('.j-side-menu').fadeToggle('fast');
+        $(this).toggleClass('x');
+        $('html,body').toggleClass('hidesScrollBar');
+    });
+
+    $(document).ready(function(){
+        $('.j-menu-about').click(function(){
+            $('.j-about').fadeTo('fast');
+        });
+    });
+
+
+</script>
+
