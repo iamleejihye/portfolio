@@ -772,7 +772,11 @@
       <created>1425980139804</created>
       <updated>1425980139804</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="The education of Little tree thumbnail image updated&#10;">
+      <created>1425980225459</created>
+      <updated>1425980225459</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -847,7 +851,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Selected Thesis Mockup Image Upload&#10;" />
     <MESSAGE value="dxd seminar image uploaded" />
     <MESSAGE value="dxd seminar mockup image uploaded&#10;" />
     <MESSAGE value="introduction text updated" />
@@ -872,7 +875,8 @@
     <MESSAGE value="index thumbnail image px fixed&#10;" />
     <MESSAGE value="My tiny world updated" />
     <MESSAGE value="The education of Little tree text updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="The education of Little tree text updated" />
+    <MESSAGE value="The education of Little tree thumbnail image updated&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="The education of Little tree thumbnail image updated&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
