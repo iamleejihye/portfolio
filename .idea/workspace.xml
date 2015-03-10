@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-project_06.png" afterPath="$PROJECT_DIR$/img/j-project_06.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_05.html" afterPath="$PROJECT_DIR$/project_05.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -770,7 +768,11 @@
       <created>1425963668066</created>
       <updated>1425963668066</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="The education of Little tree text updated">
+      <created>1425980139804</created>
+      <updated>1425980139804</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -845,7 +847,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Selected Thesis Text Upload&#10;" />
     <MESSAGE value="Selected Thesis Mockup Image Upload&#10;" />
     <MESSAGE value="dxd seminar image uploaded" />
     <MESSAGE value="dxd seminar mockup image uploaded&#10;" />
@@ -870,7 +871,8 @@
     <MESSAGE value="index thumbnail image px fixed" />
     <MESSAGE value="index thumbnail image px fixed&#10;" />
     <MESSAGE value="My tiny world updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="My tiny world updated" />
+    <MESSAGE value="The education of Little tree text updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="The education of Little tree text updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
