@@ -192,6 +192,7 @@ img {
 
 .j-thumbnail-msg {
     position: absolute;
+    width: 10%;
     padding: 10px 0 4px 10px;
     font-size: 12px;
     opacity: 0.8;

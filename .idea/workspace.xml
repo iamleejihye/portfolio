@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -104,7 +103,7 @@
           <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="196" column="16" selection-start="2930" selection-end="2930" vertical-scroll-proportion="0.5192308" vertical-offset="2724" max-vertical-offset="8460">
+                <state line="194" column="12" selection-start="2875" selection-end="2875" vertical-scroll-proportion="0.48317307" vertical-offset="2709" max-vertical-offset="8475">
                   <folding />
                 </state>
               </provider>
@@ -807,7 +806,11 @@
       <created>1425983363894</created>
       <updated>1425983363894</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="mobile explanation added">
+      <created>1425984429468</created>
+      <updated>1425984429468</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -882,7 +885,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="introduction text updated" />
     <MESSAGE value="introduction text padding modified&#10;" />
     <MESSAGE value="view resume button added" />
     <MESSAGE value="view resume button mobile modified&#10;" />
@@ -907,7 +909,8 @@
     <MESSAGE value="The education of Little tree thumbnail image updated&#10;" />
     <MESSAGE value="blog updated" />
     <MESSAGE value="image modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="image modified" />
+    <MESSAGE value="mobile explanation added" />
+    <option name="LAST_COMMIT_MESSAGE" value="mobile explanation added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1099,7 +1102,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="196" column="16" selection-start="2930" selection-end="2930" vertical-scroll-proportion="0.5192308" vertical-offset="2724" max-vertical-offset="8460">
+        <state line="194" column="12" selection-start="2875" selection-end="2875" vertical-scroll-proportion="0.48317307" vertical-offset="2709" max-vertical-offset="8475">
           <folding />
         </state>
       </provider>
