@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_05.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_06.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-project_06.png" afterPath="$PROJECT_DIR$/img/j-project_06.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_05.html" afterPath="$PROJECT_DIR$/project_05.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -72,28 +71,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5408805">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="41" column="40" selection-start="1621" selection-end="1621" vertical-scroll-proportion="-8.833333" vertical-offset="403" max-vertical-offset="3000">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="project_05.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/project_05.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="61" column="24" selection-start="2796" selection-end="2796" vertical-scroll-proportion="-21.875" vertical-offset="390" max-vertical-offset="1800">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="project_06.html" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/project_06.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="46" column="435" selection-start="2212" selection-end="2212" vertical-scroll-proportion="0.38265306" vertical-offset="540" max-vertical-offset="1770">
+                <state line="48" column="78" selection-start="1975" selection-end="1975" vertical-scroll-proportion="0.4260204" vertical-offset="553" max-vertical-offset="3000">
                   <folding />
                 </state>
               </provider>
@@ -148,10 +129,10 @@
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/project_04.html" />
         <option value="$PROJECT_DIR$/index.css" />
-        <option value="$PROJECT_DIR$/project_05.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/project_01.html" />
         <option value="$PROJECT_DIR$/project_06.html" />
+        <option value="$PROJECT_DIR$/project_05.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -225,20 +206,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jihyeleee.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Iamleejihye" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jihyeleee.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -799,7 +766,11 @@
       <created>1425959234276</created>
       <updated>1425959234276</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="My tiny world updated">
+      <created>1425963668066</created>
+      <updated>1425963668066</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -874,7 +845,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Selected Thesis Upload&#10;" />
     <MESSAGE value="Selected Thesis Text Upload&#10;" />
     <MESSAGE value="Selected Thesis Mockup Image Upload&#10;" />
     <MESSAGE value="dxd seminar image uploaded" />
@@ -899,7 +869,8 @@
     <MESSAGE value="transform updated&#10;" />
     <MESSAGE value="index thumbnail image px fixed" />
     <MESSAGE value="index thumbnail image px fixed&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="index thumbnail image px fixed&#10;" />
+    <MESSAGE value="My tiny world updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="My tiny world updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1046,9 +1017,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/project_06.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="40" selection-start="1621" selection-end="1621" vertical-scroll-proportion="-8.833333" vertical-offset="403" max-vertical-offset="3000">
+        <state line="54" column="12" selection-start="2399" selection-end="2642" vertical-scroll-proportion="1.1096939" vertical-offset="375" max-vertical-offset="1770">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="85" selection-start="1771" selection-end="1771" vertical-scroll-proportion="0.15306123" vertical-offset="585" max-vertical-offset="1905">
           <folding />
         </state>
       </provider>
@@ -1060,16 +1038,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_05.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="24" selection-start="2796" selection-end="2796" vertical-scroll-proportion="-21.875" vertical-offset="390" max-vertical-offset="1800">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_06.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="435" selection-start="2212" selection-end="2212" vertical-scroll-proportion="0.38265306" vertical-offset="540" max-vertical-offset="1770">
+        <state line="48" column="78" selection-start="1975" selection-end="1975" vertical-scroll-proportion="0.4260204" vertical-offset="553" max-vertical-offset="3000">
           <folding />
         </state>
       </provider>
