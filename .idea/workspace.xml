@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/j-project_06.png" afterPath="$PROJECT_DIR$/img/j-project_06.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -794,7 +793,11 @@
       <created>1425980366325</created>
       <updated>1425980366325</updated>
     </task>
-    <option name="localTasksCounter" value="156" />
+    <task id="LOCAL-00156" summary="The education of Little tree thumbnail image updated&#10;">
+      <created>1425980426531</created>
+      <updated>1425980426531</updated>
+    </task>
+    <option name="localTasksCounter" value="157" />
     <servers />
   </component>
   <component name="ToolWindowManager">
