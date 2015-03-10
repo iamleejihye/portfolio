@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -69,10 +70,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5408805">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="42" column="54" selection-start="1702" selection-end="1702" vertical-scroll-proportion="0.45918366" vertical-offset="450" max-vertical-offset="3090">
+                <state line="41" column="42" selection-start="1647" selection-end="1647" vertical-scroll-proportion="0.5739796" vertical-offset="390" max-vertical-offset="3000">
                   <folding />
                 </state>
               </provider>
@@ -100,10 +101,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="194" column="12" selection-start="2875" selection-end="2875" vertical-scroll-proportion="0.48317307" vertical-offset="2709" max-vertical-offset="8475">
+                <state line="190" column="1" selection-start="2818" selection-end="2818" vertical-scroll-proportion="0.375" vertical-offset="2694" max-vertical-offset="8340">
                   <folding />
                 </state>
               </provider>
@@ -139,8 +140,8 @@
         <option value="$PROJECT_DIR$/project_03.html" />
         <option value="$PROJECT_DIR$/project_04.html" />
         <option value="$PROJECT_DIR$/blog.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -810,7 +811,11 @@
       <created>1425984429468</created>
       <updated>1425984429468</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="mobile explanation added&#10;">
+      <created>1425984582310</created>
+      <updated>1425984582310</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -885,7 +890,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="introduction text padding modified&#10;" />
     <MESSAGE value="view resume button added" />
     <MESSAGE value="view resume button mobile modified&#10;" />
     <MESSAGE value="view resume button hover mobile modified&#10;" />
@@ -910,7 +914,8 @@
     <MESSAGE value="blog updated" />
     <MESSAGE value="image modified" />
     <MESSAGE value="mobile explanation added" />
-    <option name="LAST_COMMIT_MESSAGE" value="mobile explanation added" />
+    <MESSAGE value="mobile explanation added&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="mobile explanation added&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1093,16 +1098,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="54" selection-start="1702" selection-end="1702" vertical-scroll-proportion="0.45918366" vertical-offset="450" max-vertical-offset="3090">
+        <state line="190" column="1" selection-start="2818" selection-end="2818" vertical-scroll-proportion="0.375" vertical-offset="2694" max-vertical-offset="8340">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="194" column="12" selection-start="2875" selection-end="2875" vertical-scroll-proportion="0.48317307" vertical-offset="2709" max-vertical-offset="8475">
+        <state line="41" column="42" selection-start="1647" selection-end="1647" vertical-scroll-proportion="0.5739796" vertical-offset="390" max-vertical-offset="3000">
           <folding />
         </state>
       </provider>

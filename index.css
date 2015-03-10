@@ -190,15 +190,6 @@ img {
     text-align: center;
 }
 
-.j-thumbnail-msg {
-    position: absolute;
-    width: 10%;
-    padding: 10px 0 4px 10px;
-    font-size: 12px;
-    opacity: 0.8;
-    letter-spacing: 1px;
-}
-
 .j-hover-title {
     margin-bottom: 10px;
     opacity: 0;
