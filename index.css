@@ -367,7 +367,6 @@ p.j-body {
     width: 100%;
 }
 
-
 #j-blog-02 .j-thumbnail:nth-child(3n+1) {
     width: 100%;
 }
@@ -476,11 +475,6 @@ address {
     .j-contact-title {
         margin-bottom: 36px;
     }
-    /*------------blog------------*/
-
-    #j-blog-01 .j-thumbnail {
-        width: 100%;
-    }
 
     .j-sns,
     address {
@@ -547,11 +541,29 @@ address {
 
     /*------------blog--------------*/
 
+
+    #j-blog-01 .j-thumbnail {
+        width: 100%;
+    }
+
+    #j-blog-02 .j-thumbnail {
+        width: 100%;
+    }
+
+
     #j-blog-01 .j-thumbnail:nth-child(3n+1) {
         padding-right: 0px;
     }
 
     #j-blog-01 .j-thumbnail:nth-child(3n+2) {
+        padding-left: 0px;
+    }
+
+    #j-blog-02 .j-thumbnail:nth-child(3n+2) {
+        padding-right: 0px;
+    }
+
+    #j-blog-02 .j-thumbnail:nth-child(3n) {
         padding-left: 0px;
     }
 
