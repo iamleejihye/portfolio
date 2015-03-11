@@ -178,6 +178,10 @@ img {
     width: 50%;
 }
 
+/*.j-thumbnail:nth-child(3n) {*/
+    /*width: 100%;*/
+/*}*/
+
 .j-about {
     position: relative;
     width: 100%;
@@ -335,6 +339,21 @@ p.j-body {
     width: 100%;
 }
 
+#j-blog-01 .j-thumbnail {
+    width: 50%;
+    /*margin-top: 4px;*/
+}
+
+#j-blog-01 .j-thumbnail:nth-child(3n) {
+     width: 100%;
+ }
+
+/*#j-blog-01 .j-thumbnail:nth-child(3n+1) {*/
+    /*margin-right: 4px;*/
+/*}*/
+
+
+
 .mobile {
     display: none;
 }
@@ -426,6 +445,11 @@ address {
 
     .j-contact-title {
         margin-bottom: 36px;
+    }
+    /*------------blog------------*/
+
+    #j-blog-01 .j-thumbnail {
+        width: 100%;
     }
 
     .j-sns,
