@@ -357,6 +357,31 @@ p.j-body {
     padding-left: 2px;
 }
 
+#j-blog-02 .j-thumbnail {
+    width: 50%;
+    margin-top: 4px;
+    box-sizing: border-box;
+}
+
+#j-blog-02 .j-thumbnail:nth-child(1) {
+    width: 100%;
+}
+
+
+#j-blog-02 .j-thumbnail:nth-child(3n+1) {
+    width: 100%;
+}
+
+#j-blog-02 .j-thumbnail:nth-child(3n+2) {
+    padding-right: 2px;
+}
+
+#j-blog-02 .j-thumbnail:nth-child(3n) {
+    padding-left: 2px;
+}
+
+
+
 
 
 .mobile {
