@@ -2,11 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_01.html" afterPath="$PROJECT_DIR$/blog_01.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_02.html" afterPath="$PROJECT_DIR$/blog_02.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_03.html" afterPath="$PROJECT_DIR$/blog_03.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/compass_library.xml" afterPath="$PROJECT_DIR$/.idea/libraries/compass_library.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/greedygirl.github.io.iml" afterPath="$PROJECT_DIR$/.idea/greedygirl.github.io.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_01.html" afterPath="$PROJECT_DIR$/project_01.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_02.html" afterPath="$PROJECT_DIR$/project_02.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_03.html" afterPath="$PROJECT_DIR$/project_03.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_04.html" afterPath="$PROJECT_DIR$/project_04.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_05.html" afterPath="$PROJECT_DIR$/project_05.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_06.html" afterPath="$PROJECT_DIR$/project_06.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
     <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,46 +84,101 @@
     <splitter split-orientation="horizontal" split-proportion="0.5408805">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="26" column="48" selection-start="1198" selection-end="1198" vertical-scroll-proportion="0.6576728" vertical-offset="0" max-vertical-offset="3045">
+                <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="3045">
+                  <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/about.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="37" column="16" selection-start="1393" selection-end="1393" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="1935">
+                <state vertical-scroll-proportion="-24.375" vertical-offset="60" max-vertical-offset="1980">
+                  <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="blog_02.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/blog_02.html">
+          <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/blog.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="83" column="42" selection-start="3254" selection-end="3254" vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="2325">
+                <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="2280">
+                  <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="blog_01.html" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="blog_01.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/blog_01.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="87" column="17" selection-start="2594" selection-end="3413" vertical-scroll-proportion="0.0" vertical-offset="1305" max-vertical-offset="4395">
+                <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="4440">
+                  <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="blog_03.html" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="blog_02.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/blog_02.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="2370">
+                  <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="blog_03.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/blog_03.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="61" column="22" selection-start="2687" selection-end="2687" vertical-scroll-proportion="0.0" vertical-offset="915" max-vertical-offset="2010">
+                <state vertical-scroll-proportion="0.26232114" vertical-offset="0" max-vertical-offset="2055">
+                  <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="project_03.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/project_03.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="1815">
+                  <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="project_04.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/project_04.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="1845">
+                  <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="project_05.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/project_05.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="1950">
+                  <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="project_06.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/project_06.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="1815">
+                  <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
@@ -118,10 +188,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="93" column="21" selection-start="1372" selection-end="1372" vertical-scroll-proportion="0.234375" vertical-offset="1245" max-vertical-offset="9765">
+                <state vertical-scroll-proportion="0.35623002" vertical-offset="1397" max-vertical-offset="9735">
+                  <caret line="108" column="24" selection-start-line="108" selection-start-column="24" selection-end-line="108" selection-end-column="24" />
                   <folding />
                 </state>
               </provider>
@@ -146,22 +217,21 @@
     </option>
   </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Desktop/iamleejihye.github.io-master/index.html" />
-        <option value="$PROJECT_DIR$/project_05.html" />
-        <option value="$PROJECT_DIR$/project_06.html" />
+        <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/project_01.html" />
         <option value="$PROJECT_DIR$/project_02.html" />
         <option value="$PROJECT_DIR$/project_03.html" />
         <option value="$PROJECT_DIR$/project_04.html" />
-        <option value="$PROJECT_DIR$/blog.html" />
-        <option value="$PROJECT_DIR$/blog_03.html" />
-        <option value="$PROJECT_DIR$/blog_01.html" />
+        <option value="$PROJECT_DIR$/project_05.html" />
+        <option value="$PROJECT_DIR$/project_06.html" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/blog.html" />
+        <option value="$PROJECT_DIR$/blog_01.html" />
         <option value="$PROJECT_DIR$/blog_02.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/blog_03.html" />
       </list>
     </option>
   </component>
@@ -169,8 +239,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
     <option name="y" value="23" />
-    <option name="width" value="1280" />
+    <option name="width" value="1276" />
     <option name="height" value="773" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -208,7 +279,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -238,20 +309,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Iamleejihye" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jihyeleee.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -263,7 +320,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="watcher.settings" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gmpractice" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -309,40 +366,27 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="name" value="Dart" />
-      <option name="saveOutputToFile" value="false" />
-      <option name="showConsoleOnStdErr" value="false" />
-      <option name="showConsoleOnStdOut" value="false" />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="CHROME" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
     <list size="0" />
@@ -359,588 +403,351 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="" />
       <created>1372674025069</created>
+      <option name="number" value="Default" />
       <updated>1372674025069</updated>
-    </task>
-    <task id="LOCAL-00040" summary="2013/12/08 12:10 overflow: hidden 와이드 레이아웃 빼고 다">
-      <created>1386429057099</created>
-      <updated>1386429057099</updated>
-    </task>
-    <task id="LOCAL-00041" summary="2013/12/08 12:12 header absolute에서 뺌">
-      <created>1386429186689</created>
-      <updated>1386429186689</updated>
-    </task>
-    <task id="LOCAL-00042" summary="2013/12/08 12:12 header left: 50%">
-      <created>1386429859939</created>
-      <updated>1386429859939</updated>
-    </task>
-    <task id="LOCAL-00043" summary="2013/12/08 12:24 header left: 50%">
-      <created>1386429871434</created>
-      <updated>1386429871434</updated>
-    </task>
-    <task id="LOCAL-00044" summary="2013/12/08 03:28 최종">
-      <created>1386484128442</created>
-      <updated>1386484128442</updated>
-    </task>
-    <task id="LOCAL-00045" summary="2013/12/08 03:28 최종">
-      <created>1386484151014</created>
-      <updated>1386484151014</updated>
-    </task>
-    <task id="LOCAL-00046" summary="2013/12/08 05:00 p.m.">
-      <created>1386489649308</created>
-      <updated>1386489649308</updated>
-    </task>
-    <task id="LOCAL-00047" summary="2013/12/08 05:09 p.m.">
-      <created>1386490173369</created>
-      <updated>1386490173369</updated>
-    </task>
-    <task id="LOCAL-00048" summary="2013/12/08 05:40 p.m. header, footer 완성">
-      <created>1386492057610</created>
-      <updated>1386492057610</updated>
-    </task>
-    <task id="LOCAL-00049" summary="2013/12/08 07:12 p.m. 메인페이지 완성">
-      <created>1386497544411</created>
-      <updated>1386497544411</updated>
-    </task>
-    <task id="LOCAL-00050" summary="2013/12/08 07:15 p.m. 메인페이지 완성">
-      <created>1386497704061</created>
-      <updated>1386497704062</updated>
-    </task>
-    <task id="LOCAL-00051" summary="2013/12/08 07:25 p.m. 마진 조정">
-      <created>1386498333957</created>
-      <updated>1386498333957</updated>
-    </task>
-    <task id="LOCAL-00052" summary="2013/12/08 07:29 p.m. 미디어 쿼리 수정">
-      <created>1386498576605</created>
-      <updated>1386498576605</updated>
-    </task>
-    <task id="LOCAL-00053" summary="2013/12/08 07:36 p.m. iamleejihye.github.io">
-      <created>1386499032757</created>
-      <updated>1386499032757</updated>
-    </task>
-    <task id="LOCAL-00054" summary="2013/12/08 07:36 p.m. iamleejihye.github.io">
-      <created>1386499339367</created>
-      <updated>1386499339367</updated>
-    </task>
-    <task id="LOCAL-00055" summary="2013/12/08 08:58 p.m. web.html">
-      <created>1386503948841</created>
-      <updated>1386503948841</updated>
-    </task>
-    <task id="LOCAL-00056" summary="2013/12/08 10:06 p.m. web.html 완성">
-      <created>1386508005595</created>
-      <updated>1386508005595</updated>
-    </task>
-    <task id="LOCAL-00057" summary="2013/12/08 10:07 p.m. web.html #information margin-bottom">
-      <created>1386508097753</created>
-      <updated>1386508097753</updated>
-    </task>
-    <task id="LOCAL-00058" summary="2013/12/08 10:12 p.m. 모바일용 마진 업그레이드">
-      <created>1386508366341</created>
-      <updated>1386508366341</updated>
-    </task>
-    <task id="LOCAL-00059" summary="2013/12/08 10:21 p.m. 모바일용 마진 업그레이드">
-      <created>1386508918909</created>
-      <updated>1386508918909</updated>
-    </task>
-    <task id="LOCAL-00060" summary="2013/12/08 10:41 p.m. information-contents font-weight 변경">
-      <created>1386510120126</created>
-      <updated>1386510120126</updated>
-    </task>
-    <task id="LOCAL-00061" summary="2013/12/08 11:25 p.m. 이미지 업로드 빠르게 png 로 바꿈">
-      <created>1386512727930</created>
-      <updated>1386512727930</updated>
-    </task>
-    <task id="LOCAL-00062" summary="2013/12/08 11:31 p.m. 이미지 업로드">
-      <created>1386513115661</created>
-      <updated>1386513115661</updated>
-    </task>
-    <task id="LOCAL-00063" summary="2013/12/08 11:31 p.m. 이미지 업로드">
-      <created>1386513236560</created>
-      <updated>1386513236560</updated>
-    </task>
-    <task id="LOCAL-00064" summary="2013/12/08 11:44 p.m. 이미지 업로드">
-      <created>1386513852401</created>
-      <updated>1386513852401</updated>
-    </task>
-    <task id="LOCAL-00065" summary="2013/12/08 12:29 a.m. 썸네일 업로드">
-      <created>1386516564511</created>
-      <updated>1386516564512</updated>
-    </task>
-    <task id="LOCAL-00066" summary="2013/12/08 12:33 a.m. 썸네일 업로드">
-      <created>1386516817192</created>
-      <updated>1386516817192</updated>
-    </task>
-    <task id="LOCAL-00067" summary="2013/12/08 12:36 a.m. 확대 금지">
-      <created>1386516998958</created>
-      <updated>1386516998958</updated>
-    </task>
-    <task id="LOCAL-00068" summary="2013/12/08 02:21 a.m. 링크 완성">
-      <created>1386523274517</created>
-      <updated>1386523274517</updated>
-    </task>
-    <task id="LOCAL-00069" summary="2013/12/08 02:21 a.m. 링크 완성">
-      <created>1386523396620</created>
-      <updated>1386523396621</updated>
-    </task>
-    <task id="LOCAL-00070" summary="2013/12/08 02:38 a.m. 애니메이션">
-      <created>1386524306250</created>
-      <updated>1386524306250</updated>
-    </task>
-    <task id="LOCAL-00071" summary="2013/12/09 11:05 a.m. 상상문 1동">
-      <created>1386554735666</created>
-      <updated>1386554735666</updated>
-    </task>
-    <task id="LOCAL-00072" summary="2013/12/09 11:08 a.m. 상상문 1동">
-      <created>1386554906693</created>
-      <updated>1386554906694</updated>
-    </task>
-    <task id="LOCAL-00073" summary="2013/12/09 11:15 a.m. 상상문 1동">
-      <created>1386555359347</created>
-      <updated>1386555359347</updated>
-    </task>
-    <task id="LOCAL-00074" summary="2013/12/09 11:34 a.m. 모든 페이지 정보 업데이트">
-      <created>1386556467741</created>
-      <updated>1386556467741</updated>
-    </task>
-    <task id="LOCAL-00075" summary="2013/12/09 11:36 a.m. 모든 페이지 정보 업데이트">
-      <created>1386556620539</created>
-      <updated>1386556620540</updated>
-    </task>
-    <task id="LOCAL-00076" summary="2013/12/09 11:43 a.m. Download Resume 추가">
-      <created>1386557029316</created>
-      <updated>1386557029317</updated>
-    </task>
-    <task id="LOCAL-00077" summary="2013/12/09 11:49 a.m. 일러스트레이션 이미지 업로드">
-      <created>1386557381811</created>
-      <updated>1386557381811</updated>
-    </task>
-    <task id="LOCAL-00078" summary="2013/12/09 11:52 a.m. 일러스트레이션 이미지 업로드">
-      <created>1386557549210</created>
-      <updated>1386557549210</updated>
-    </task>
-    <task id="LOCAL-00079" summary="2013/12/09 04:19 p.m. 프로필 업로드">
-      <created>1386573580392</created>
-      <updated>1386573580393</updated>
-    </task>
-    <task id="LOCAL-00080" summary="2013/12/09 04:44 p.m. 프로필 업로드">
-      <created>1386575081277</created>
-      <updated>1386575081277</updated>
-    </task>
-    <task id="LOCAL-00081" summary="2013/12/09 04:49 p.m. 프로필 아이콘 업로드">
-      <created>1386575382024</created>
-      <updated>1386575382024</updated>
-    </task>
-    <task id="LOCAL-00082" summary="2013/12/09 04:54 p.m. 프로필 글씨 크기">
-      <created>1386575661315</created>
-      <updated>1386575661315</updated>
-    </task>
-    <task id="LOCAL-00083" summary="2013/12/09 04:55 p.m. 프로필 내용 업데이트">
-      <created>1386575741685</created>
-      <updated>1386575741686</updated>
-    </task>
-    <task id="LOCAL-00084" summary="2013/12/09 05:06 p.m. hover 수정">
-      <created>1386576381582</created>
-      <updated>1386576381582</updated>
-    </task>
-    <task id="LOCAL-00085" summary="2013/12/09 05:08 p.m. hover 수정">
-      <created>1386576489929</created>
-      <updated>1386576489930</updated>
-    </task>
-    <task id="LOCAL-00086" summary="2014/06/13 세미나 오픈 전 준비하기 - wide 화면으로 볼때 센터 정렬 안되는 부분 수정">
-      <created>1402661123428</created>
-      <updated>1402661123428</updated>
-    </task>
-    <task id="LOCAL-00087" summary="All Renewal">
-      <created>1423294869852</created>
-      <updated>1423294869852</updated>
-    </task>
-    <task id="LOCAL-00088" summary="viewport added">
-      <created>1423296024186</created>
-      <updated>1423296024186</updated>
-    </task>
-    <task id="LOCAL-00089" summary="Because of Leo, everything was threw away. So I recovered it.">
-      <created>1423311577669</created>
-      <updated>1423311577669</updated>
-    </task>
-    <task id="LOCAL-00090" summary="footer updated">
-      <created>1423313263251</created>
-      <updated>1423313263251</updated>
-    </task>
-    <task id="LOCAL-00091" summary="mobile footer updated&#10;">
-      <created>1423319829100</created>
-      <updated>1423319829101</updated>
-    </task>
-    <task id="LOCAL-00092" summary="mobile footer updated&#10;">
-      <created>1423322644148</created>
-      <updated>1423322644148</updated>
-    </task>
-    <task id="LOCAL-00093" summary="footer padding updated&#10;">
-      <created>1423323288894</created>
-      <updated>1423323288894</updated>
-    </task>
-    <task id="LOCAL-00094" summary="side menu added&#10;canvas size controlled">
-      <created>1423326591113</created>
-      <updated>1423326591113</updated>
-    </task>
-    <task id="LOCAL-00095" summary="side menu - display : none">
-      <created>1423327017457</created>
-      <updated>1423327017457</updated>
-    </task>
-    <task id="LOCAL-00096" summary="mobile footer font size updated">
-      <created>1423327087290</created>
-      <updated>1423327087290</updated>
-    </task>
-    <task id="LOCAL-00097" summary="mobile footer space updated">
-      <created>1423327549760</created>
-      <updated>1423327549760</updated>
-    </task>
-    <task id="LOCAL-00098" summary="mobile footer space updated&#10;">
-      <created>1423330730058</created>
-      <updated>1423330730058</updated>
-    </task>
-    <task id="LOCAL-00099" summary="tbd side menu updated">
-      <created>1423332203947</created>
-      <updated>1423332203948</updated>
-    </task>
-    <task id="LOCAL-00100" summary="side menu animation added">
-      <created>1423334165807</created>
-      <updated>1423334165807</updated>
-    </task>
-    <task id="LOCAL-00101" summary="menu animation succeed!">
-      <created>1423370280225</created>
-      <updated>1423370280226</updated>
-    </task>
-    <task id="LOCAL-00102" summary="about page updated">
-      <created>1423384589124</created>
-      <updated>1423384589125</updated>
-    </task>
-    <task id="LOCAL-00103" summary="about image updated">
-      <created>1423384657125</created>
-      <updated>1423384657125</updated>
-    </task>
-    <task id="LOCAL-00104" summary="title updated">
-      <created>1423398271014</created>
-      <updated>1423398271015</updated>
-    </task>
-    <task id="LOCAL-00105" summary="project detail view updated">
-      <created>1423403427027</created>
-      <updated>1423403427027</updated>
-    </task>
-    <task id="LOCAL-00106" summary="project hover button size updated">
-      <created>1423403628767</created>
-      <updated>1423403628767</updated>
-    </task>
-    <task id="LOCAL-00107" summary="mobile font size modified">
-      <created>1423403692069</created>
-      <updated>1423403692069</updated>
-    </task>
-    <task id="LOCAL-00108" summary="mobile font size modified&#10;">
-      <created>1423403961292</created>
-      <updated>1423403961292</updated>
-    </task>
-    <task id="LOCAL-00109" summary="dxd seminar project updated">
-      <created>1423409200769</created>
-      <updated>1423409200770</updated>
-    </task>
-    <task id="LOCAL-00110" summary="dxd seminar img updated">
-      <created>1423409270413</created>
-      <updated>1423409270413</updated>
-    </task>
-    <task id="LOCAL-00111" summary="자기소개 업데이트">
-      <created>1423580995937</created>
-      <updated>1423580995937</updated>
-    </task>
-    <task id="LOCAL-00112" summary="menu interaction 추가 / project thumbnail hover 추가">
-      <created>1425151052357</created>
-      <updated>1425151052357</updated>
-    </task>
-    <task id="LOCAL-00113" summary="j-body-korean font color updated">
-      <created>1425151236796</created>
-      <updated>1425151236796</updated>
-    </task>
-    <task id="LOCAL-00114" summary="project body padding updated">
-      <created>1425151417738</created>
-      <updated>1425151417738</updated>
-    </task>
-    <task id="LOCAL-00115" summary="project body padding updated&#10;">
-      <created>1425151478978</created>
-      <updated>1425151478978</updated>
-    </task>
-    <task id="LOCAL-00116" summary="Selected Thesis Upload">
-      <created>1425377743050</created>
-      <updated>1425377743050</updated>
-    </task>
-    <task id="LOCAL-00117" summary="Selected Thesis Upload&#10;">
-      <created>1425378113416</created>
-      <updated>1425378113416</updated>
-    </task>
-    <task id="LOCAL-00118" summary="Selected Thesis Text Upload&#10;">
-      <created>1425378768934</created>
-      <updated>1425378768935</updated>
-    </task>
-    <task id="LOCAL-00119" summary="Selected Thesis Mockup Image Upload&#10;">
-      <created>1425443489283</created>
-      <updated>1425443489283</updated>
-    </task>
-    <task id="LOCAL-00120" summary="dxd seminar image uploaded">
-      <created>1425454498278</created>
-      <updated>1425454498278</updated>
-    </task>
-    <task id="LOCAL-00121" summary="dxd seminar mockup image uploaded&#10;">
-      <created>1425461992706</created>
-      <updated>1425461992707</updated>
-    </task>
-    <task id="LOCAL-00122" summary="introduction text updated">
-      <created>1425522879887</created>
-      <updated>1425522879887</updated>
-    </task>
-    <task id="LOCAL-00123" summary="introduction text padding modified&#10;">
-      <created>1425522985072</created>
-      <updated>1425522985072</updated>
-    </task>
-    <task id="LOCAL-00124" summary="introduction text padding modified&#10;">
-      <created>1425523026263</created>
-      <updated>1425523026263</updated>
     </task>
     <task id="LOCAL-00125" summary="view resume button added">
       <created>1425524315083</created>
+      <option name="number" value="00125" />
+      <option name="project" value="LOCAL" />
       <updated>1425524315084</updated>
     </task>
     <task id="LOCAL-00126" summary="view resume button mobile modified&#10;">
       <created>1425524432479</created>
+      <option name="number" value="00126" />
+      <option name="project" value="LOCAL" />
       <updated>1425524432479</updated>
     </task>
     <task id="LOCAL-00127" summary="view resume button hover mobile modified&#10;">
       <created>1425524622379</created>
+      <option name="number" value="00127" />
+      <option name="project" value="LOCAL" />
       <updated>1425524622379</updated>
     </task>
     <task id="LOCAL-00128" summary="my introduction image uploaded">
       <created>1425558083604</created>
+      <option name="number" value="00128" />
+      <option name="project" value="LOCAL" />
       <updated>1425558083604</updated>
     </task>
     <task id="LOCAL-00129" summary="my introduction image uploaded&#10;">
       <created>1425558214514</created>
+      <option name="number" value="00129" />
+      <option name="project" value="LOCAL" />
       <updated>1425558214514</updated>
     </task>
     <task id="LOCAL-00130" summary="my introduction image mobile uploaded&#10;">
       <created>1425558523044</created>
+      <option name="number" value="00130" />
+      <option name="project" value="LOCAL" />
       <updated>1425558523044</updated>
     </task>
     <task id="LOCAL-00131" summary="my introduction image mobile uploaded&#10;">
       <created>1425558667485</created>
+      <option name="number" value="00131" />
+      <option name="project" value="LOCAL" />
       <updated>1425558667485</updated>
     </task>
     <task id="LOCAL-00132" summary="순서 변경, 이미지 업로드">
       <created>1425565110487</created>
+      <option name="number" value="00132" />
+      <option name="project" value="LOCAL" />
       <updated>1425565110487</updated>
     </task>
     <task id="LOCAL-00133" summary="순서 변경, 이미지 업로드&#10;">
       <created>1425565306902</created>
+      <option name="number" value="00133" />
+      <option name="project" value="LOCAL" />
       <updated>1425565306902</updated>
     </task>
     <task id="LOCAL-00134" summary="open morning uploaded">
       <created>1425638802030</created>
+      <option name="number" value="00134" />
+      <option name="project" value="LOCAL" />
       <updated>1425638802031</updated>
     </task>
     <task id="LOCAL-00135" summary="open morning wireframe uploaded&#10;">
       <created>1425641961263</created>
+      <option name="number" value="00135" />
+      <option name="project" value="LOCAL" />
       <updated>1425641961264</updated>
     </task>
     <task id="LOCAL-00136" summary="open morning wireframe uploaded&#10;">
       <created>1425642042234</created>
+      <option name="number" value="00136" />
+      <option name="project" value="LOCAL" />
       <updated>1425642042234</updated>
     </task>
     <task id="LOCAL-00137" summary="open morning wireframe uploaded&#10;">
       <created>1425643598685</created>
+      <option name="number" value="00137" />
+      <option name="project" value="LOCAL" />
       <updated>1425643598685</updated>
     </task>
     <task id="LOCAL-00138" summary="open morning wireframe uploaded&#10;">
       <created>1425644320352</created>
+      <option name="number" value="00138" />
+      <option name="project" value="LOCAL" />
       <updated>1425644320352</updated>
     </task>
     <task id="LOCAL-00139" summary="open morning mockup image uploaded&#10;">
       <created>1425644971644</created>
+      <option name="number" value="00139" />
+      <option name="project" value="LOCAL" />
       <updated>1425644971644</updated>
     </task>
     <task id="LOCAL-00140" summary="open morning mockup image uploaded&#10;">
       <created>1425645020212</created>
+      <option name="number" value="00140" />
+      <option name="project" value="LOCAL" />
       <updated>1425645020212</updated>
     </task>
     <task id="LOCAL-00141" summary="dxd designers community thumbnail image updated">
       <created>1425869869693</created>
+      <option name="number" value="00141" />
+      <option name="project" value="LOCAL" />
       <updated>1425869869693</updated>
     </task>
     <task id="LOCAL-00142" summary="all thumbnail updated">
       <created>1425885370424</created>
+      <option name="number" value="00142" />
+      <option name="project" value="LOCAL" />
       <updated>1425885370424</updated>
     </task>
     <task id="LOCAL-00143" summary="illustration thumbnail updated&#10;">
       <created>1425889306720</created>
+      <option name="number" value="00143" />
+      <option name="project" value="LOCAL" />
       <updated>1425889306721</updated>
     </task>
     <task id="LOCAL-00144" summary="illustration thumbnail updated&#10;">
       <created>1425890655796</created>
+      <option name="number" value="00144" />
+      <option name="project" value="LOCAL" />
       <updated>1425890655796</updated>
     </task>
     <task id="LOCAL-00145" summary="illustration thumbnail updated&#10;">
       <created>1425891024621</created>
+      <option name="number" value="00145" />
+      <option name="project" value="LOCAL" />
       <updated>1425891024622</updated>
     </task>
     <task id="LOCAL-00146" summary="transform updated">
       <created>1425900465372</created>
+      <option name="number" value="00146" />
+      <option name="project" value="LOCAL" />
       <updated>1425900465372</updated>
     </task>
     <task id="LOCAL-00147" summary="transform updated&#10;">
       <created>1425900525886</created>
+      <option name="number" value="00147" />
+      <option name="project" value="LOCAL" />
       <updated>1425900525886</updated>
     </task>
     <task id="LOCAL-00148" summary="index thumbnail image px fixed">
       <created>1425958539074</created>
+      <option name="number" value="00148" />
+      <option name="project" value="LOCAL" />
       <updated>1425958539075</updated>
     </task>
     <task id="LOCAL-00149" summary="index thumbnail image px fixed&#10;">
       <created>1425958735217</created>
+      <option name="number" value="00149" />
+      <option name="project" value="LOCAL" />
       <updated>1425958735217</updated>
     </task>
     <task id="LOCAL-00150" summary="index thumbnail image px fixed&#10;">
       <created>1425958772962</created>
+      <option name="number" value="00150" />
+      <option name="project" value="LOCAL" />
       <updated>1425958772963</updated>
     </task>
     <task id="LOCAL-00151" summary="index thumbnail image px fixed&#10;">
       <created>1425959234276</created>
+      <option name="number" value="00151" />
+      <option name="project" value="LOCAL" />
       <updated>1425959234276</updated>
     </task>
     <task id="LOCAL-00152" summary="My tiny world updated">
       <created>1425963668066</created>
+      <option name="number" value="00152" />
+      <option name="project" value="LOCAL" />
       <updated>1425963668066</updated>
     </task>
     <task id="LOCAL-00153" summary="The education of Little tree text updated">
       <created>1425980139804</created>
+      <option name="number" value="00153" />
+      <option name="project" value="LOCAL" />
       <updated>1425980139804</updated>
     </task>
     <task id="LOCAL-00154" summary="The education of Little tree thumbnail image updated&#10;">
       <created>1425980225459</created>
+      <option name="number" value="00154" />
+      <option name="project" value="LOCAL" />
       <updated>1425980225459</updated>
     </task>
     <task id="LOCAL-00155" summary="The education of Little tree thumbnail image updated&#10;">
       <created>1425980366325</created>
+      <option name="number" value="00155" />
+      <option name="project" value="LOCAL" />
       <updated>1425980366325</updated>
     </task>
     <task id="LOCAL-00156" summary="The education of Little tree thumbnail image updated&#10;">
       <created>1425980426531</created>
+      <option name="number" value="00156" />
+      <option name="project" value="LOCAL" />
       <updated>1425980426531</updated>
     </task>
     <task id="LOCAL-00157" summary="The education of Little tree thumbnail image updated&#10;">
       <created>1425980437887</created>
+      <option name="number" value="00157" />
+      <option name="project" value="LOCAL" />
       <updated>1425980437887</updated>
     </task>
     <task id="LOCAL-00158" summary="blog updated">
       <created>1425983267250</created>
+      <option name="number" value="00158" />
+      <option name="project" value="LOCAL" />
       <updated>1425983267250</updated>
     </task>
     <task id="LOCAL-00159" summary="image modified">
       <created>1425983363894</created>
+      <option name="number" value="00159" />
+      <option name="project" value="LOCAL" />
       <updated>1425983363894</updated>
     </task>
     <task id="LOCAL-00160" summary="mobile explanation added">
       <created>1425984429468</created>
+      <option name="number" value="00160" />
+      <option name="project" value="LOCAL" />
       <updated>1425984429468</updated>
     </task>
     <task id="LOCAL-00161" summary="mobile explanation added&#10;">
       <created>1425984582310</created>
+      <option name="number" value="00161" />
+      <option name="project" value="LOCAL" />
       <updated>1425984582310</updated>
     </task>
     <task id="LOCAL-00162" summary="mobile explanation deleted">
       <created>1425984772522</created>
+      <option name="number" value="00162" />
+      <option name="project" value="LOCAL" />
       <updated>1425984772523</updated>
     </task>
     <task id="LOCAL-00163" summary="blog text updated">
       <created>1425988921545</created>
+      <option name="number" value="00163" />
+      <option name="project" value="LOCAL" />
       <updated>1425988921545</updated>
     </task>
     <task id="LOCAL-00164" summary="blog text updated&#10;">
       <created>1425991618458</created>
+      <option name="number" value="00164" />
+      <option name="project" value="LOCAL" />
       <updated>1425991618458</updated>
     </task>
     <task id="LOCAL-00165" summary="taiwan travel photo updated">
       <created>1426046550619</created>
+      <option name="number" value="00165" />
+      <option name="project" value="LOCAL" />
       <updated>1426046550619</updated>
     </task>
     <task id="LOCAL-00166" summary="taiwan travel photo updated&#10;">
       <created>1426055947090</created>
+      <option name="number" value="00166" />
+      <option name="project" value="LOCAL" />
       <updated>1426055947090</updated>
     </task>
     <task id="LOCAL-00167" summary="kyungju travel">
       <created>1426060736104</created>
+      <option name="number" value="00167" />
+      <option name="project" value="LOCAL" />
       <updated>1426060736104</updated>
     </task>
     <task id="LOCAL-00168" summary="kyungju travel image updated&#10;">
       <created>1426061024507</created>
+      <option name="number" value="00168" />
+      <option name="project" value="LOCAL" />
       <updated>1426061024507</updated>
     </task>
     <task id="LOCAL-00169" summary="kyungju travel image updated&#10;">
       <created>1426061182242</created>
+      <option name="number" value="00169" />
+      <option name="project" value="LOCAL" />
       <updated>1426061182242</updated>
     </task>
     <task id="LOCAL-00170" summary="kyungju travel image updated&#10;">
       <created>1426062032293</created>
+      <option name="number" value="00170" />
+      <option name="project" value="LOCAL" />
       <updated>1426062032293</updated>
     </task>
     <task id="LOCAL-00171" summary="kyungju travel image updated&#10;">
       <created>1426063437133</created>
+      <option name="number" value="00171" />
+      <option name="project" value="LOCAL" />
       <updated>1426063437133</updated>
     </task>
     <task id="LOCAL-00172" summary="kyungju travel image updated&#10;">
       <created>1426064251640</created>
+      <option name="number" value="00172" />
+      <option name="project" value="LOCAL" />
       <updated>1426064251640</updated>
     </task>
-    <option name="localTasksCounter" value="173" />
+    <task id="LOCAL-00173" summary="side menu updated">
+      <created>1426064349218</created>
+      <option name="number" value="00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1426064349218</updated>
+    </task>
+    <option name="localTasksCounter" value="174" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <frame x="-1" y="23" width="1276" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853898" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32599118" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18347895" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18326694" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32452276" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16956851" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32452276" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3274596" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15752351" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -957,7 +764,10 @@
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USERS">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
   </component>
@@ -968,7 +778,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="순서 변경, 이미지 업로드&#10;" />
     <MESSAGE value="open morning uploaded" />
     <MESSAGE value="open morning wireframe uploaded&#10;" />
     <MESSAGE value="open morning mockup image uploaded&#10;" />
@@ -993,301 +802,282 @@
     <MESSAGE value="taiwan travel photo updated&#10;" />
     <MESSAGE value="kyungju travel" />
     <MESSAGE value="kyungju travel image updated&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="kyungju travel image updated&#10;" />
+    <MESSAGE value="side menu updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="side menu updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="10" selection-start="1417" selection-end="1417" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="3015">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="16" selection-start="1393" selection-end="1393" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="1935">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="42" selection-start="3254" selection-end="3254" vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="2325">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="17" selection-start="2594" selection-end="3413" vertical-scroll-proportion="0.0" vertical-offset="1305" max-vertical-offset="4395">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_03.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="22" selection-start="2687" selection-end="2687" vertical-scroll-proportion="0.0" vertical-offset="915" max-vertical-offset="2010">
+        <state vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="1500">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="25" selection-start="1536" selection-end="1536" vertical-scroll-proportion="0.0" vertical-offset="1605" max-vertical-offset="9735">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="42" selection-start="1647" selection-end="1647" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3000">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="69" selection-start="2101" selection-end="2114" vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="2235">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="39" selection-start="1903" selection-end="1903" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1755">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_03.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="39" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1755">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="190" column="1" selection-start="2818" selection-end="2818" vertical-scroll-proportion="0.0" vertical-offset="2694" max-vertical-offset="8340">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="9765">
+          <caret line="93" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="50" selection-start="2960" selection-end="2960" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2100">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="18" selection-start="3324" selection-end="3324" vertical-scroll-proportion="0.0" vertical-offset="1170" max-vertical-offset="1875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="26" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="1830">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3045">
+          <caret line="26" column="48" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="269" column="0" selection-start="3978" selection-end="3978" vertical-scroll-proportion="0.0" vertical-offset="3990" max-vertical-offset="6885">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="9765">
+          <caret line="93" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="36" selection-start="1580" selection-end="1580" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="2100">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="49" selection-start="2693" selection-end="2693" vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="1980">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="26" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="1830">
+        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="3015">
+          <caret line="32" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="266" column="13" selection-start="3930" selection-end="3930" vertical-scroll-proportion="0.0" vertical-offset="3990" max-vertical-offset="6885">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1605" max-vertical-offset="9735">
+          <caret line="107" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1500">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3000">
+          <caret line="41" column="42" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2694" max-vertical-offset="8340">
+          <caret line="190" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2100">
+          <caret line="74" column="50" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3990" max-vertical-offset="6885">
+          <caret line="269" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="2100">
+          <caret line="40" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3990" max-vertical-offset="6885">
+          <caret line="266" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1500">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/j-project_01.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/j-project_05.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/j-project_06.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_05.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="75" selection-start="790" selection-end="790" vertical-scroll-proportion="-4.375" vertical-offset="165" max-vertical-offset="1905">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_06.html">
+    <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="75" selection-start="790" selection-end="790" vertical-scroll-proportion="0.6122449" vertical-offset="30" max-vertical-offset="1770">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="75" selection-start="790" selection-end="790" vertical-scroll-proportion="0.68877554" vertical-offset="0" max-vertical-offset="1965">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_03.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="75" selection-start="790" selection-end="790" vertical-scroll-proportion="0.68877554" vertical-offset="0" max-vertical-offset="1770">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_04.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="75" selection-start="790" selection-end="790" vertical-scroll-proportion="0.68877554" vertical-offset="0" max-vertical-offset="1800">
+        <state vertical-scroll-proportion="0.35623002" vertical-offset="1397" max-vertical-offset="9735">
+          <caret line="108" column="24" selection-start-line="108" selection-start-column="24" selection-end-line="108" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project_01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="14" selection-start="1783" selection-end="1796" vertical-scroll-proportion="-11.25" vertical-offset="405" max-vertical-offset="1815">
+        <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="1860">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_03.html">
+    <entry file="file://$PROJECT_DIR$/project_02.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="22" selection-start="2687" selection-end="2687" vertical-scroll-proportion="0.0" vertical-offset="915" max-vertical-offset="2010">
+        <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="2010">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
+    <entry file="file://$PROJECT_DIR$/project_03.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="69" selection-start="2190" selection-end="2190" vertical-scroll-proportion="0.3409091" vertical-offset="540" max-vertical-offset="2235">
+        <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="1815">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
+    <entry file="file://$PROJECT_DIR$/project_04.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="16" selection-start="1393" selection-end="1393" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="1935">
+        <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="1845">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_01.html">
+    <entry file="file://$PROJECT_DIR$/project_05.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="17" selection-start="2594" selection-end="3413" vertical-scroll-proportion="0.0" vertical-offset="1305" max-vertical-offset="4395">
+        <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="1950">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_02.html">
+    <entry file="file://$PROJECT_DIR$/project_06.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="42" selection-start="3254" selection-end="3254" vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="2325">
+        <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="1815">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="48" selection-start="1198" selection-end="1198" vertical-scroll-proportion="0.6576728" vertical-offset="0" max-vertical-offset="3045">
+        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="3045">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
+    <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="21" selection-start="1372" selection-end="1372" vertical-scroll-proportion="0.234375" vertical-offset="1245" max-vertical-offset="9765">
+        <state vertical-scroll-proportion="-24.375" vertical-offset="60" max-vertical-offset="1980">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="2280">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="4440">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="2370">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26232114" vertical-offset="0" max-vertical-offset="2055">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
   </component>
 </project>
-
