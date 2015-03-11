@@ -91,7 +91,7 @@ p {
 .j-menues {
     line-height: 56px;
     font-size: 36px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .j-menu-sns {
@@ -106,8 +106,8 @@ p {
 }
 
 .j-side-menu .j-flex .j-menu-snss {
-    margin-bottom: 30px;
-    padding-top: 30px;
+    margin-bottom: 20px;
+    padding-top: 20px;
     border-top: 1px solid rgba(255,255,255,0.4);
 }
 
