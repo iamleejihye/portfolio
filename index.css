@@ -105,8 +105,10 @@ p {
     cursor: pointer;
 }
 
-.j-side-menu .j-flex span {
-    margin-top: 20px;
+.j-side-menu .j-flex .j-menu-snss {
+    margin-bottom: 30px;
+    padding-top: 30px;
+    border-top: 1px solid rgba(255,255,255,0.4);
 }
 
 .j-side-menu a {
