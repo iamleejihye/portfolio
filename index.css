@@ -341,16 +341,21 @@ p.j-body {
 
 #j-blog-01 .j-thumbnail {
     width: 50%;
-    /*margin-top: 4px;*/
+    margin-top: 4px;
+    box-sizing: border-box;
 }
 
 #j-blog-01 .j-thumbnail:nth-child(3n) {
      width: 100%;
  }
 
-/*#j-blog-01 .j-thumbnail:nth-child(3n+1) {*/
-    /*margin-right: 4px;*/
-/*}*/
+#j-blog-01 .j-thumbnail:nth-child(3n+1) {
+    padding-right: 2px;
+}
+
+#j-blog-01 .j-thumbnail:nth-child(3n+2) {
+    padding-left: 2px;
+}
 
 
 
@@ -514,6 +519,17 @@ address {
     .j-thumbnail:hover .button {
         opacity: 0;
     }
+
+    /*------------blog--------------*/
+
+    #j-blog-01 .j-thumbnail:nth-child(3n+1) {
+        padding-right: 0px;
+    }
+
+    #j-blog-01 .j-thumbnail:nth-child(3n+2) {
+        padding-left: 0px;
+    }
+
 
     /*------------footer------------*/
 
