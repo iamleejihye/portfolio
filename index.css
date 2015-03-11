@@ -72,7 +72,59 @@ p {
     letter-spacing: 0;
 }
 
+/*------------icon--------------*/
+
+/*.j-icon-project {*/
+    /*background-image: url('asset/i_project.png');*/
+    /*width: 32px;*/
+    /*height: 32px;*/
+/*}*/
+
+/*.j-icon-blog {*/
+    /*background-image: url('asset/i_blog.png');*/
+    /*width: 32px;*/
+    /*height: 30px;*/
+/*}*/
+
+/*.j-icon-about {*/
+    /*background-image: url('asset/i_about.png');*/
+    /*width: 30px;*/
+    /*height: 32px;*/
+/*}*/
+
+/*.j-icon-facebook {*/
+    /*background-image: url('asset/i_facebook.png');*/
+    /*width: 18px;*/
+    /*height: 18px;*/
+/*}*/
+
+/*.j-icon-insta {*/
+    /*background-image: url('asset/i_instagram.png');*/
+    /*width: 18px;*/
+    /*height: 18px;*/
+/*}*/
+
+/*.j-icon-behance {*/
+    /*background-image: url('asset/i_behance.png');*/
+    /*width: 18px;*/
+    /*height: 18px;*/
+/*}*/
+
 /*------------side menu------------*/
+
+/*.j-side-menu .j-flex .j-menues .icon {*/
+    /*margin-right: 12px;*/
+/*}*/
+
+/*.j-side-menu .j-flex .j-menu-snss .icon {*/
+    /*margin-right: 9px;*/
+/*}*/
+
+
+/*.j-side-menu .j-flex {*/
+/*text-align: center;*/
+/*}*/
+
 
 .j-side-menu {
     z-index: 1;
@@ -82,10 +134,6 @@ p {
     height: 100%;
     background-color: #ff976e;
     opacity: 0.95;
-}
-
-.j-side-menu .j-flex {
-    text-align: center;
 }
 
 .j-menues {

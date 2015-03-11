@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_01.html" afterPath="$PROJECT_DIR$/blog_01.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_02.html" afterPath="$PROJECT_DIR$/blog_02.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/i_about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/i_blog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/i_mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/i_project.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_03.html" afterPath="$PROJECT_DIR$/blog_03.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/compass_library.xml" afterPath="$PROJECT_DIR$/.idea/libraries/compass_library.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/greedygirl.github.io.iml" afterPath="$PROJECT_DIR$/.idea/greedygirl.github.io.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_01.html" afterPath="$PROJECT_DIR$/project_01.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_02.html" afterPath="$PROJECT_DIR$/project_02.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_03.html" afterPath="$PROJECT_DIR$/project_03.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_04.html" afterPath="$PROJECT_DIR$/project_04.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_05.html" afterPath="$PROJECT_DIR$/project_05.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_06.html" afterPath="$PROJECT_DIR$/project_06.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -107,8 +98,8 @@
           <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/blog.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="2280">
-                  <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+                <state vertical-scroll-proportion="-15.625" vertical-offset="285" max-vertical-offset="2280">
+                  <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
                   <folding />
                 </state>
               </provider>
@@ -137,8 +128,8 @@
           <file leaf-file-name="blog_03.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/blog_03.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.26232114" vertical-offset="0" max-vertical-offset="2055">
-                  <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+                <state vertical-scroll-proportion="0.7154213" vertical-offset="225" max-vertical-offset="2325">
+                  <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
                   <folding />
                 </state>
               </provider>
@@ -191,8 +182,8 @@
           <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.35623002" vertical-offset="1397" max-vertical-offset="9735">
-                  <caret line="108" column="24" selection-start-line="108" selection-start-column="24" selection-end-line="108" selection-end-column="24" />
+                <state vertical-scroll-proportion="2.5957122" vertical-offset="450" max-vertical-offset="10455">
+                  <caret line="143" column="0" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -219,7 +210,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/project_01.html" />
         <option value="$PROJECT_DIR$/project_02.html" />
@@ -228,9 +218,10 @@
         <option value="$PROJECT_DIR$/project_05.html" />
         <option value="$PROJECT_DIR$/project_06.html" />
         <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/blog_01.html" />
         <option value="$PROJECT_DIR$/blog_02.html" />
+        <option value="$PROJECT_DIR$/blog.html" />
+        <option value="$PROJECT_DIR$/index.css" />
         <option value="$PROJECT_DIR$/blog_03.html" />
       </list>
     </option>
@@ -389,6 +380,15 @@
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <method />
     </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
     <list size="0" />
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -405,12 +405,6 @@
       <created>1372674025069</created>
       <option name="number" value="Default" />
       <updated>1372674025069</updated>
-    </task>
-    <task id="LOCAL-00125" summary="view resume button added">
-      <created>1425524315083</created>
-      <option name="number" value="00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1425524315084</updated>
     </task>
     <task id="LOCAL-00126" summary="view resume button mobile modified&#10;">
       <created>1425524432479</created>
@@ -700,13 +694,20 @@
       <option name="project" value="LOCAL" />
       <updated>1426064349218</updated>
     </task>
-    <option name="localTasksCounter" value="174" />
+    <task id="LOCAL-00174" summary="side menu modified">
+      <created>1426070499356</created>
+      <option name="number" value="00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1426070499356</updated>
+    </task>
+    <option name="localTasksCounter" value="175" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="23" width="1276" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853898" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32599118" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -729,7 +730,6 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3274596" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -778,7 +778,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="open morning uploaded" />
     <MESSAGE value="open morning wireframe uploaded&#10;" />
     <MESSAGE value="open morning mockup image uploaded&#10;" />
     <MESSAGE value="dxd designers community thumbnail image updated" />
@@ -803,7 +802,8 @@
     <MESSAGE value="kyungju travel" />
     <MESSAGE value="kyungju travel image updated&#10;" />
     <MESSAGE value="side menu updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="side menu updated" />
+    <MESSAGE value="side menu modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="side menu modified" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -975,14 +975,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35623002" vertical-offset="1397" max-vertical-offset="9735">
-          <caret line="108" column="24" selection-start-line="108" selection-start-column="24" selection-end-line="108" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project_01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="1860">
@@ -1047,14 +1039,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="2280">
-          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog_01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="4440">
@@ -1071,10 +1055,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.625" vertical-offset="285" max-vertical-offset="2280">
+          <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog_03.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26232114" vertical-offset="0" max-vertical-offset="2055">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.7154213" vertical-offset="225" max-vertical-offset="2325">
+          <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.5957122" vertical-offset="450" max-vertical-offset="10455">
+          <caret line="143" column="0" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
           <folding />
         </state>
       </provider>
