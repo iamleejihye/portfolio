@@ -472,9 +472,6 @@ p.j-body {
 }
 
 
-
-
-
 .mobile {
     display: none;
 }
@@ -714,6 +711,11 @@ address {
     }
 
     .pc {
+        display: none;
+    }
+
+    a.j-icon-arrow-left,
+    a.j-icon-arrow-right {
         display: none;
     }
 

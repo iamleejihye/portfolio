@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/arrow_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/arrow_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/i_behance.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/i_facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/i_instagram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/i_mail.png" afterPath="$PROJECT_DIR$/asset/i_mail.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/i_project.png" afterPath="$PROJECT_DIR$/asset/i_project.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_01.html" afterPath="$PROJECT_DIR$/project_01.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_02.html" afterPath="$PROJECT_DIR$/project_02.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_03.html" afterPath="$PROJECT_DIR$/project_03.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_04.html" afterPath="$PROJECT_DIR$/project_04.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_05.html" afterPath="$PROJECT_DIR$/project_05.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_06.html" afterPath="$PROJECT_DIR$/project_06.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -167,8 +153,8 @@
           <file leaf-file-name="project_06.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/project_06.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6969697" vertical-offset="0" max-vertical-offset="2584">
-                  <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+                <state vertical-scroll-proportion="0.18210863" vertical-offset="323" max-vertical-offset="2584">
+                  <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
                   <folding />
                 </state>
               </provider>
@@ -181,8 +167,8 @@
           <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.4061776" vertical-offset="6447" max-vertical-offset="13775">
-                  <caret line="367" column="21" selection-start-line="367" selection-start-column="21" selection-end-line="367" selection-end-column="21" />
+                <state vertical-scroll-proportion="0.23588553" vertical-offset="12425" max-vertical-offset="13813">
+                  <caret line="670" column="22" selection-start-line="670" selection-start-column="22" selection-end-line="670" selection-end-column="22" />
                   <folding />
                 </state>
               </provider>
@@ -215,13 +201,13 @@
         <option value="$PROJECT_DIR$/blog_03.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/index.css" />
         <option value="$PROJECT_DIR$/project_01.html" />
         <option value="$PROJECT_DIR$/project_02.html" />
         <option value="$PROJECT_DIR$/project_03.html" />
         <option value="$PROJECT_DIR$/project_04.html" />
         <option value="$PROJECT_DIR$/project_05.html" />
         <option value="$PROJECT_DIR$/project_06.html" />
+        <option value="$PROJECT_DIR$/index.css" />
       </list>
     </option>
   </component>
@@ -423,12 +409,6 @@
       <created>1372674025069</created>
       <option name="number" value="Default" />
       <updated>1372674025069</updated>
-    </task>
-    <task id="LOCAL-00128" summary="my introduction image uploaded">
-      <created>1425558083604</created>
-      <option name="number" value="00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1425558083604</updated>
     </task>
     <task id="LOCAL-00129" summary="my introduction image uploaded&#10;">
       <created>1425558214514</created>
@@ -718,13 +698,20 @@
       <option name="project" value="LOCAL" />
       <updated>1426559754038</updated>
     </task>
-    <option name="localTasksCounter" value="177" />
+    <task id="LOCAL-00177" summary="portfolio keyboard page navigation added">
+      <created>1427429608814</created>
+      <option name="number" value="00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1427429608825</updated>
+    </task>
+    <option name="localTasksCounter" value="178" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1413" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853898" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32599118" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -747,7 +734,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3274596" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -796,7 +782,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="dxd designers community thumbnail image updated" />
     <MESSAGE value="all thumbnail updated" />
     <MESSAGE value="illustration thumbnail updated&#10;" />
     <MESSAGE value="transform updated" />
@@ -821,7 +806,8 @@
     <MESSAGE value="side menu modified" />
     <MESSAGE value="If a resume is finished, a portfolio site is also finished." />
     <MESSAGE value="resume updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="resume updated" />
+    <MESSAGE value="portfolio keyboard page navigation added" />
+    <option name="LAST_COMMIT_MESSAGE" value="portfolio keyboard page navigation added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1175,14 +1161,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4061776" vertical-offset="6447" max-vertical-offset="13775">
-          <caret line="367" column="21" selection-start-line="367" selection-start-column="21" selection-end-line="367" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project_01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-33.25" vertical-offset="1406" max-vertical-offset="2660">
@@ -1225,8 +1203,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project_06.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6969697" vertical-offset="0" max-vertical-offset="2584">
-          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.18210863" vertical-offset="323" max-vertical-offset="2584">
+          <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23588553" vertical-offset="12425" max-vertical-offset="13813">
+          <caret line="670" column="22" selection-start-line="670" selection-start-column="22" selection-end-line="670" selection-end-column="22" />
           <folding />
         </state>
       </provider>
