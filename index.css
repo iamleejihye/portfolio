@@ -74,11 +74,31 @@ p {
 
 /*------------icon--------------*/
 
-/*.j-icon-project {*/
-    /*background-image: url('asset/i_project.png');*/
-    /*width: 32px;*/
-    /*height: 32px;*/
-/*}*/
+.j-icon-arrow-left {
+    background-image: url('asset/arrow_left.png');
+    width: 40px;
+    height: 40px;
+}
+
+
+.j-icon-arrow-right {
+    background-image: url('asset/arrow_right.png');
+    width: 40px;
+    height: 40px;
+}
+
+
+.j-icon-project {
+    background-image: url('asset/i_project.png');
+    width: 32px;
+    height: 32px;
+}
+
+.j-icon-mail {
+    background-image: url('asset/i_mail.png');
+    width: 32px;
+    height: 26px;
+}
 
 /*.j-icon-blog {*/
     /*background-image: url('asset/i_blog.png');*/
@@ -121,9 +141,9 @@ p {
 /*}*/
 
 
-/*.j-side-menu .j-flex {*/
-/*text-align: center;*/
-/*}*/
+.j-side-menu .j-flex {
+text-align: center;
+}
 
 
 .j-side-menu {
@@ -345,7 +365,7 @@ img {
 
 p.j-title {
     color: #636262;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 p.j-body {
@@ -374,9 +394,17 @@ p.j-body {
 /*------------project------------*/
 
 .j-project-text {
-    padding: 0 4% 6% 4%;
+    padding: 0 6% 6% 6%;
     box-sizing: border-box;
     text-align: center;
+}
+
+.j-project-text a.j-icon-arrow-left {
+    float: left;
+}
+
+.j-project-text a.j-icon-arrow-right {
+    float: right;
 }
 
 #j-project-02 .j-thumbnail:nth-child(1) {

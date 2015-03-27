@@ -41,23 +41,25 @@
     </header>
     <section>
     <div class="j-project-text">
-    <p class="j-title">The Education of Little Tree</p>
-    <p class="j-body">
-        Grandpa and I lay down and saw a rising yellow moon.
-        A moonlight looked sprayed on the sky. mountains looked violet with a shadow.
-        A fog hung over the mountain.
-    </p>
-    <p class="j-body-korean">
-        할아버지와 나는 머리밑에 깍지를 끼고 똑바로 누워서 달이 뜨는 것을 바라 보았다.
-        둥그렇고 노란 달이 저 먼산 위로 미끄러지듯이 올라왔다. 오늘밤에는 30리 앞까지도
-        볼 수 있겠다고 할아버지가 말씀하셨다. 분무기로 뿌려놓은 듯한
-        달빛 속에서 산들은 부드러운 곡선을 그리며 솟아 있었고, 깊은 그림자가 드리워진
-        골짜기들은 진보라색으로 물들어 있었다. 저 멀리 우리 발밑에서는 안개가
-        띠를 이루며 떠다녔다. 안개들은 골짜기들을 스쳐 지나가기도 하고, 산자락을
-        뱀처럼 휘감기도 했다. 조그만 안개띠 하나가 돛단배처럼 산허리를 돌아나오더니
-        또 다른 안개띠와 부딪쳤다. 두 줄기 안개는 서로 함께 어우러지며 뒤섞이더
-        니 이번에는 산골짜기 위로 휘휘 솟아오르기 시작했다.
-    </p>
+        <a href="project_06.html" class="icon j-icon-arrow-left"></a>
+        <a href="project_02.html" class="icon j-icon-arrow-right"></a>
+        <p class="j-title">The Education of Little Tree</p>
+        <p class="j-body">
+            Grandpa and I lay down and saw a rising yellow moon.
+            A moonlight looked sprayed on the sky. mountains looked violet with a shadow.
+            A fog hung over the mountain.
+        </p>
+        <p class="j-body-korean">
+            할아버지와 나는 머리밑에 깍지를 끼고 똑바로 누워서 달이 뜨는 것을 바라 보았다.
+            둥그렇고 노란 달이 저 먼산 위로 미끄러지듯이 올라왔다. 오늘밤에는 30리 앞까지도
+            볼 수 있겠다고 할아버지가 말씀하셨다. 분무기로 뿌려놓은 듯한
+            달빛 속에서 산들은 부드러운 곡선을 그리며 솟아 있었고, 깊은 그림자가 드리워진
+            골짜기들은 진보라색으로 물들어 있었다. 저 멀리 우리 발밑에서는 안개가
+            띠를 이루며 떠다녔다. 안개들은 골짜기들을 스쳐 지나가기도 하고, 산자락을
+            뱀처럼 휘감기도 했다. 조그만 안개띠 하나가 돛단배처럼 산허리를 돌아나오더니
+            또 다른 안개띠와 부딪쳤다. 두 줄기 안개는 서로 함께 어우러지며 뒤섞이더
+            니 이번에는 산골짜기 위로 휘휘 솟아오르기 시작했다.
+        </p>
     </div>
 
         <ul class="j-project" id="j-project-04">
@@ -116,6 +118,20 @@
     $(document).ready(function(){
         $('.j-menu-about').click(function(){
             $('.j-about').fadeTo('fast');
+        });
+    });
+
+    $(function() {
+        $(document).keyup(function(e) {
+            switch(e.keyCode) {
+                case 37 :
+                    window.location="project_04.html";
+                    break;
+
+                case 39 :
+                    window.location="project_06.html";
+                    break;
+            }
         });
     });
 

@@ -41,11 +41,13 @@
     </header>
     <section>
     <div class="j-project-text">
-    <p class="j-title">Selected Thesis</p>
-    <p class="j-body">
-        This App contains Communication Design Graduation Project, Designed by students of 2013 Duksung Womens University in Seoul. Communication Design Graduation Project was based on the theme [Selected Thesis], each team created experimental and visual identities such as Branding Design, Service Design, Editorial Design and in various ways.
-    </p>
-    <p class="j-body-korean">이 앱은 2013 덕성여자대학교 시각디자인과 커뮤니케이션 디자인 졸업 프로젝트를 담은 앱입니다. 커뮤니케이션 디자인 졸업 프로젝트는 새롭고 실험적인 시각적 아이덴티티를 구현하고자 하는 프로젝트로서 Selecet Thesis [선택된 논지들] 라는 주제로 각 팀이 브랜딩, 서비스, 편집 디자인, 인포그래픽 등의 다양한 종류로로 프로젝트를 진행하였습니다.</p>
+        <a href="project_06.html" class="icon j-icon-arrow-left"></a>
+        <a href="project_02.html" class="icon j-icon-arrow-right"></a>
+        <p class="j-title">Selected Thesis</p>
+        <p class="j-body">
+            This App contains Communication Design Graduation Project, Designed by students of 2013 Duksung Womens University in Seoul. Communication Design Graduation Project was based on the theme [Selected Thesis], each team created experimental and visual identities such as Branding Design, Service Design, Editorial Design and in various ways.
+        </p>
+        <p class="j-body-korean">이 앱은 2013 덕성여자대학교 시각디자인과 커뮤니케이션 디자인 졸업 프로젝트를 담은 앱입니다. 커뮤니케이션 디자인 졸업 프로젝트는 새롭고 실험적인 시각적 아이덴티티를 구현하고자 하는 프로젝트로서 Selecet Thesis [선택된 논지들] 라는 주제로 각 팀이 브랜딩, 서비스, 편집 디자인, 인포그래픽 등의 다양한 종류로로 프로젝트를 진행하였습니다.</p>
     </div>
 
         <ul class="j-project" id="j-project-03">
@@ -110,6 +112,19 @@
         });
     });
 
+    $(function() {
+        $(document).keyup(function(e) {
+            switch(e.keyCode) {
+                case 37 :
+                    window.location="project_02.html";
+                    break;
+
+                case 39 :
+                    window.location="project_04.html";
+                    break;
+            }
+        });
+    });
 
 </script>
 

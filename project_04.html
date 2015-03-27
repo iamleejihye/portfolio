@@ -41,16 +41,18 @@
     </header>
     <section>
     <div class="j-project-text">
-    <p class="j-title">Open Morning</p>
-    <p class="j-body">
-        Do you want to be a morning person? Come here, Share your morning routine every day, seize your day.
-    </p>
-    <p class="j-body-korean">
-        OPEN MORNING은 아침 일상 사진을 공유할 수 있는 서비스입니다.
-        이 서비스는 앱을 기반으로 하며 포스트 업로드는 아침 6시부터 11시까지 총 5시간만 쓸 수 있습니다. 그렇게 사용할 수 있는 시간을 제한하여 늘 흔적도 없이 사라지는 귀중한 아침 시간의 소중함을 느낄 수 있게 해줍니다. 그리고 사진에는 올린 시간이 크게 기재되어 시간을 기반으로 하는 서비스라는 것을 알 수 있게 합니다.
-        유저들이 올리는 사진이 언제 활동된 사진이라는 것을 한 눈에 볼 수 있게 끔 하여 그 시간에는 자고 있던 늦잠꾸러기 유저에게는 자극을 줍니다. 그리고 아침 일상 사진을 올릴 때는 태그를 달 수 있게 하여 아침에 보통 하는 행위들, 예를 들면 책 읽기, 커피 마시기, 영어 공부 하기 등을 정리할 수 있게 해주고 정리된 아침 일상은
-        마이페이지에서 체계적으로 정리되어 보여줍니다. 오픈 모닝의 궁극적인 목표는 아침을 효율적으로 보내고 있는 사람들의 아침 일상 사진을 보며 긍정적인 자극을 느끼게 해주는 것, 또 사용자가 직접 적극적으로, 능동적으로 체계적인 아침을 보내기 위해서 앱을 사용하게끔 하는 것입니다.
-    </p>
+        <a href="project_06.html" class="icon j-icon-arrow-left"></a>
+        <a href="project_02.html" class="icon j-icon-arrow-right"></a>
+        <p class="j-title">Open Morning</p>
+        <p class="j-body">
+            Do you want to be a morning person? Come here, Share your morning routine every day, seize your day.
+        </p>
+        <p class="j-body-korean">
+            OPEN MORNING은 아침 일상 사진을 공유할 수 있는 서비스입니다.
+            이 서비스는 앱을 기반으로 하며 포스트 업로드는 아침 6시부터 11시까지 총 5시간만 쓸 수 있습니다. 그렇게 사용할 수 있는 시간을 제한하여 늘 흔적도 없이 사라지는 귀중한 아침 시간의 소중함을 느낄 수 있게 해줍니다. 그리고 사진에는 올린 시간이 크게 기재되어 시간을 기반으로 하는 서비스라는 것을 알 수 있게 합니다.
+            유저들이 올리는 사진이 언제 활동된 사진이라는 것을 한 눈에 볼 수 있게 끔 하여 그 시간에는 자고 있던 늦잠꾸러기 유저에게는 자극을 줍니다. 그리고 아침 일상 사진을 올릴 때는 태그를 달 수 있게 하여 아침에 보통 하는 행위들, 예를 들면 책 읽기, 커피 마시기, 영어 공부 하기 등을 정리할 수 있게 해주고 정리된 아침 일상은
+            마이페이지에서 체계적으로 정리되어 보여줍니다. 오픈 모닝의 궁극적인 목표는 아침을 효율적으로 보내고 있는 사람들의 아침 일상 사진을 보며 긍정적인 자극을 느끼게 해주는 것, 또 사용자가 직접 적극적으로, 능동적으로 체계적인 아침을 보내기 위해서 앱을 사용하게끔 하는 것입니다.
+        </p>
     </div>
 
         <ul class="j-project" id="j-project-04">
@@ -109,6 +111,20 @@
     $(document).ready(function(){
         $('.j-menu-about').click(function(){
             $('.j-about').fadeTo('fast');
+        });
+    });
+
+    $(function() {
+        $(document).keyup(function(e) {
+            switch(e.keyCode) {
+                case 37 :
+                    window.location="project_03.html";
+                    break;
+
+                case 39 :
+                    window.location="project_05.html";
+                    break;
+            }
         });
     });
 
