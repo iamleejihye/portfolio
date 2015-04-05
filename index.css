@@ -254,6 +254,8 @@ g.j-menu-s {
     background-image: url('asset/j-menu_fff.svg');
     width: 24px;
     height: 20px;
+    /*z-index: 1;*/
+    /*position: relative;*/
 }
 
 .j-logo {
