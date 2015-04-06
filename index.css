@@ -774,6 +774,13 @@ address {
         padding: 14% 8%;
     }
 
+    .j-about-button:hover .j-about-icon-arrow {
+        width: 18px;
+        height: 12px;
+        background: url('asset/i_arrow_hover.png');
+        margin-left: 4px;
+    }
+
     .j-about-button:hover {
         background-color: transparent;
         border: 2px solid rgba(255,151,110,0.5);
