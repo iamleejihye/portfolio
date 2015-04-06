@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/logo/Untitled-2.ai" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/research/[research]_portfolio_website_150105.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/resume/intro_150317.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/logo/logo.ai" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/logo/logo.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/logo/logo_150305.ai" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/name card/name_card_150305.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/logo/profile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/resume/resume_150312.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/resume/resume_150312_l.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/resume/resume_150316.psd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -96,8 +107,8 @@
           <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.2552204" vertical-offset="8193" max-vertical-offset="15314">
-                  <caret line="437" column="14" selection-start-line="437" selection-start-column="14" selection-end-line="437" selection-end-column="14" />
+                <state vertical-scroll-proportion="0.34338748" vertical-offset="8193" max-vertical-offset="15314">
+                  <caret line="439" column="23" selection-start-line="439" selection-start-column="23" selection-end-line="439" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
@@ -214,6 +225,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Iamleejihye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jihyeleee.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -325,12 +350,6 @@
       <created>1372674025069</created>
       <option name="number" value="Default" />
       <updated>1372674025069</updated>
-    </task>
-    <task id="LOCAL-00133" summary="순서 변경, 이미지 업로드&#10;">
-      <created>1425565306902</created>
-      <option name="number" value="00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1425565306902</updated>
     </task>
     <task id="LOCAL-00134" summary="open morning uploaded">
       <created>1425638802030</created>
@@ -620,7 +639,13 @@
       <option name="project" value="LOCAL" />
       <updated>1428297511083</updated>
     </task>
-    <option name="localTasksCounter" value="182" />
+    <task id="LOCAL-00182" summary="static - logo, name card, research, resume updated">
+      <created>1428297645091</created>
+      <option name="number" value="00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1428297645091</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -698,7 +723,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="index thumbnail image px fixed" />
     <MESSAGE value="index thumbnail image px fixed&#10;" />
     <MESSAGE value="My tiny world updated" />
     <MESSAGE value="The education of Little tree text updated" />
@@ -723,7 +747,8 @@
     <MESSAGE value="remove svg animation" />
     <MESSAGE value="자기소개 영문 업데이트 / view my resume btn 업데이트" />
     <MESSAGE value="favicon updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="favicon updated" />
+    <MESSAGE value="static - logo, name card, research, resume updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="static - logo, name card, research, resume updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1028,14 +1053,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2552204" vertical-offset="8193" max-vertical-offset="15314">
-          <caret line="437" column="14" selection-start-line="437" selection-start-column="14" selection-end-line="437" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.75434244" vertical-offset="0" max-vertical-offset="2641">
@@ -1128,6 +1145,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3300248" vertical-offset="76" max-vertical-offset="3268">
           <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34338748" vertical-offset="8193" max-vertical-offset="15314">
+          <caret line="439" column="23" selection-start-line="439" selection-start-column="23" selection-end-line="439" selection-end-column="23" />
           <folding />
         </state>
       </provider>
