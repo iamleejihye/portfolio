@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/icon/Untitled-1.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/portfolio/cover.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/portfolio/cover_l.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/portfolio/j-project_01.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/portfolio/j-project_01_02.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/portfolio/j-project_01_03.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/portfolio/portfolio_150331.indd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/portfolio/portfolio_150331.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/portfolio/portfolio_150331_l.indd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -367,12 +358,6 @@
       <option name="number" value="Default" />
       <updated>1372674025069</updated>
     </task>
-    <task id="LOCAL-00135" summary="open morning wireframe uploaded&#10;">
-      <created>1425641961263</created>
-      <option name="number" value="00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1425641961264</updated>
-    </task>
     <task id="LOCAL-00136" summary="open morning wireframe uploaded&#10;">
       <created>1425642042234</created>
       <option name="number" value="00136" />
@@ -661,7 +646,13 @@
       <option name="project" value="LOCAL" />
       <updated>1428297721878</updated>
     </task>
-    <option name="localTasksCounter" value="184" />
+    <task id="LOCAL-00184" summary="static - portfolio.indd / icon updated">
+      <created>1428297803585</created>
+      <option name="number" value="00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1428297803585</updated>
+    </task>
+    <option name="localTasksCounter" value="185" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -739,7 +730,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="index thumbnail image px fixed&#10;" />
     <MESSAGE value="My tiny world updated" />
     <MESSAGE value="The education of Little tree text updated" />
     <MESSAGE value="The education of Little tree thumbnail image updated&#10;" />
@@ -764,7 +754,8 @@
     <MESSAGE value="자기소개 영문 업데이트 / view my resume btn 업데이트" />
     <MESSAGE value="favicon updated" />
     <MESSAGE value="static - logo, name card, research, resume updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="static - logo, name card, research, resume updated" />
+    <MESSAGE value="static - portfolio.indd / icon updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="static - portfolio.indd / icon updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
