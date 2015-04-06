@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d6534c-3407-46b6-b4b1-5b2f6a36f42b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/project/Selected thesis/all.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/project/Selected thesis/all_vertical.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/project/Selected thesis/ipad_mockup.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/project/Selected thesis/ipad_mockup_01.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/project/j-project_02.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Iamleejihye.iws" />
@@ -228,24 +233,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Iamleejihye" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jihyeleee.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="icon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -357,18 +344,6 @@
       <created>1372674025069</created>
       <option name="number" value="Default" />
       <updated>1372674025069</updated>
-    </task>
-    <task id="LOCAL-00136" summary="open morning wireframe uploaded&#10;">
-      <created>1425642042234</created>
-      <option name="number" value="00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1425642042234</updated>
-    </task>
-    <task id="LOCAL-00137" summary="open morning wireframe uploaded&#10;">
-      <created>1425643598685</created>
-      <option name="number" value="00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1425643598685</updated>
     </task>
     <task id="LOCAL-00138" summary="open morning wireframe uploaded&#10;">
       <created>1425644320352</created>
@@ -652,7 +627,19 @@
       <option name="project" value="LOCAL" />
       <updated>1428297803585</updated>
     </task>
-    <option name="localTasksCounter" value="185" />
+    <task id="LOCAL-00185" summary="static - design folder updated">
+      <created>1428298233457</created>
+      <option name="number" value="00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1428298233458</updated>
+    </task>
+    <task id="LOCAL-00186" summary="static - design folder updated">
+      <created>1428298268397</created>
+      <option name="number" value="00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1428298268397</updated>
+    </task>
+    <option name="localTasksCounter" value="187" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -730,7 +717,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="My tiny world updated" />
     <MESSAGE value="The education of Little tree text updated" />
     <MESSAGE value="The education of Little tree thumbnail image updated&#10;" />
     <MESSAGE value="blog updated" />
@@ -755,7 +741,8 @@
     <MESSAGE value="favicon updated" />
     <MESSAGE value="static - logo, name card, research, resume updated" />
     <MESSAGE value="static - portfolio.indd / icon updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="static - portfolio.indd / icon updated" />
+    <MESSAGE value="static - design folder updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="static - design folder updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
