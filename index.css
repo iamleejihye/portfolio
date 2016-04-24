@@ -1,11 +1,12 @@
 body {
-    font-family: 'Lato', sans-serif, 'Nanum Gothic', serif;
-    font-weight: 300;
+    font-family: 'Lato', sans-serif, 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif';
+    font-weight: 100;
     text-transform: uppercase;
     height: 100%;
     background-color: #f7f7f7;
     margin: 0;
     color: #fff;
+    letter-spacing: 0.1em;
     position: relative;
 }
 
@@ -47,16 +48,16 @@ p {
 /*------------font size------------*/
 
 .j-title {
-    font-size: 19px;
+    font-size: 18px;
     line-height: 39px;
-    font-weight: 400;
-    letter-spacing: 1px;
+    font-weight: 300;
+    letter-spacing: 0.1em;
 }
 
-.j-body {
-    font-size: 14px;
-    line-height: 28px;
-    letter-spacing: 1px;
+.j-title-korean {
+    font-size: 28px;
+    font-weight: 100;
+    letter-spacing: -0.005em;
 }
 
 .j-body-strong {
@@ -65,10 +66,10 @@ p {
 }
 
 .j-body-korean {
-    font-size: 13px;
-    line-height: 26px;
+    font-size: 16px;
+    line-height: 1.7em;
     color: #858585;
-    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 100;
     letter-spacing: 0;
 }
 
@@ -418,7 +419,7 @@ img {
 /*------------about-------------*/
 
 .j-about-text {
-    padding: 4%;
+    padding: 6%;
     box-sizing: border-box;
     text-align: center;
 }
@@ -432,11 +433,15 @@ p.j-body {
     color: #636262;
 }
 
+p.j-title-korean {
+    color: #636262;
+}
+
 .j-about-button {
-    margin-top: 30px;
+    margin-top: 36px;
     display: inline-block;
-    width: 186px;
-    padding: 9px;
+    width: 230px;
+    padding: 12px 0;
     border-radius: 6px;
     -webkit-border-radius: 6px;
     border: 2px solid rgba(255,151,110,0.5);
@@ -481,6 +486,11 @@ p.j-body {
 
 .j-project-text a.j-icon-arrow-left {
     float: left;
+}
+
+.j-project-text>p.j-body {
+    text-transform: none;
+    line-height: 1.45em;
 }
 
 .j-project-text a.j-icon-arrow-right {
@@ -561,11 +571,12 @@ p.j-body {
 }
 
 p.j-body-korean {
-    margin-top: 16px;
+    margin: 34px 0 34px 0;
 }
 
-p.j-body-strong {
-    margin-top: 16px;
+.j-link:hover {
+    color: #ff976e;
+
 }
 
 /*------------footer------------*/
