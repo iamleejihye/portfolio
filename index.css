@@ -73,6 +73,17 @@ p {
     letter-spacing: 0;
 }
 
+.j-project-text p.j-title-korean {
+    font-size: 21px;
+    margin-bottom: 30px;
+}
+
+.j-info>.j-title-korean {
+    font-size: 21px;
+    font-weight: 100;
+}
+
+
 /*------------icon--------------*/
 
 .j-icon-arrow-left {
