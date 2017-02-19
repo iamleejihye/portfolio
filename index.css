@@ -676,6 +676,10 @@ address {
     address {
         margin-top: 20px;
     }
+
+    .j-body-korean {
+        font-size: 18px;
+    }
 }
 
 @media (max-width: 640px) {
@@ -690,6 +694,10 @@ address {
     .j-body {
         font-size: 13px;
         line-height: 19px;
+    }
+
+    .j-body-korean {
+        font-size: 16px;
     }
 
     /*------------header------------*/
