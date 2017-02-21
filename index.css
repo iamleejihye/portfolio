@@ -68,6 +68,12 @@ p {
 .j-body-korean a {
     padding-bottom: 2px;
     border-bottom: 2px solid #f7966f;
+    transition: all 0.2s ease-in-out;
+}
+
+.j-body-korean a:hover {
+    color: #f7966f;
+    transition: all 0.2s ease-in-out;
 }
 
 .j-body-korean {
