@@ -714,7 +714,7 @@ address {
 
     .j-menu {
         float: left;
-        background-image: url('asset/j-menu_mobile.svg');
+        /*background-image: url('asset/j-menu_mobile.svg');*/
         width: 16px;
         height: 14px;
     }
