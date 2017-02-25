@@ -31,8 +31,6 @@ address {
 a {
     color: inherit;
     text-decoration: none;
-    height: inherit;
-    display: inline-block;
 }
 
 p {
@@ -732,6 +730,11 @@ address {
 
     .j-thumbnail {
         width: 100%;
+    }
+
+    .j-thumbnail a {
+      height: inherit;
+      display: inline-block;
     }
 
     /*.j-thumbnail:active a img {
