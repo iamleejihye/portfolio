@@ -732,17 +732,17 @@ address {
         width: 100%;
     }
 
-    .j-thumbnail:active a img {
+    /*.j-thumbnail:active a img {
       opacity: 0.8;
       transition: img 0.25 ease-in-out;
-    }
+    }*/
 
-    .j-thumbnail:hover .j-hover-box,
+    /*.j-thumbnail:hover .j-hover-box,
     .j-thumbnail:hover .j-hover-title,
     .j-thumbnail:hover .j-hover-contents,
     .j-thumbnail:hover .button {
         opacity: 0;
-    }
+    }*/
 
     /*------------blog--------------*/
 
