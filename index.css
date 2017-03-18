@@ -1,7 +1,7 @@
 body {
     font-family: 'Lato', sans-serif, 'Spoqa Han Sans', 'Sans-serif';
     font-weight: 100;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     height: 100%;
     background-color: #f7f7f7;
     margin: 0;
@@ -12,6 +12,10 @@ body {
 
 body, html {
     height: 100%;
+}
+
+.text-uppercase {
+  text-transform: uppercase;;
 }
 
 .hidesScrollBar {
@@ -65,6 +69,7 @@ p {
     font-weight: 400;
     letter-spacing: -0.001em;
     margin-bottom: 12px;
+    text-transform: none;
 }
 
 span.j-title {
@@ -530,10 +535,15 @@ p.j-title-korean {
 .j-project-text>p.j-body {
     text-transform: none;
     line-height: 1.45em;
+    font-size: 18px;
 }
 
 .j-project-text a.j-icon-arrow-right {
     float: right;
+}
+
+#j-project-01 .j-thumbnail:nth-child(1) {
+    width: 100%;
 }
 
 #j-project-02 .j-thumbnail:nth-child(1) {
@@ -634,6 +644,10 @@ footer {
     margin-right: 70px;
 }
 
+.j-sns {
+  margin-top: 10px;
+}
+
 .j-mail {
     margin-bottom: 6px;
     -webkit-transition: 0.2s;
@@ -642,6 +656,7 @@ footer {
 
 address {
     float: right;
+    margin-top: 10px;
 }
 
 .j-contact {
