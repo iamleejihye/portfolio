@@ -1,7 +1,7 @@
 body {
     font-family: 'Lato', sans-serif, 'Spoqa Han Sans', 'Sans-serif';
     font-weight: 100;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     height: 100%;
     background-color: #f7f7f7;
     margin: 0;
@@ -12,6 +12,10 @@ body {
 
 body, html {
     height: 100%;
+}
+
+.text-uppercase {
+  text-transform: uppercase;;
 }
 
 .hidesScrollBar {
@@ -48,16 +52,28 @@ p {
 /*------------font size------------*/
 
 .j-title {
-    font-size: 18px;
+    font-size: 19px;
     line-height: 39px;
-    font-weight: 300;
+    font-weight: 400;
     letter-spacing: 0.1em;
 }
 
 .j-title-korean {
     font-size: 30px;
     font-weight: 100;
-    letter-spacing: -0.005em;
+    letter-spacing: -0.001em;
+}
+
+.j-main-title-korean {
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: -0.001em;
+    margin-bottom: 12px;
+    text-transform: none;
+}
+
+span.j-title {
+  display: inline;
 }
 
 .j-body-strong {
@@ -83,8 +99,16 @@ p {
     letter-spacing: 0;
 }
 
+.j-main-body-korean {
+    font-size: 17px;
+    font-weight: 100;
+    color: #ffffff;
+    letter-spacing: -0.001em;
+}
+
 .j-project-text p.j-title-korean {
-    font-size: 21px;
+    font-size: 22px;
+    font-weight: 400;
     margin-bottom: 30px;
 }
 
@@ -340,15 +364,15 @@ img {
 }
 
 .j-hover-title {
-    margin-bottom: 10px;
+    /*margin-bottom: 10px;*/
     opacity: 0;
     -webkit-transition: 0.5s;
     transition: 0.5s;
-    font-weight: 400;
+    /*font-weight: 400;*/
 }
 
 .j-hover-contents {
-    margin-bottom: 20px;
+    margin-bottom: 24px;
     opacity: 0;
     -webkit-transition: 0.5s;
     transition: 0.5s;
@@ -430,6 +454,7 @@ img {
     align-items: center;
     -webkit-align-items: center;
     /*width: 100%;*/
+    text-transform: uppercase;
     height: 100%;
 }
 
@@ -512,10 +537,15 @@ p.j-title-korean {
 .j-project-text>p.j-body {
     text-transform: none;
     line-height: 1.45em;
+    font-size: 18px;
 }
 
 .j-project-text a.j-icon-arrow-right {
     float: right;
+}
+
+#j-project-01 .j-thumbnail:nth-child(1) {
+    width: 100%;
 }
 
 #j-project-02 .j-thumbnail:nth-child(1) {
@@ -608,12 +638,17 @@ footer {
     width: 100%;
     padding: 4%;
     box-sizing: border-box;
+    text-transform: uppercase;
 }
 
 .j-contact,
 .j-sns {
     float: left;
     margin-right: 70px;
+}
+
+.j-sns {
+  margin-top: 10px;
 }
 
 .j-mail {
@@ -624,6 +659,7 @@ footer {
 
 address {
     float: right;
+    margin-top: 10px;
 }
 
 .j-contact {
