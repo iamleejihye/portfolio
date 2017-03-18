@@ -107,7 +107,8 @@ span.j-title {
 }
 
 .j-project-text p.j-title-korean {
-    font-size: 21px;
+    font-size: 22px;
+    font-weight: 400;
     margin-bottom: 30px;
 }
 
@@ -453,6 +454,7 @@ img {
     align-items: center;
     -webkit-align-items: center;
     /*width: 100%;*/
+    text-transform: uppercase;
     height: 100%;
 }
 
@@ -636,6 +638,7 @@ footer {
     width: 100%;
     padding: 4%;
     box-sizing: border-box;
+    text-transform: uppercase;
 }
 
 .j-contact,
