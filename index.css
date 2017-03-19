@@ -94,7 +94,7 @@ span.j-title {
 .j-body-korean {
     font-size: 20px;
     line-height: 1.9em;
-    color: #858585;
+    color: #656565;
     font-weight: 200;
     letter-spacing: 0;
 }
@@ -651,6 +651,13 @@ p.j-body-korean {
   margin: 60px 0;
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.j-annotation {
+  font-weight: 200;
+  font-size: 19px;
+  color: #9c9c9c;
+  letter-spacing: -0.001em;
 }
 
 /*------------footer------------*/
